@@ -1,0 +1,90 @@
+﻿ID,Data Point,Column Name,Category,ACS Variable
+1,Total Population,pop,Population,B01001_001E
+2,Total Age by Sex Series,agebysex_total_series,Sex by Age,B01001_001E
+3,Total Male,age_total_male,Sex by Age,B01001_002E
+4,Male Under 5,age_m_u5,Sex by Age,B01001_003E
+5,Male 5 to 9,age_m_5to9,Sex by Age,B01001_004E
+6,Male 10 to 14,age_m_10to14,Sex by Age,B01001_005E
+7,Male 15 to 17,age_m_15to17,Sex by Age,B01001_006E
+8,Male 18 and 19,age_m_18to19,Sex by Age,B01001_007E
+9,Male 20,age_m_20,Sex by Age,B01001_008E
+10,Male 21,age_m_21,Sex by Age,B01001_009E
+11,Male 22 to 24,age_m_22to24,Sex by Age,B01001_010E
+12,Male 25 to 29,age_m_25to29,Sex by Age,B01001_011E
+13,Male 30 to 34,age_m_30to34,Sex by Age,B01001_012E
+14,Male 35 to 39,age_m_35to39,Sex by Age,B01001_013E
+15,Male 40 to 44,age_m_40to44,Sex by Age,B01001_014E
+16,Male 45 to 49,age_m_45to49,Sex by Age,B01001_015E
+17,Male 50 to 54,age_m_50to54,Sex by Age,B01001_016E
+18,Male 55 to 59,age_m_55to59,Sex by Age,B01001_017E
+19,Male 60 and 61,age_m_60to61,Sex by Age,B01001_018E
+20,Male 62 and 64,age_m_62to64,Sex by Age,B01001_019E
+21,Male 65 and 66,age_m_65to66,Sex by Age,B01001_020E
+22,Male 67 to 69,age_m_67to69,Sex by Age,B01001_021E
+23,Male 70 to 74,age_m_70to74,Sex by Age,B01001_022E
+24,Male 75 to 79,age_m_75to79,Sex by Age,B01001_023E
+25,Male 80 to 84,age_m_80to84,Sex by Age,B01001_024E
+26,Male 85 Years and Over,age_m_85+,Sex by Age,B01001_025E
+27,Female Total,age_total_female,Sex by Age,B01001_026E
+28,Female Under 5,age_f_u5,Sex by Age,B01001_027E
+29,Female 5 to 9,age_f_5to9,Sex by Age,B01001_028E
+30,Female 10 to 14,age_f_10to14,Sex by Age,B01001_029E
+31,Female 15 to 17,age_f_15to17,Sex by Age,B01001_030E
+32,Female 18 and 19,age_f_18to19,Sex by Age,B01001_031E
+33,Female 20,age_f_20,Sex by Age,B01001_032E
+34,Female 21,age_f_21,Sex by Age,B01001_033E
+35,Female 22 to 24,age_f_22to24,Sex by Age,B01001_034E
+36,Female 25 to 29,age_f_25to29,Sex by Age,B01001_035E
+37,Female 30 to 34,age_f_30to34,Sex by Age,B01001_036E
+38,Female 35 to 39,age_f_35to39,Sex by Age,B01001_037E
+39,Female 40 to 44,age_f_40to44,Sex by Age,B01001_038E
+40,Female 45 to 49,age_f_45to49,Sex by Age,B01001_039E
+41,Female 50 to 54,age_f_50to54,Sex by Age,B01001_040E
+42,Female 55 to 59,age_f_55to59,Sex by Age,B01001_041E
+43,Female 60 and 61,age_f_60to61,Sex by Age,B01001_042E
+44,Female 62 and 64,age_f_62to64,Sex by Age,B01001_043E
+45,Female 65 and 66,age_f_65to66,Sex by Age,B01001_044E
+46,Female 67 to 69,age_f_67to69,Sex by Age,B01001_045E
+47,Female 70 to 74,age_f_70to74,Sex by Age,B01001_046E
+48,Female 75 to 79,age_f_75to79,Sex by Age,B01001_047E
+49,Female 80 to 84,age_f_80to84,Sex by Age,B01001_048E
+50,Female 85 Years and Over,age_f_85+,Sex by Age,B01001_049E
+51,Disability by Sex by Age Series Total,disability_series_total,Disability,B18101_001E
+52,Disability Male Total,disability_total_male,Disability,B18101_002E
+53,Disability Male Under 5 Total,disability_mu5,Disability,B18101_003E
+54,Disability Male Under 5 no Disability,disability_mu5_nodisability,Disability,B18101_004E
+55,Disability Male Under 5 with Disability,disability_mu5_wdisability,Disability,B18101_005E
+56,Disability Male 5 to 17 Total,disability_m5to17,Disability,B18101_006E
+57,Disability Male 5 to 17 no Disability,disability_m5to17_nodisability,Disability,B18101_007E
+58,Disability Male 5 to 17 with Disability,disability_m5to17_wdisability,Disability,B18101_008E
+59,Disability Male 18 to 34 Total,disability_m18to34,Disability,B18101_009E
+60,Disability Male 18 to 34 no Disability,disability_m18to34_nodisability,Disability,B18101_010E
+61,Disability Male 18 to 34 with Disability,disability_m18to34_wdisability,Disability,B18101_011E
+62,Disability Male 35 to 64 Total,disability_m35to64,Disability,B18101_012E
+63,Disability Male 35 to 64 no Disability,disability_m35to64_nodisability,Disability,B18101_013E
+64,Disability Male 35 to 64 with Disability,disability_m35to64_wdisability,Disability,B18101_014E
+65,Disability Male 65 to 74 Total,disability_m65to74,Disability,B18101_015E
+66,Disability Male 65 to 74 no Disability,disability_m65to74_nodisability,Disability,B18101_016E
+67,Disability Male 65 to 74 with Disability,disability_m65to74_wdisability,Disability,B18101_017E
+68,Disability Male 75+ Total,disability_m75+,Disability,B18101_018E
+69,Disability Male 75+ no Disability,disability_m75+_nodisability,Disability,B18101_019E
+70,Disability Male 75+ with Disability,disability_m75+_wdisability,Disability,B18101_020E
+71,Disability Female Total,disability_total_female,Disability,B18101_021E
+72,Disability Female Under 5 Total,disability_fu5,Disability,B18101_022E
+73,Disability Female Under 5 no Disability,disability_fu5_nodisability,Disability,B18101_023E
+74,Disability Female Under 5 with Disability,disability_fu5_wdisability,Disability,B18101_024E
+75,Disability Female 5 to 17 Total,disability_f5to17,Disability,B18101_025E
+76,Disability Female 5 to 17 no Disability,disability_f5to17_nodisability,Disability,B18101_026E
+77,Disability Female 5 to 17 with Disability,disability_f5to17_wdisability,Disability,B18101_027E
+78,Disability Female 18 to 34 Total,disability_f18to34,Disability,B18101_028E
+79,Disability Female 18 to 34 no Disability,disability_f18to34_nodisability,Disability,B18101_029E
+80,Disability Female 18 to 34 with Disability,disability_f18to34_wdisability,Disability,B18101_030E
+81,Disability Female 35 to 64 Total,disability_f35to64,Disability,B18101_031E
+82,Disability Female 35 to 64 no Disability,disability_f35to64_nodisability,Disability,B18101_032E
+83,Disability Female 35 to 64 with Disability,disability_f35to64_wdisability,Disability,B18101_033E
+84,Disability Female 65 to 74 Total,disability_f65to74,Disability,B18101_034E
+85,Disability Female 65 to 74 no Disability,disability_f65to74_nodisability,Disability,B18101_035E
+86,Disability Female 65 to 74 with Disability,disability_f65to74_wdisability,Disability,B18101_036E
+87,Disability Female 75+ Total,disability_f75+,Disability,B18101_037E
+88,Disability Female 75+ no Disability,disability_f75+_nodisability,Disability,B18101_038E
+89,Disability Female 75+ with Disability,disability_f75+_wdisability,Disability,B18101_039E
