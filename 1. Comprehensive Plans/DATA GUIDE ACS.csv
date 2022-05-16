@@ -1,5 +1,4 @@
 ﻿ID,Data Point,Column Name,Category,Sub Category,ACS Variable,Databook,At A Glance Population,At A Glance Housing,At A Glance Economy
-1,Total Population,pop,Population,Population,B01001_001E,1,1,0,0
 2,Total Age by Sex Series,agebysex_total_series,Population,Sex by Age,B01001_001E,1,1,0,0
 3,Total Male,age_total_male,Population,Sex by Age,B01001_002E,1,1,0,0
 4,Male Under 5,age_m_u5,Population,Sex by Age,B01001_003E,1,1,0,0
