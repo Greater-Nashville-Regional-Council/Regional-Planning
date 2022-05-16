@@ -55,7 +55,7 @@ It halts creating and optimizing clusters when either:
 
 In order to determine the number of centroids and clusters for the place data, the elbow method was implemented. This is a way of visualizing the levels of distortion that occur for different scenarios for number of centroids. The distortion levels represent the within-cluster sum of squares. The plot for all Tennessee places can be seen below, where the number of clusters optimal for minimizing distortion is identified as 8.
 
-![Elbow Method](/images/elbowmeth.PNG)
+![Elbow Method](images/elbowmeth.PNG)
 
 Scikit learn's `KMeans` method is used to process the data. Their `fit_predict` method is then implemented to compute cluster centers and predict the cluster index (which cluster the datapoints lie in) for each sample. This index is then assigned as a new column to the initial dataframe. Finally, Coopertown's cluster is identified and peer communities can be examined.
 
@@ -111,16 +111,16 @@ Find screenshots of these Folium maps below. Then, find links where you are able
 
 First, beginning with the places in all of the US that were left over after parameters were enforced, the clusters emerging from the K-Means algorithm in the Southeast US are below. Given the large scale it's difficult to see the colors when examining the entire map.
 
-![allplaces1](/images/allplaces1.PNG)
+![allplaces1](images/allplaces1.PNG)
 
 Then, the Coopertown cluster is in red while the rest of the sample is in green for the same region.
 
-![allplaces2](/images/allplaces2.PNG)
+![allplaces2](images/allplaces2.PNG)
 
 Next, all Tennessee places in the sample visualized by cluster (Pleasant View city shares a border with Coopertown).
 
-![TNplaces1](/images/tnplaces1.PNG)
+![TNplaces1](images/tnplaces1.PNG)
 
 Finally, all Tennessee places where Coopertown's cluster is red and all other sample places are green.
 
-![TNplaces2](/images/tnplaces2.PNG)
+![TNplaces2](images/tnplaces2.PNG)

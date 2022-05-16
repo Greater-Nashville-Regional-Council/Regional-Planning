@@ -1,783 +1,783 @@
 ﻿ID,Data Point,Column Name,Category,Sub Category,ACS Variable,Databook,At A Glance Population,At A Glance Housing,At A Glance Economy
-2,Total Age by Sex Series,agebysex_total_series,Population,Sex by Age,B01001_001E,1,1,0,0
-3,Total Male,age_total_male,Population,Sex by Age,B01001_002E,1,1,0,0
-4,Male Under 5,age_m_u5,Population,Sex by Age,B01001_003E,1,1,0,0
-5,Male 5 to 9,age_m_5to9,Population,Sex by Age,B01001_004E,1,1,0,0
-6,Male 10 to 14,age_m_10to14,Population,Sex by Age,B01001_005E,1,1,0,0
-7,Male 15 to 17,age_m_15to17,Population,Sex by Age,B01001_006E,1,1,0,0
-8,Male 18 and 19,age_m_18to19,Population,Sex by Age,B01001_007E,1,1,0,0
-9,Male 20,age_m_20,Population,Sex by Age,B01001_008E,1,1,0,0
-10,Male 21,age_m_21,Population,Sex by Age,B01001_009E,1,1,0,0
-11,Male 22 to 24,age_m_22to24,Population,Sex by Age,B01001_010E,1,1,0,0
-12,Male 25 to 29,age_m_25to29,Population,Sex by Age,B01001_011E,1,1,0,0
-13,Male 30 to 34,age_m_30to34,Population,Sex by Age,B01001_012E,1,1,0,0
-14,Male 35 to 39,age_m_35to39,Population,Sex by Age,B01001_013E,1,1,0,0
-15,Male 40 to 44,age_m_40to44,Population,Sex by Age,B01001_014E,1,1,0,0
-16,Male 45 to 49,age_m_45to49,Population,Sex by Age,B01001_015E,1,1,0,0
-17,Male 50 to 54,age_m_50to54,Population,Sex by Age,B01001_016E,1,1,0,0
-18,Male 55 to 59,age_m_55to59,Population,Sex by Age,B01001_017E,1,1,0,0
-19,Male 60 and 61,age_m_60to61,Population,Sex by Age,B01001_018E,1,1,0,0
-20,Male 62 and 64,age_m_62to64,Population,Sex by Age,B01001_019E,1,1,0,0
-21,Male 65 and 66,age_m_65to66,Population,Sex by Age,B01001_020E,1,1,0,0
-22,Male 67 to 69,age_m_67to69,Population,Sex by Age,B01001_021E,1,1,0,0
-23,Male 70 to 74,age_m_70to74,Population,Sex by Age,B01001_022E,1,1,0,0
-24,Male 75 to 79,age_m_75to79,Population,Sex by Age,B01001_023E,1,1,0,0
-25,Male 80 to 84,age_m_80to84,Population,Sex by Age,B01001_024E,1,1,0,0
-26,Male 85 Years and Over,age_m_85+,Population,Sex by Age,B01001_025E,1,1,0,0
-27,Female Total,age_total_female,Population,Sex by Age,B01001_026E,1,1,0,0
-28,Female Under 5,age_f_u5,Population,Sex by Age,B01001_027E,1,1,0,0
-29,Female 5 to 9,age_f_5to9,Population,Sex by Age,B01001_028E,1,1,0,0
-30,Female 10 to 14,age_f_10to14,Population,Sex by Age,B01001_029E,1,1,0,0
-31,Female 15 to 17,age_f_15to17,Population,Sex by Age,B01001_030E,1,1,0,0
-32,Female 18 and 19,age_f_18to19,Population,Sex by Age,B01001_031E,1,1,0,0
-33,Female 20,age_f_20,Population,Sex by Age,B01001_032E,1,1,0,0
-34,Female 21,age_f_21,Population,Sex by Age,B01001_033E,1,1,0,0
-35,Female 22 to 24,age_f_22to24,Population,Sex by Age,B01001_034E,1,1,0,0
-36,Female 25 to 29,age_f_25to29,Population,Sex by Age,B01001_035E,1,1,0,0
-37,Female 30 to 34,age_f_30to34,Population,Sex by Age,B01001_036E,1,1,0,0
-38,Female 35 to 39,age_f_35to39,Population,Sex by Age,B01001_037E,1,1,0,0
-39,Female 40 to 44,age_f_40to44,Population,Sex by Age,B01001_038E,1,1,0,0
-40,Female 45 to 49,age_f_45to49,Population,Sex by Age,B01001_039E,1,1,0,0
-41,Female 50 to 54,age_f_50to54,Population,Sex by Age,B01001_040E,1,1,0,0
-42,Female 55 to 59,age_f_55to59,Population,Sex by Age,B01001_041E,1,1,0,0
-43,Female 60 and 61,age_f_60to61,Population,Sex by Age,B01001_042E,1,1,0,0
-44,Female 62 and 64,age_f_62to64,Population,Sex by Age,B01001_043E,1,1,0,0
-45,Female 65 and 66,age_f_65to66,Population,Sex by Age,B01001_044E,1,1,0,0
-46,Female 67 to 69,age_f_67to69,Population,Sex by Age,B01001_045E,1,1,0,0
-47,Female 70 to 74,age_f_70to74,Population,Sex by Age,B01001_046E,1,1,0,0
-48,Female 75 to 79,age_f_75to79,Population,Sex by Age,B01001_047E,1,1,0,0
-49,Female 80 to 84,age_f_80to84,Population,Sex by Age,B01001_048E,1,1,0,0
-50,Female 85 Years and Over,age_f_85+,Population,Sex by Age,B01001_049E,1,1,0,0
-51,White Alone,raceeth_white_alone,Population,Race and Ethnicity,B01001A_001E,1,1,0,0
-52,Black or African American Alone,raceeth_blackafricanamerican_alone,Population,Race and Ethnicity,B01001B_001E,1,1,0,0
-53,American Indian and Alaska Native Alone,raceeth_americanindianalaskanative_alone,Population,Race and Ethnicity,B01001C_001E,1,1,0,0
-54,Asian Alone,raceeth_asian_alone,Population,Race and Ethnicity,B01001D_001E,1,1,0,0
-55,Native Hawaiian and Other Pacific Islander Alone,raceeth_nativehawaiianotherpacificislander_alone,Population,Race and Ethnicity,B01001E_001E,1,1,0,0
-56,Some Other Race Alone,raceeth_someotherrace_alone,Population,Race and Ethnicity,B01001F_001E,1,1,0,0
-57,Two or More Races Alone,raceeth_twoormoreraces_alone,Population,Race and Ethnicity,B01001G_001E,1,1,0,0
-58,White Alone Not Hispanic or Latino,raceeth_whitealone_nothispanicorlatino,Population,Race and Ethnicity,B01001H_001E,1,1,0,0
-59,Hispanic or Latino,raceeth_hispanicorlatino,Population,Race and Ethnicity,B01001I_001E,1,1,0,0
-60,Average Household Size,hhsize_avg,Population,Household,B25010_001E,1,1,0,0
-61,Total for Healthcare Insurance Coverage Status by Sex by Age,healthcoverage_total_healthcare_series,Population,Healthcare,B27001_001E,1,0,0,0
-62,Total Male Health Insurance Coverage,healthcoverage_total_mallhealthcare,Population,Healthcare,B27001_002E,1,0,0,0
-63,Male Under 6 Healthcare Coverage,healthcoverage_mu6_all,Population,Healthcare,B27001_003E,1,0,0,0
-64,Male Under 6 With Health Insurance,healthcoverage_mu6_w,Population,Healthcare,B27001_004E,1,0,0,0
-65,Male Under 6 Without Health Insurance,healthcoverage_mu6_wo,Population,Healthcare,B27001_005E,1,0,0,0
-66,Male 6 to 18  Healthcare Coverage,healthcoverage_m6to18_all,Population,Healthcare,B27001_006E,1,0,0,0
-67,Male 6 to 18 With Health Insurance,healthcoverage_m6to18_w,Population,Healthcare,B27001_007E,1,0,0,0
-68,Male 6 to 18 Without Health Insurance,healthcoverage_m6to18_wo,Population,Healthcare,B27001_008E,1,0,0,0
-69,Male 19 to 25 Healthcare Coverage,healthcoverage_m19to25_all,Population,Healthcare,B27001_009E,1,0,0,0
-70,Male 19 to 25 With Health Insurance,healthcoverage_m19to25_w,Population,Healthcare,B27001_010E,1,0,0,0
-71,Male 19 to 25 Without Health Insurance,healthcoverage_m19to25_wo,Population,Healthcare,B27001_011E,1,0,0,0
-72,Male 26 to 34 Healthcare Coverage,healthcoverage_m26to34_all,Population,Healthcare,B27001_012E,1,0,0,0
-73,Male 26 to 34 With Health Insurance,healthcoverage_m26to34_w,Population,Healthcare,B27001_013E,1,0,0,0
-74,Male 26 to 34 Without Health Insurance,healthcoverage_m26to34_wo,Population,Healthcare,B27001_014E,1,0,0,0
-75,Male 35 to 44 Healthcare Coverage,healthcoverage_m35to44_all,Population,Healthcare,B27001_015E,1,0,0,0
-76,Male 35 to 44 With Health Insurance,healthcoverage_m35to44_w,Population,Healthcare,B27001_016E,1,0,0,0
-77,Male 35 to 44 Without Health Insurance,healthcoverage_m35to44_wo,Population,Healthcare,B27001_017E,1,0,0,0
-78,Male 45 to 54 Healthcare Coverage,healthcoverage_m45to54_all,Population,Healthcare,B27001_018E,1,0,0,0
-79,Male 45 to 54 With Health Insurance,healthcoverage_m45to54_w,Population,Healthcare,B27001_019E,1,0,0,0
-80,Male 45 to 54 Without Health Insurance,healthcoverage_m45to54_wo,Population,Healthcare,B27001_020E,1,0,0,0
-81,Male 55 to 64 Healthcare Coverage,healthcoverage_m55to64_all,Population,Healthcare,B27001_021E,1,0,0,0
-82,Male 55 to 64 With Health Insurance,healthcoverage_m55to64_w,Population,Healthcare,B27001_022E,1,0,0,0
-83,Male 55 to 64 Without Health Insurance,healthcoverage_m55to64_wo,Population,Healthcare,B27001_023E,1,0,0,0
-84,Male 65 to 74 Healthcare Coverage,healthcoverage_m65to74_all,Population,Healthcare,B27001_024E,1,0,0,0
-85,Male 65 to 74 With Health Insurance,healthcoverage_m65to74_w,Population,Healthcare,B27001_025E,1,0,0,0
-86,Male 65 to 74 Without Health Insurance,healthcoverage_m65to74_wo,Population,Healthcare,B27001_026E,1,0,0,0
-87,Male 75 and Over Healthcare Coverage,healthcoverage_m75+_all,Population,Healthcare,B27001_027E,1,0,0,0
-88,Male 75 and Over With Health Insurance,healthcoverage_m75+_w,Population,Healthcare,B27001_028E,1,0,0,0
-89,Male 75 and Over Without Health Insurance,healthcoverage_m75+_wo,Population,Healthcare,B27001_029E,1,0,0,0
-90,Total Female Health Insurance Coverage,healthcoverage_total_fallhealthcare,Population,Healthcare,B27001_030E,1,0,0,0
-91,Female Under 6 Healthcare Coverage,healthcoverage_fu6_all,Population,Healthcare,B27001_031E,1,0,0,0
-92,Female Under 6 With Health Insurance,healthcoverage_fu6_w,Population,Healthcare,B27001_032E,1,0,0,0
-93,Female Under 6 Without Health Insurance,healthcoverage_fu6_wo,Population,Healthcare,B27001_033E,1,0,0,0
-94,Female 6 to 18  Healthcare Coverage,healthcoverage_f6to18_all,Population,Healthcare,B27001_034E,1,0,0,0
-95,Female 6 to 18 With Health Insurance,healthcoverage_f6to18_w,Population,Healthcare,B27001_035E,1,0,0,0
-96,Female 6 to 18 Without Health Insurance,healthcoverage_f6to18_wo,Population,Healthcare,B27001_036E,1,0,0,0
-97,Female 19 to 25 Healthcare Coverage,healthcoverage_f19to25_all,Population,Healthcare,B27001_037E,1,0,0,0
-98,Female 19 to 25 With Health Insurance,healthcoverage_f19to25_w,Population,Healthcare,B27001_038E,1,0,0,0
-99,Female 19 to 25 Without Health Insurance,healthcoverage_f19to25_wo,Population,Healthcare,B27001_039E,1,0,0,0
-100,Female 26 to 34 Healthcare Coverage,healthcoverage_f26to34_all,Population,Healthcare,B27001_040E,1,0,0,0
-101,Female 26 to 34 With Health Insurance,healthcoverage_f26to34_w,Population,Healthcare,B27001_041E,1,0,0,0
-102,Female 26 to 34 Without Health Insurance,healthcoverage_f26to34_wo,Population,Healthcare,B27001_042E,1,0,0,0
-103,Female 35 to 44 Healthcare Coverage,healthcoverage_f35to44_all,Population,Healthcare,B27001_043E,1,0,0,0
-104,Female 35 to 44 With Health Insurance,healthcoverage_f35to44_w,Population,Healthcare,B27001_044E,1,0,0,0
-105,Female 35 to 44 Without Health Insurance,healthcoverage_f35to44_wo,Population,Healthcare,B27001_045E,1,0,0,0
-106,Female 45 to 54 Healthcare Coverage,healthcoverage_f45to54_all,Population,Healthcare,B27001_046E,1,0,0,0
-107,Female 45 to 54 With Health Insurance,healthcoverage_f45to54_w,Population,Healthcare,B27001_047E,1,0,0,0
-108,Female 45 to 54 Without Health Insurance,healthcoverage_f45to54_wo,Population,Healthcare,B27001_048E,1,0,0,0
-109,Female 55 to 64 Healthcare Coverage,healthcoverage_f55to64_all,Population,Healthcare,B27001_049E,1,0,0,0
-110,Female 55 to 64 With Health Insurance,healthcoverage_f55to64_w,Population,Healthcare,B27001_050E,1,0,0,0
-111,Female 55 to 64 Without Health Insurance,healthcoverage_f55to64_wo,Population,Healthcare,B27001_051E,1,0,0,0
-112,Female 65 to 74 Healthcare Coverage,healthcoverage_f65to74_all,Population,Healthcare,B27001_052E,1,0,0,0
-113,Female 65 to 74 With Health Insurance,healthcoverage_f65to74_w,Population,Healthcare,B27001_053E,1,0,0,0
-114,Female 65 to 74 Without Health Insurance,healthcoverage_f65to74_wo,Population,Healthcare,B27001_054E,1,0,0,0
-115,Female 75 and Over Healthcare Coverage,healthcoverage_f75+_all,Population,Healthcare,B27001_055E,1,0,0,0
-116,Female 75 and Over With Health Insurance,healthcoverage_f75+_w,Population,Healthcare,B27001_056E,1,0,0,0
-117,Female 75 and Over Without Health Insurance,healthcoverage_f75+_wo,Population,Healthcare,B27001_057E,1,0,0,0
-118,Total for Private Healthcare Insurance Coverage Status by Sex by Age,healthcoverage_total_privatehealthcare_series,Population,Healthcare,B27002_001E,1,0,0,0
-119,Total Male Private Health Insurance Coverage,healthcoverage_total_mprivate,Population,Healthcare,B27002_002E,1,0,0,0
-120,Male Under 6 Private Healthcare Coverage,healthcoverage_mu6_privateall,Population,Healthcare,B27002_003E,1,0,0,0
-121,Male Under 6 With Private Health Insurance,healthcoverage_mu6_wprivate,Population,Healthcare,B27002_004E,1,0,0,0
-122,Male Under 6 Without Private Health Insurance,healthcoverage_mu6_woprivate,Population,Healthcare,B27002_005E,1,0,0,0
-123,Male 6 to 18  Private Healthcare Coverage,healthcoverage_m6to18_privateall,Population,Healthcare,B27002_006E,1,0,0,0
-124,Male 6 to 18 With Private Health Insurance,healthcoverage_m6to18_wprivate,Population,Healthcare,B27002_007E,1,0,0,0
-125,Male 6 to 18 Without Private Health Insurance,healthcoverage_m6to18_woprivate,Population,Healthcare,B27002_008E,1,0,0,0
-126,Male 19 to 25 Private Healthcare Coverage,healthcoverage_m19to25_privateall,Population,Healthcare,B27002_009E,1,0,0,0
-127,Male 19 to 25 With Private Health Insurance,healthcoverage_m19to25_wprivate,Population,Healthcare,B27002_010E,1,0,0,0
-128,Male 19 to 25 Without Private Health Insurance,healthcoverage_m19to25_woprivate,Population,Healthcare,B27002_011E,1,0,0,0
-129,Male 26 to 34 Private Healthcare Coverage,healthcoverage_m26to34_privateall,Population,Healthcare,B27002_012E,1,0,0,0
-130,Male 26 to 34 With Private Health Insurance,healthcoverage_m26to34_wprivate,Population,Healthcare,B27002_013E,1,0,0,0
-131,Male 26 to 34 Without Private Health Insurance,healthcoverage_m26to34_woprivate,Population,Healthcare,B27002_014E,1,0,0,0
-132,Male 35 to 44 Private Healthcare Coverage,healthcoverage_m35to44_privateall,Population,Healthcare,B27002_015E,1,0,0,0
-133,Male 35 to 44 With Private Health Insurance,healthcoverage_m35to44_wprivate,Population,Healthcare,B27002_016E,1,0,0,0
-134,Male 35 to 44 Without Private Health Insurance,healthcoverage_m35to44_woprivate,Population,Healthcare,B27002_017E,1,0,0,0
-135,Male 45 to 54 Private Healthcare Coverage,healthcoverage_m45to54_privateall,Population,Healthcare,B27002_018E,1,0,0,0
-136,Male 45 to 54 With Private Health Insurance,healthcoverage_m45to54_wprivate,Population,Healthcare,B27002_019E,1,0,0,0
-137,Male 45 to 54 Without Private Health Insurance,healthcoverage_m45to54_woprivate,Population,Healthcare,B27002_020E,1,0,0,0
-138,Male 55 to 64 Private Healthcare Coverage,healthcoverage_m55to64_privateall,Population,Healthcare,B27002_021E,1,0,0,0
-139,Male 55 to 64 With Private Health Insurance,healthcoverage_m55to64_wprivate,Population,Healthcare,B27002_022E,1,0,0,0
-140,Male 55 to 64 Without Private Health Insurance,healthcoverage_m55to64_woprivate,Population,Healthcare,B27002_023E,1,0,0,0
-141,Male 65 to 74 Private Healthcare Coverage,healthcoverage_m65to74_privateall,Population,Healthcare,B27002_024E,1,0,0,0
-142,Male 65 to 74 With Private Health Insurance,healthcoverage_m65to74_wprivate,Population,Healthcare,B27002_025E,1,0,0,0
-143,Male 65 to 74 Without Private Health Insurance,healthcoverage_m65to74_woprivate,Population,Healthcare,B27002_026E,1,0,0,0
-144,Male 75 and Over Private Healthcare Coverage,healthcoverage_m75+_privateall,Population,Healthcare,B27002_027E,1,0,0,0
-145,Male 75 and Over With Private Health Insurance,healthcoverage_m75+_wprivate,Population,Healthcare,B27002_028E,1,0,0,0
-146,Male 75 and Over Without Private Health Insurance,healthcoverage_m75+_woprivate,Population,Healthcare,B27002_029E,1,0,0,0
-147,Total Female Private Health Insurance Coverage,healthcoverage_total_fprivate,Population,Healthcare,B27002_030E,1,0,0,0
-148,Female Under 6 Private Healthcare Coverage,healthcoverage_fu6_privateall,Population,Healthcare,B27002_031E,1,0,0,0
-149,Female Under 6 With Private Health Insurance,healthcoverage_fu6_wprivate,Population,Healthcare,B27002_032E,1,0,0,0
-150,Female Under 6 Without Private Health Insurance,healthcoverage_fu6_woprivate,Population,Healthcare,B27002_033E,1,0,0,0
-151,Female 6 to 18  Private Healthcare Coverage,healthcoverage_f6to18_privateall,Population,Healthcare,B27002_034E,1,0,0,0
-152,Female 6 to 18 With Private Health Insurance,healthcoverage_f6to18_wprivate,Population,Healthcare,B27002_035E,1,0,0,0
-153,Female 6 to 18 Without Private Health Insurance,healthcoverage_f6to18_woprivate,Population,Healthcare,B27002_036E,1,0,0,0
-154,Female 19 to 25 Private Healthcare Coverage,healthcoverage_f19to25_privateall,Population,Healthcare,B27002_037E,1,0,0,0
-155,Female 19 to 25 With Private Health Insurance,healthcoverage_f19to25_wprivate,Population,Healthcare,B27002_038E,1,0,0,0
-156,Female 19 to 25 Without Private Health Insurance,healthcoverage_f19to25_woprivate,Population,Healthcare,B27002_039E,1,0,0,0
-157,Female 26 to 34 Private Healthcare Coverage,healthcoverage_f26to34_privateall,Population,Healthcare,B27002_040E,1,0,0,0
-158,Female 26 to 34 With Private Health Insurance,healthcoverage_f26to34_wprivate,Population,Healthcare,B27002_041E,1,0,0,0
-159,Female 26 to 34 Without Private Health Insurance,healthcoverage_f26to34_woprivate,Population,Healthcare,B27002_042E,1,0,0,0
-160,Female 35 to 44 Private Healthcare Coverage,healthcoverage_f35to44_privateall,Population,Healthcare,B27002_043E,1,0,0,0
-161,Female 35 to 44 With Private Health Insurance,healthcoverage_f35to44_wprivate,Population,Healthcare,B27002_044E,1,0,0,0
-162,Female 35 to 44 Without Private Health Insurance,healthcoverage_f35to44_woprivate,Population,Healthcare,B27002_045E,1,0,0,0
-163,Female 45 to 54 Private Healthcare Coverage,healthcoverage_f45to54_privateall,Population,Healthcare,B27002_046E,1,0,0,0
-164,Female 45 to 54 With Private Health Insurance,healthcoverage_f45to54_wprivate,Population,Healthcare,B27002_047E,1,0,0,0
-165,Female 45 to 54 Without Private Health Insurance,healthcoverage_f45to54_woprivate,Population,Healthcare,B27002_048E,1,0,0,0
-166,Female 55 to 64 Private Healthcare Coverage,healthcoverage_f55to64_privateall,Population,Healthcare,B27002_049E,1,0,0,0
-167,Female 55 to 64 With Private Health Insurance,healthcoverage_f55to64_wprivate,Population,Healthcare,B27002_050E,1,0,0,0
-168,Female 55 to 64 Without Private Health Insurance,healthcoverage_f55to64_woprivate,Population,Healthcare,B27002_051E,1,0,0,0
-169,Female 65 to 74 Private Healthcare Coverage,healthcoverage_f65to74_privateall,Population,Healthcare,B27002_052E,1,0,0,0
-170,Female 65 to 74 With Private Health Insurance,healthcoverage_f65to74_wprivate,Population,Healthcare,B27002_053E,1,0,0,0
-171,Female 65 to 74 Without Private Health Insurance,healthcoverage_f65to74_woprivate,Population,Healthcare,B27002_054E,1,0,0,0
-172,Female 75 and Over Private Healthcare Coverage,healthcoverage_f75+_privateall,Population,Healthcare,B27002_055E,1,0,0,0
-173,Female 75 and Over With Private Health Insurance,healthcoverage_f75+_wprivate,Population,Healthcare,B27002_056E,1,0,0,0
-174,Female 75 and Over Without Private Health Insurance,healthcoverage_f75+_woprivate,Population,Healthcare,B27002_057E,1,0,0,0
-175,Total for Public Healthcare Insurance Coverage Status by Sex by Age,healthcoverage_total_publichealthcare_series,Population,Healthcare,B27003_001E,1,0,0,0
-176,Total Male Public Health Insurance Coverage,healthcoverage_total_mpublic,Population,Healthcare,B27003_002E,1,0,0,0
-177,Male Under 6 Public Healthcare Coverage,healthcoverage_mu6_publicall,Population,Healthcare,B27003_003E,1,0,0,0
-178,Male Under 6 With Public Health Insurance,healthcoverage_mu6_wpublic,Population,Healthcare,B27003_004E,1,0,0,0
-179,Male Under 6 Without Public Health Insurance,healthcoverage_mu6_wopublic,Population,Healthcare,B27003_005E,1,0,0,0
-180,Male 6 to 18  Public Healthcare Coverage,healthcoverage_m6to18_publicall,Population,Healthcare,B27003_006E,1,0,0,0
-181,Male 6 to 18 With Public Health Insurance,healthcoverage_m6to18_wpublic,Population,Healthcare,B27003_007E,1,0,0,0
-182,Male 6 to 18 Without Public Health Insurance,healthcoverage_m6to18_wopublic,Population,Healthcare,B27003_008E,1,0,0,0
-183,Male 19 to 25 Public Healthcare Coverage,healthcoverage_m19to25_publicall,Population,Healthcare,B27003_009E,1,0,0,0
-184,Male 19 to 25 With Public Health Insurance,healthcoverage_m19to25_wpublic,Population,Healthcare,B27003_010E,1,0,0,0
-185,Male 19 to 25 Without Public Health Insurance,healthcoverage_m19to25_wopublic,Population,Healthcare,B27003_011E,1,0,0,0
-186,Male 26 to 34 Public Healthcare Coverage,healthcoverage_m26to34_publicall,Population,Healthcare,B27003_012E,1,0,0,0
-187,Male 26 to 34 With Public Health Insurance,healthcoverage_m26to34_wpublic,Population,Healthcare,B27003_013E,1,0,0,0
-188,Male 26 to 34 Without Public Health Insurance,healthcoverage_m26to34_wopublic,Population,Healthcare,B27003_014E,1,0,0,0
-189,Male 35 to 44 Public Healthcare Coverage,healthcoverage_m35to44_publicall,Population,Healthcare,B27003_015E,1,0,0,0
-190,Male 35 to 44 With Public Health Insurance,healthcoverage_m35to44_wpublic,Population,Healthcare,B27003_016E,1,0,0,0
-191,Male 35 to 44 Without Public Health Insurance,healthcoverage_m35to44_wopublic,Population,Healthcare,B27003_017E,1,0,0,0
-192,Male 45 to 54 Public Healthcare Coverage,healthcoverage_m45to54_publicall,Population,Healthcare,B27003_018E,1,0,0,0
-193,Male 45 to 54 With Public Health Insurance,healthcoverage_m45to54_wpublic,Population,Healthcare,B27003_019E,1,0,0,0
-194,Male 45 to 54 Without Public Health Insurance,healthcoverage_m45to54_wopublic,Population,Healthcare,B27003_020E,1,0,0,0
-195,Male 55 to 64 Public Healthcare Coverage,healthcoverage_m55to64_publicall,Population,Healthcare,B27003_021E,1,0,0,0
-196,Male 55 to 64 With Public Health Insurance,healthcoverage_m55to64_wpublic,Population,Healthcare,B27003_022E,1,0,0,0
-197,Male 55 to 64 Without Public Health Insurance,healthcoverage_m55to64_wopublic,Population,Healthcare,B27003_023E,1,0,0,0
-198,Male 65 to 74 Public Healthcare Coverage,healthcoverage_m65to74_publicall,Population,Healthcare,B27003_024E,1,0,0,0
-199,Male 65 to 74 With Public Health Insurance,healthcoverage_m65to74_wpublic,Population,Healthcare,B27003_025E,1,0,0,0
-200,Male 65 to 74 Without Public Health Insurance,healthcoverage_m65to74_wopublic,Population,Healthcare,B27003_026E,1,0,0,0
-201,Male 75 and Over Public Healthcare Coverage,healthcoverage_m75+_publicall,Population,Healthcare,B27003_027E,1,0,0,0
-202,Male 75 and Over With Public Health Insurance,healthcoverage_m75+_wpublic,Population,Healthcare,B27003_028E,1,0,0,0
-203,Male 75 and Over Without Public Health Insurance,healthcoverage_m75+_wopublic,Population,Healthcare,B27003_029E,1,0,0,0
-204,Total Female Public Health Insurance Coverage,healthcoverage_total_fpublic,Population,Healthcare,B27003_030E,1,0,0,0
-205,Female Under 6 Public Healthcare Coverage,healthcoverage_fu6_publicall,Population,Healthcare,B27003_031E,1,0,0,0
-206,Female Under 6 With Public Health Insurance,healthcoverage_fu6_wpublic,Population,Healthcare,B27003_032E,1,0,0,0
-207,Female Under 6 Without Public Health Insurance,healthcoverage_fu6_wopublic,Population,Healthcare,B27003_033E,1,0,0,0
-208,Female 6 to 18  Public Healthcare Coverage,healthcoverage_f6to18_publicall,Population,Healthcare,B27003_034E,1,0,0,0
-209,Female 6 to 18 With Public Health Insurance,healthcoverage_f6to18_wpublic,Population,Healthcare,B27003_035E,1,0,0,0
-210,Female 6 to 18 Without Public Health Insurance,healthcoverage_f6to18_wopublic,Population,Healthcare,B27003_036E,1,0,0,0
-211,Female 19 to 25 Public Healthcare Coverage,healthcoverage_f19to25_publicall,Population,Healthcare,B27003_037E,1,0,0,0
-212,Female 19 to 25 With Public Health Insurance,healthcoverage_f19to25_wpublic,Population,Healthcare,B27003_038E,1,0,0,0
-213,Female 19 to 25 Without Public Health Insurance,healthcoverage_f19to25_wopublic,Population,Healthcare,B27003_039E,1,0,0,0
-214,Female 26 to 34 Public Healthcare Coverage,healthcoverage_f26to34_publicall,Population,Healthcare,B27003_040E,1,0,0,0
-215,Female 26 to 34 With Public Health Insurance,healthcoverage_f26to34_wpublic,Population,Healthcare,B27003_041E,1,0,0,0
-216,Female 26 to 34 Without Public Health Insurance,healthcoverage_f26to34_wopublic,Population,Healthcare,B27003_042E,1,0,0,0
-217,Female 35 to 44 Public Healthcare Coverage,healthcoverage_f35to44_publicall,Population,Healthcare,B27003_043E,1,0,0,0
-218,Female 35 to 44 With Public Health Insurance,healthcoverage_f35to44_wpublic,Population,Healthcare,B27003_044E,1,0,0,0
-219,Female 35 to 44 Without Public Health Insurance,healthcoverage_f35to44_wopublic,Population,Healthcare,B27003_045E,1,0,0,0
-220,Female 45 to 54 Public Healthcare Coverage,healthcoverage_f45to54_publicall,Population,Healthcare,B27003_046E,1,0,0,0
-221,Female 45 to 54 With Public Health Insurance,healthcoverage_f45to54_wpublic,Population,Healthcare,B27003_047E,1,0,0,0
-222,Female 45 to 54 Without Public Health Insurance,healthcoverage_f45to54_wopublic,Population,Healthcare,B27003_048E,1,0,0,0
-223,Female 55 to 64 Public Healthcare Coverage,healthcoverage_f55to64_publicall,Population,Healthcare,B27003_049E,1,0,0,0
-224,Female 55 to 64 With Public Health Insurance,healthcoverage_f55to64_wpublic,Population,Healthcare,B27003_050E,1,0,0,0
-225,Female 55 to 64 Without Public Health Insurance,healthcoverage_f55to64_wopublic,Population,Healthcare,B27003_051E,1,0,0,0
-226,Female 65 to 74 Public Healthcare Coverage,healthcoverage_f65to74_publicall,Population,Healthcare,B27003_052E,1,0,0,0
-227,Female 65 to 74 With Public Health Insurance,healthcoverage_f65to74_wpublic,Population,Healthcare,B27003_053E,1,0,0,0
-228,Female 65 to 74 Without Public Health Insurance,healthcoverage_f65to74_wopublic,Population,Healthcare,B27003_054E,1,0,0,0
-229,Female 75 and Over Public Healthcare Coverage,healthcoverage_f75+_publicall,Population,Healthcare,B27003_055E,1,0,0,0
-230,Female 75 and Over With Public Health Insurance,healthcoverage_f75+_wpublic,Population,Healthcare,B27003_056E,1,0,0,0
-231,Female 75 and Over Without Public Health Insurance,healthcoverage_f75+_wopublic,Population,Healthcare,B27003_057E,1,0,0,0
-232,Total for Poverty Status in the Past 12 Months by Sex by Age,poverty_total_bysexbyage_series,Population,Poverty,B17001_001E,1,1,0,0
-233,Income in the Past 12 Months Below Poverty Level,poverty_belowlevel,Population,Poverty,B17001_002E,1,1,0,0
-234,Housing Units,units_allhousing,Housing,Housing,B25001_001E,1,0,1,0
-235,Total Occupancy Status Series,occupancy_total_series,Housing,Occupancy,B25002_001E,1,0,1,0
-236,Occupied Units,occupancy_occupiedunits,Housing,Occupancy,B25002_002E,1,0,0,0
-237,Vacant Units,occupancy_vacantunits,Housing,Occupancy,B25002_003E,1,0,0,0
-238,Total Tenure Series,tenure_total_series,Housing,Tenure,B25003_001E,1,0,0,0
-239,Owner Occupied Units,tenure_owneroccunits,Housing,Tenure,B25003_002E,1,0,0,0
-240,Renter Occupied Units,tenure_renteroccunits,Housing,Tenure,B25003_003E,1,0,0,0
-241,Total for Units in Structure,units_total_series,Housing,Units in Structure,B25024_001E,1,0,1,0
-242,1 Detached Unit in Structure,units_one_detached,Housing,Units in Structure,B25024_002E,1,0,0,0
-243,1 Attached Unit in Structure,units_one_attached,Housing,Units in Structure,B25024_003E,1,0,0,0
-244,2 Units in Structure,units_two,Housing,Units in Structure,B25024_004E,1,0,0,0
-245,3 or 4 Units in Structure,units_threetofour,Housing,Units in Structure,B25024_005E,1,0,0,0
-246,5 to 9 Units in Structure,units_fivetonine,Housing,Units in Structure,B25024_006E,1,0,0,0
-247,10 to 19 Units in Structure,units_tentonineteen,Housing,Units in Structure,B25024_007E,1,0,0,0
-248,20 to 49 Units in Structure,units_twentytofortynine,Housing,Units in Structure,B25024_008E,1,0,0,0
-249,50 or More Units in Structure,units_fiftyormore,Housing,Units in Structure,B25024_009E,1,0,0,0
-250,Mobile Home Unit,units_mobilehome,Housing,Units in Structure,B25024_010E,1,0,0,0
-251,"Boat, RV, Van etc. Unit",units_boatrvvanetc,Housing,Units in Structure,B25024_011E,1,0,0,0
-252,Total Household Type Series,hhtype_total_series,Housing,Household Type,B11001_001E,1,0,1,0
-253,Family Households,hhtype_familyhh,Housing,Household Type,B11001_002E,1,0,1,0
-254,Family Household Married Couple Family,hhtype_familyhh_marriedcouplefam,Housing,Household Type,B11001_003E,1,0,1,0
-255,Family Households Other Family,hhtype_familyhh_otherfam,Housing,Household Type,B11001_004E,1,0,1,0
-256,Family Households Male Householder No Spouse,hhtype_familyhh_malenospouse,Housing,Household Type,B11001_005E,1,0,1,0
-257,Family Households Female Householder No Spouse,hhtype_familyhh_femalenospouse,Housing,Household Type,B11001_006E,1,0,1,0
-258,Nonfamily Households,hhtype_nonfamhh,Housing,Household Type,B11001_007E,1,0,1,0
-259,Nonfamily Household Householder Living Alone,hhtype_nonfamhh_householderalone,Housing,Household Type,B11001_008E,1,0,1,0
-260,Nonfamily Household Householder Not Living Alone,hhtype_nonfamhh_householdernotalone,Housing,Household Type,B11001_009E,1,0,1,0
-261,Median Household Income,hhincome_median,Housing,Housing,B19013_001E,1,0,1,0
-262,Total Mortgage Status by Selected Monthly Owner Cost as a Percentage of Household Income in the Past 12 Months Series,housingcost_total_selectedownercosts%hhincome_series,Housing,Cost Burden,B25091_001E,1,0,1,0
-263,Total Percent Owner Costs with a Mortgage Series,housingcost_total%ownercostwmortgage_series,Housing,Cost Burden,B25091_002E,1,0,1,0
-264,Housing Units with a Mortgage 30 to 34.9 Percent,housingcost_%ownercost30to34.9_wmortgage,Housing,Cost Burden,B25091_008E,1,0,1,0
-265,Housing Units with a Mortgage 35 to 39.9 Percent,housingcost_%ownercost35to39.9_wmortgage,Housing,Cost Burden,B25091_009E,1,0,1,0
-266,Housing Units with a Mortgage 40 to 49.9 Percent,housingcost_%ownercost40to49.9_wmortgage,Housing,Cost Burden,B25091_010E,1,0,1,0
-267,Housing Units with a Mortgage 50 or More Percent,housingcost_%ownercost50+_wmortgage,Housing,Cost Burden,B25091_011E,1,0,1,0
-268,Total Percent Owner Costs without a Mortgage Series,housingcost_total%ownercostwomortgage_series,Housing,Cost Burden,B25091_013E,1,0,1,0
-269,Housing Units without a Mortgage 30 to 34.9 Percent,housingcost_%ownercost30to34.9_womortgage,Housing,Cost Burden,B25091_019E,1,0,1,0
-270,Housing Units without a Mortgage 35 to 39.9 Percent,housingcost_%ownercost35to39.9_womortgage,Housing,Cost Burden,B25091_020E,1,0,1,0
-271,Housing Units without a Mortgage 40 to 49.9 Percent,housingcost_%ownercost40to49.9_womortgage,Housing,Cost Burden,B25091_021E,1,0,1,0
-272,Housing Units without a Mortgage 50 or More Percent,housingcost_%ownercost50+_womortgage,Housing,Cost Burden,B25091_022E,1,0,1,0
-273,Total Gross Rent as Percentage of Household Income in Past 12 Months Series,housingcost_total_rent%hhincome_series,Housing,Cost Burden,B25070_001E,1,0,1,0
-274,Gross Rent 30 to 34.9 Percent of Household Income,housingcost_%rentercost30to34.9,Housing,Cost Burden,B25070_007E,1,0,1,0
-275,Gross Rent 35 to 39.9 Percent of Household Income,housingcost_%rentercost35to39.9,Housing,Cost Burden,B25070_008E,1,0,1,0
-276,Gross Rent 40 to 49.9 Percent of Household Income,housingcost_%rentercost40to49.9,Housing,Cost Burden,B25070_009E,1,0,1,0
-277,Gross Rent 50 Percent or More of Household Income,housingcost_%rentercost50+,Housing,Cost Burden,B25070_010E,1,0,1,0
-278,Median Value for Owner Occupied Units with a Mortgage,housingcost_medvalue_ownerocc_wmortgage,Housing,Home Value,B25097_002E,1,0,0,0
-279,Median Value for Owner Occupied Units without a Mortgage,housingcost_medvalue_ownerocc_womortgage,Housing,Home Value,B25097_003E,1,0,0,0
-280,Median Gross Rent Renter Occupied,housingcost_mediangrossrent_renteroccupied,Housing,Home Value,B25031_001E,1,0,1,0
-281,Total Year Structure Built Series,structures_total_yearbuilt_series,Housing,Year Structure Built,B25034_001E,1,0,0,0
-282,Structures Built 2014 or Later,structures_built2014orlater,Housing,Year Structure Built,B25034_002E,1,0,0,0
-283,Structures Built 2010 to 2013,structures_built2010to2013,Housing,Year Structure Built,B25034_003E,1,0,0,0
-284,Structures Built 2000 to 2009,structures_built2000to2009,Housing,Year Structure Built,B25034_004E,1,0,0,0
-285,Structures Built 1990 to 1999,structures_built1990to1999,Housing,Year Structure Built,B25034_005E,1,0,0,0
-286,Structures Built 1980 to 1989,structures_built1980to1989,Housing,Year Structure Built,B25034_006E,1,0,0,0
-287,Structures Built 1970 to 1979,structures_built1970to1979,Housing,Year Structure Built,B25034_007E,1,0,0,0
-288,Structures Built 1960 to 1969,structures_built1960to1969,Housing,Year Structure Built,B25034_008E,1,0,0,0
-289,Structures Built 1950 to 1959,structures_built1950to1959,Housing,Year Structure Built,B25034_009E,1,0,0,0
-290,Structures Built 1940 to 1949,structures_built1940to1949,Housing,Year Structure Built,B25034_010E,1,0,0,0
-291,Structures Built 1939 or Earlier,structures_built1939orearlier,Housing,Year Structure Built,B25034_011E,1,0,0,0
-292,Median Year Structure Built,structures_medianyearbuilt,Housing,Year Structure Built,B25035_001E,1,0,0,0
-293,Total Sex of Workers by Means of Transportation to Work Series,commute_ total_meansoftransportationtowork_series,Transportation,Commute,B08006_001E,1,0,0,0
-294,Car Truck or Van Commute,commute_cartruckvan,Transportation,Commute,B08006_002E,1,0,0,0
-295,Car Truck or Van Drove Alone Commute,commute_cartruckvan_drovealone,Transportation,Commute,B08006_003E,1,0,0,0
-296,Car Truck or Van Carpooled Commute,commute_cartruckvan_carpooled,Transportation,Commute,B08006_004E,1,0,0,0
-297,Car Truck or Van 2 Person Carpooled Commute,commute_cartruckvan_carpooled_2ppl,Transportation,Commute,B08006_005E,1,0,0,0
-298,Car Truck or Van 3 Person Carpooled Commute,commute_cartruckvan_carpooled_3ppl,Transportation,Commute,B08006_006E,1,0,0,0
-299,Car Truck or Van 4 or More Person Carpooled Commute,commute_cartruckvan_carpooled_4ormoreppl,Transportation,Commute,B08006_007E,1,0,0,0
-300,Public Transportation Excluding Taxicab Commute,commute_publictransportation,Transportation,Commute,B08006_008E,1,0,0,0
-301,Public Transportation Bus Commute,commute_publictransportation_bus,Transportation,Commute,B08006_009E,1,0,0,0
-302,Public Transportation Subway or Elevated Rail Commute,commute_publictransportation_subwayorelevatedrail,Transportation,Commute,B08006_010E,1,0,0,0
-303,Public Transportation Long Distance Train or Commuter Rail Commute,commute_publictransportation_longdistancetrainorcommuterrail,Transportation,Commute,B08006_011E,1,0,0,0
-304,Public Transportation Light Rail Streetcar or Trolley Commute,commute_publictransportation_lightrailstreetcarortrolley,Transportation,Commute,B08006_012E,1,0,0,0
-305,Public Transportation Ferryboat Commute,commute_publictransportation_ferryboat,Transportation,Commute,B08006_013E,1,0,0,0
-306,Bicycle Commute,commute_bicycle,Transportation,Commute,B08006_014E,1,0,0,0
-307,Walked Commute,commute_walk,Transportation,Commute,B08006_015E,1,0,0,0
-308,Taxicab Motorcycle or Other Means Commute,commute_taxicabmotorcycleother,Transportation,Commute,B08006_016E,1,0,0,0
-309,Worked from Home Commute,commute_workedfromhome,Transportation,Commute,B08006_017E,1,0,0,0
-310,Total Sex of Workers by Vehicles Available Series,vehicles_total_series2,Transportation,Vehicles,B08014_001E,1,0,0,0
-311,No Vehicle Available,vehicles_none,Transportation,Vehicles,B08014_002E,1,0,0,0
-312,One Vehicle Available,vehicles_one,Transportation,Vehicles,B08014_003E,1,0,0,0
-313,Two Vehicles Available,vehicles_two,Transportation,Vehicles,B08014_004E,1,0,0,0
-314,Three Vehicles Available,vehicles_three,Transportation,Vehicles,B08014_005E,1,0,0,0
-315,Four Vehicles Available,vehicles_four,Transportation,Vehicles,B08014_006E,1,0,0,0
-316,Five or More Vehicles Available,vehicles_fiveormore,Transportation,Vehicles,B08014_007E,1,0,0,0
-317,Total Foreign Born Place of Birth Series,foreignborn_total,Population,Diversity,B05006_001E,1,0,0,0
-318,Europe,fb_europe,Population,Diversity,B05006_002E,1,0,0,0
-319,"Europe, Northern Europe",fb_eur_northern,Population,Diversity,B05006_003E,1,0,0,0
-320,"Europe, Northern Europe, Ireland",fb_eur_n_ireland,Population,Diversity,B05006_004E,1,0,0,0
-321,"Europe, Northern Europe, Denmark",fb_eur_n_denmark,Population,Diversity,B05006_005E,1,0,0,0
-322,"Europe, Northern Europe, Norway",fb_eur_n_norway,Population,Diversity,B05006_006E,1,0,0,0
-323,"Europe, Northern Europe, Sweden",fb_eur_n_sweden,Population,Diversity,B05006_007E,1,0,0,0
-324,"Europe, Northern Europe, UK",fb_eur_n_uk,Population,Diversity,B05006_008E,1,0,0,0
-325,"Europe, Northern Europe, UK, Excluding England and Scotland",fb_eur_n_excluding england and scotland,Population,Diversity,B05006_009E,1,0,0,0
-326,"Europe, Northern Europe, UK, England",fb_eur_n_england,Population,Diversity,B05006_010E,1,0,0,0
-327,"Europe, Northern Europe, UK, Scotland",fb_eur_n_scotland,Population,Diversity,B05006_011E,1,0,0,0
-328,"Europe, Northern Europe, Other",fb_eur_n_other,Population,Diversity,B05006_012E,1,0,0,0
-329,"Europe, Western Europe ",fb_eur_western,Population,Diversity,B05006_013E,1,0,0,0
-330,"Europe, Western Europe, Austria",fb_eur_w_austria,Population,Diversity,B05006_014E,1,0,0,0
-331,"Europe, Western Europe, Belgium",fb_eur_w_belgium,Population,Diversity,B05006_015E,1,0,0,0
-332,"Europe, Western Europe, France",fb_eur_w_france,Population,Diversity,B05006_016E,1,0,0,0
-333,"Europe, Western Europe, Germany",fb_eur_w_germany,Population,Diversity,B05006_017E,1,0,0,0
-334,"Europe, Western Europe, Netherlands",fb_eur_w_netherlands,Population,Diversity,B05006_018E,1,0,0,0
-335,"Europe, Western Europe, Switzerland",fb_eur_w_switzerland,Population,Diversity,B05006_019E,1,0,0,0
-336,"Europe, Western Europe, Other",fb_eur_w_other,Population,Diversity,B05006_020E,1,0,0,0
-337,"Europe, Southern Europe",fb_eur_southern,Population,Diversity,B05006_021E,1,0,0,0
-338,"Europe, Southern Europe, Greece",fb_eur_s_greece,Population,Diversity,B05006_022E,1,0,0,0
-339,"Europe, Southern Europe, Italy",fb_eur_s_italy,Population,Diversity,B05006_023E,1,0,0,0
-340,"Europe, Southern Europe, Portugal",fb_eur_s_portugal,Population,Diversity,B05006_024E,1,0,0,0
-341,"Europe, Southern Europe, Azores Islands",fb_eur_s_azoresislands,Population,Diversity,B05006_025E,1,0,0,0
-342,"Europe, Southern Europe, Spain",fb_eur_s_spain,Population,Diversity,B05006_026E,1,0,0,0
-343,"Europe, Southern Europe, Other",fb_eur_s_other,Population,Diversity,B05006_027E,1,0,0,0
-344,"Europe, Eastern Europe",fb_eur_eastern,Population,Diversity,B05006_028E,1,0,0,0
-345,"Europe, Eastern Europe, Albania",fb_eur_e_albania,Population,Diversity,B05006_029E,1,0,0,0
-346,"Europe, Eastern Europe, Belarus",fb_eur_e_belarus,Population,Diversity,B05006_030E,1,0,0,0
-347,"Europe, Eastern Europe, Bosnia and Herzegovina",fb_eur_e_bosniaandherzegovina,Population,Diversity,B05006_031E,1,0,0,0
-348,"Europe, Eastern Europe, Bulgaria",fb_eur_e_bulgaria,Population,Diversity,B05006_032E,1,0,0,0
-349,"Europe, Eastern Europe, Croatia",fb_eur_e_croatia,Population,Diversity,B05006_033E,1,0,0,0
-350,"Europe, Eastern Europe, Czechoslovakia (Czech Republic and Slovakia)",fb_eur_e_czechoslovakia,Population,Diversity,B05006_034E,1,0,0,0
-351,"Europe, Eastern Europe, Hungary",fb_eur_e_hungary,Population,Diversity,B05006_035E,1,0,0,0
-352,"Europe, Eastern Europe, Latvia",fb_eur_e_latvia,Population,Diversity,B05006_036E,1,0,0,0
-353,"Europe, Eastern Europe, Lithuania",fb_eur_e_lithuania,Population,Diversity,B05006_037E,1,0,0,0
-354,"Europe, Eastern Europe, North Macedonia (Macedonia)",fb_eur_e_macedonia,Population,Diversity,B05006_038E,1,0,0,0
-355,"Europe, Eastern Europe, Moldova",fb_eur_e_moldova,Population,Diversity,B05006_039E,1,0,0,0
-356,"Europe, Eastern Europe, Poland",fb_eur_e_poland,Population,Diversity,B05006_040E,1,0,0,0
-357,"Europe, Eastern Europe, Romania",fb_eur_e_romania,Population,Diversity,B05006_041E,1,0,0,0
-358,"Europe, Eastern Europe, Russia",fb_eur_e_russia,Population,Diversity,B05006_042E,1,0,0,0
-359,"Europe, Eastern Europe, Serbia",fb_eur_e_serbia,Population,Diversity,B05006_043E,1,0,0,0
-360,"Europe, Eastern Europe, Ukraine",fb_eur_e_ukraine,Population,Diversity,B05006_044E,1,0,0,0
-361,"Europe, Eastern Europe, Other",fb_eur_e_other,Population,Diversity,B05006_045E,1,0,0,0
-362,"Europe, n.e.c.",fb_eur_nec,Population,Diversity,B05006_046E,1,0,0,0
-363,Asia,fb_asia,Population,Diversity,B05006_047E,1,0,0,0
-364,"Asia, Eastern Asia",fb_as_eastern,Population,Diversity,B05006_048E,1,0,0,0
-365,"Asia, Eastern Asia,China",fb_as_e_china,Population,Diversity,B05006_049E,1,0,0,0
-366,"Asia, Eastern Asia,China Excluding Hong Kong and Taiwan",fb_as_e_chinanohongkongortaiwan,Population,Diversity,B05006_050E,1,0,0,0
-367,"Asia, Eastern Asia,Hong Kong",fb_as_e_hongkong,Population,Diversity,B05006_051E,1,0,0,0
-368,"Asia, Eastern Asia,Taiwan",fb_as_e_taiwan,Population,Diversity,B05006_052E,1,0,0,0
-369,"Asia, Eastern Asia,Japan",fb_as_e_japan,Population,Diversity,B05006_053E,1,0,0,0
-370,"Asia, Eastern Asia,Korea",fb_as_e_korea,Population,Diversity,B05006_054E,1,0,0,0
-371,"Asia, Eastern Asia,Other",fb_as_e_other,Population,Diversity,B05006_055E,1,0,0,0
-372,"Asia, South Central Asia",fb_as_southcentral,Population,Diversity,B05006_056E,1,0,0,0
-373,"Asia, South Central Asia,Afghanistan",fb_as_sc_afghanistan,Population,Diversity,B05006_057E,1,0,0,0
-374,"Asia, South Central Asia,Bangladesh",fb_as_sc_bangladesh,Population,Diversity,B05006_058E,1,0,0,0
-375,"Asia, South Central Asia,India",fb_as_sc_india,Population,Diversity,B05006_059E,1,0,0,0
-376,"Asia, South Central Asia,Iran",fb_as_sc_iran,Population,Diversity,B05006_060E,1,0,0,0
-377,"Asia, South Central Asia,Kazakhstan",fb_as_sc_kazakhstan,Population,Diversity,B05006_061E,1,0,0,0
-378,"Asia, South Central Asia,Nepal",fb_as_sc_nepal,Population,Diversity,B05006_062E,1,0,0,0
-379,"Asia, South Central Asia,Pakistan",fb_as_sc_pakistan,Population,Diversity,B05006_063E,1,0,0,0
-380,"Asia, South Central Asia,Sri Lanka",fb_as_sc_srilanka,Population,Diversity,B05006_064E,1,0,0,0
-381,"Asia, South Central Asia,Uzbekistan",fb_as_sc_uzbekistan,Population,Diversity,B05006_065E,1,0,0,0
-382,"Asia, South Central Asia,Other",fb_as_sc_other,Population,Diversity,B05006_066E,1,0,0,0
-383,"Asia, South Eastern Asia",fb_as_southeastern,Population,Diversity,B05006_067E,1,0,0,0
-384,"Asia, South Eastern Asia,Burma",fb_as_se_burma,Population,Diversity,B05006_068E,1,0,0,0
-385,"Asia, South Eastern Asia,Cambodia",fb_as_se_cambodia,Population,Diversity,B05006_069E,1,0,0,0
-386,"Asia, South Eastern Asia,Indonesia",fb_as_se_indonesia,Population,Diversity,B05006_070E,1,0,0,0
-387,"Asia, South Eastern Asia,Laos",fb_as_se_laos,Population,Diversity,B05006_071E,1,0,0,0
-388,"Asia, South Eastern Asia,Malaysia",fb_as_se_malaysia,Population,Diversity,B05006_072E,1,0,0,0
-389,"Asia, South Eastern Asia,Philippines",fb_as_se_philippines,Population,Diversity,B05006_073E,1,0,0,0
-390,"Asia, South Eastern Asia,Singapore",fb_as_se_singapore,Population,Diversity,B05006_074E,1,0,0,0
-391,"Asia, South Eastern Asia,Thailand",fb_as_se_thailand,Population,Diversity,B05006_075E,1,0,0,0
-392,"Asia, South Eastern Asia,Vietnam",fb_as_se_vietnam,Population,Diversity,B05006_076E,1,0,0,0
-393,"Asia, South Eastern Asia,Other",fb_as_se_other,Population,Diversity,B05006_077E,1,0,0,0
-394,"Asia, Western Asia",fb_as_western,Population,Diversity,B05006_078E,1,0,0,0
-395,"Asia, Western Asia,Armenia",fb_as_w_armenia,Population,Diversity,B05006_079E,1,0,0,0
-396,"Asia, Western Asia,Iraq",fb_as_w_iraq,Population,Diversity,B05006_080E,1,0,0,0
-397,"Asia, Western Asia,Israel",fb_as_w_israel,Population,Diversity,B05006_081E,1,0,0,0
-398,"Asia, Western Asia,Jordan",fb_as_w_jordan,Population,Diversity,B05006_082E,1,0,0,0
-399,"Asia, Western Asia,Kuwait",fb_as_w_kuwait,Population,Diversity,B05006_083E,1,0,0,0
-400,"Asia, Western Asia,Lebanon",fb_as_w_lebanon,Population,Diversity,B05006_084E,1,0,0,0
-401,"Asia, Western Asia,Saudi Arabia",fb_as_w_saudiarabia,Population,Diversity,B05006_085E,1,0,0,0
-402,"Asia, Western Asia,Syria",fb_as_w_syria,Population,Diversity,B05006_086E,1,0,0,0
-403,"Asia, Western Asia,Turkey",fb_as_w_turkey,Population,Diversity,B05006_087E,1,0,0,0
-404,"Asia, Western Asia,Yemen",fb_as_w_yemen,Population,Diversity,B05006_088E,1,0,0,0
-405,"Asia, Western Asia,Other",fb_as_w_other,Population,Diversity,B05006_089E,1,0,0,0
-406,"Asia, n.e.c.",fb_as_nec,Population,Diversity,B05006_090E,1,0,0,0
-407,Africa,fb_africa,Population,Diversity,B05006_091E,1,0,0,0
-408,"Africa, Eastern Africa",fb_af_eastern,Population,Diversity,B05006_092E,1,0,0,0
-409,"Africa, Eastern Africa,Eritrea",fb_af_e_eritrea,Population,Diversity,B05006_093E,1,0,0,0
-410,"Africa, Eastern Africa,Ethiopia",fb_af_e_ethiopia,Population,Diversity,B05006_094E,1,0,0,0
-411,"Africa, Eastern Africa,Kenya",fb_af_e_kenya,Population,Diversity,B05006_095E,1,0,0,0
-412,"Africa, Eastern Africa,Somalia",fb_af_e_somalia,Population,Diversity,B05006_096E,1,0,0,0
-413,"Africa, Eastern Africa,Uganda",fb_af_e_uganda,Population,Diversity,B05006_097E,1,0,0,0
-414,"Africa, Eastern Africa,Zimbabwe",fb_af_e_zimbabwe,Population,Diversity,B05006_098E,1,0,0,0
-415,"Africa, Eastern Africa,Other",fb_af_e_other,Population,Diversity,B05006_099E,1,0,0,0
-416,"Africa, Middle Africa",fb_af_middle,Population,Diversity,B05006_100E,1,0,0,0
-417,"Africa, Middle Africa,Cameroon",fb_af_m_cameroon,Population,Diversity,B05006_101E,1,0,0,0
-418,"Africa, Middle Africa,Congo",fb_af_m_congo,Population,Diversity,B05006_102E,1,0,0,0
-419,"Africa, Middle Africa,Democratic Republic of Congo (Zaire)",fb_af_m_democraticrepublicofcongo,Population,Diversity,B05006_103E,1,0,0,0
-420,"Africa, Middle Africa,Other",fb_af_m_other,Population,Diversity,B05006_104E,1,0,0,0
-421,"Africa, Northern Africa",fb_af_northern,Population,Diversity,B05006_105E,1,0,0,0
-422,"Africa, Northern Africa,Egypt",fb_af_n_egypt,Population,Diversity,B05006_106E,1,0,0,0
-423,"Africa, Northern Africa,Morocco",fb_af_n_morocco,Population,Diversity,B05006_107E,1,0,0,0
-424,"Africa, Northern Africa,Sudan",fb_af_n_sudan,Population,Diversity,B05006_108E,1,0,0,0
-425,"Africa, Northern Africa,Other",fb_af_n_other,Population,Diversity,B05006_109E,1,0,0,0
-426,"Africa, Southern Africa",fb_af_southern,Population,Diversity,B05006_110E,1,0,0,0
-427,"Africa, Southern Africa, South Africa",fb_af_s_southafrica,Population,Diversity,B05006_111E,1,0,0,0
-428,"Africa, Southern Africa, Other",fb_af_s_other,Population,Diversity,B05006_112E,1,0,0,0
-429,"Africa, Western Africa",fb_af_western,Population,Diversity,B05006_113E,1,0,0,0
-430,"Africa, Western Africa,Cabo Verde",fb_af_w_caboverde,Population,Diversity,B05006_114E,1,0,0,0
-431,"Africa, Western Africa,Ghana",fb_af_w_ghana,Population,Diversity,B05006_115E,1,0,0,0
-432,"Africa, Western Africa,Liberia",fb_af_w_liberia,Population,Diversity,B05006_116E,1,0,0,0
-433,"Africa, Western Africa,Nigeria",fb_af_w_nigeria,Population,Diversity,B05006_117E,1,0,0,0
-434,"Africa, Western Africa,Senegal",fb_af_w_senegal,Population,Diversity,B05006_118E,1,0,0,0
-435,"Africa, Western Africa,Sierra Leone",fb_af_w_sierraleone,Population,Diversity,B05006_119E,1,0,0,0
-436,"Africa, Western Africa,Other",fb_af_w_other,Population,Diversity,B05006_120E,1,0,0,0
-437,"Africa, n.e.c.",fb_af_nec,Population,Diversity,B05006_121E,1,0,0,0
-438,Oceania,fb_oceania,Population,Diversity,B05006_122E,1,0,0,0
-439,"Oceania, Australia and New Zealand Subregion",fb_oc_australianewzealandsubregion,Population,Diversity,B05006_123E,1,0,0,0
-440,"Oceania, Australia and New Zealand Subregion, Australia",fb_oc_australianewzealandsubregion_australia,Population,Diversity,B05006_124E,1,0,0,0
-441,"Oceania, Australia and New Zealand Subregion, Other",fb_oc_australianewzealandsubregion_other,Population,Diversity,B05006_125E,1,0,0,0
-442,"Oceania, Fiji",fb_oc_fiji,Population,Diversity,B05006_126E,1,0,0,0
-443,"Oceania, Micronesia",fb_oc_micronesia,Population,Diversity,B05006_127E,1,0,0,0
-444,"Oceania, n.e.c.",fb_oc_nec,Population,Diversity,B05006_128E,1,0,0,0
-445,Americas,fb_americas,Population,Diversity,B05006_129E,1,0,0,0
-446,"Americas, Latin America",fb_am_latinamerica,Population,Diversity,B05006_130E,1,0,0,0
-447,"Americas, Latin America, Caribbean",fb_am_la_caribbean,Population,Diversity,B05006_131E,1,0,0,0
-448,"Americas, Latin America, Caribbean, Bahamas",fb_am_la_cbb_bahamas,Population,Diversity,B05006_132E,1,0,0,0
-449,"Americas, Latin America, Caribbean, Barbados",fb_am_la_cbb_barbados,Population,Diversity,B05006_133E,1,0,0,0
-450,"Americas, Latin America, Caribbean, Cuba",fb_am_la_cbb_cuba,Population,Diversity,B05006_134E,1,0,0,0
-451,"Americas, Latin America, Caribbean, Dominica",fb_am_la_cbb_dominica,Population,Diversity,B05006_135E,1,0,0,0
-452,"Americas, Latin America, Caribbean, Dominican Republic",fb_am_la_cbb_dominicanrepublic,Population,Diversity,B05006_136E,1,0,0,0
-453,"Americas, Latin America, Caribbean, Grenada",fb_am_la_cbb_grenada,Population,Diversity,B05006_137E,1,0,0,0
-454,"Americas, Latin America, Caribbean, Haiti",fb_am_la_cbb_haiti,Population,Diversity,B05006_138E,1,0,0,0
-455,"Americas, Latin America, Caribbean, Jamaica",fb_am_la_cbb_jamaica,Population,Diversity,B05006_139E,1,0,0,0
-456,"Americas, Latin America, Caribbean, St. Vincent and the Grenadines",fb_am_la_cbb_stvincentandthegrenadines,Population,Diversity,B05006_140E,1,0,0,0
-457,"Americas, Latin America, Caribbean, Trinidad and Tobago",fb_am_la_cbb_trinidadandtobago,Population,Diversity,B05006_141E,1,0,0,0
-458,"Americas, Latin America, Caribbean, West Indies",fb_am_la_cbb_westindies,Population,Diversity,B05006_142E,1,0,0,0
-459,"Americas, Latin America, Caribbean, Other",fb_am_la_cbb_other,Population,Diversity,B05006_143E,1,0,0,0
-460,"Americas, Latin America, Central America",fb_am_la_centralamerica,Population,Diversity,B05006_144E,1,0,0,0
-461,"Americas, Latin America, Central America, Belize",fb_am_la_centr_belize,Population,Diversity,B05006_145E,1,0,0,0
-462,"Americas, Latin America, Central America,Costa Rica",fb_am_la_centr_costarica,Population,Diversity,B05006_146E,1,0,0,0
-463,"Americas, Latin America, Central America,El Salvador",fb_am_la_centr_elsalvador,Population,Diversity,B05006_147E,1,0,0,0
-464,"Americas, Latin America, Central America,Guatemala",fb_am_la_centr_guatemala,Population,Diversity,B05006_148E,1,0,0,0
-465,"Americas, Latin America, Central America,Honduras",fb_am_la_centr_honduras,Population,Diversity,B05006_149E,1,0,0,0
-466,"Americas, Latin America, Central America,Mexico",fb_am_la_centr_mexico,Population,Diversity,B05006_150E,1,0,0,0
-467,"Americas, Latin America, Central America,Nicaragua",fb_am_la_centr_nicaragua,Population,Diversity,B05006_151E,1,0,0,0
-468,"Americas, Latin America, Central America,Panama",fb_am_la_centr_panama,Population,Diversity,B05006_152E,1,0,0,0
-469,"Americas, Latin America, Central America,Other",fb_am_la_centr_other,Population,Diversity,B05006_153E,1,0,0,0
-470,"Americas, Latin America, South America",fb_am_la_southamerica,Population,Diversity,B05006_154E,1,0,0,0
-471,"Americas, Latin America, South America, Argentina",fb_am_la_s_argentina,Population,Diversity,B05006_155E,1,0,0,0
-472,"Americas, Latin America, South America,Bolivia",fb_am_la_s_bolivia,Population,Diversity,B05006_156E,1,0,0,0
-473,"Americas, Latin America, South America,Brazil",fb_am_la_s_brazil,Population,Diversity,B05006_157E,1,0,0,0
-474,"Americas, Latin America, South America,Chile",fb_am_la_s_chile,Population,Diversity,B05006_158E,1,0,0,0
-475,"Americas, Latin America, South America,Columbia",fb_am_la_s_columbia,Population,Diversity,B05006_159E,1,0,0,0
-476,"Americas, Latin America, South America,Ecuador",fb_am_la_s_ecuador,Population,Diversity,B05006_160E,1,0,0,0
-477,"Americas, Latin America, South America,Guyana",fb_am_la_s_guyana,Population,Diversity,B05006_161E,1,0,0,0
-478,"Americas, Latin America, South America,Peru",fb_am_la_s_peru,Population,Diversity,B05006_162E,1,0,0,0
-479,"Americas, Latin America, South America,Uruguay",fb_am_la_s_uruguay,Population,Diversity,B05006_163E,1,0,0,0
-480,"Americas, Latin America, South America,Venezuela",fb_am_la_s_venezuela,Population,Diversity,B05006_164E,1,0,0,0
-481,"Americas, Latin America, South America,Other",fb_am_la_s_other,Population,Diversity,B05006_165E,1,0,0,0
-482,"Americas, Northern America",fb_am_northern,Population,Diversity,B05006_166E,1,0,0,0
-483,"Americas, Northern America, Canada",fb_am_n_canada,Population,Diversity,B05006_167E,1,0,0,0
-484,"Americas, Northern America, Other",fb_am_n_other,Population,Diversity,B05006_168E,1,0,0,0
-485,Total Language Spoken at Home by Age for Population 5+ Series,language_total_5+_series,Population,Diversity,B16007_001E,1,0,0,0
-486,Total 5 to 17 Years,language_total_5to7,Population,Diversity,B16007_002E,1,0,0,0
-487,5 to 17 Years Speak only English,language_5to7_onlyenglish,Population,Diversity,B16007_003E,1,0,0,0
-488,5 to 17 Years Speak Spanish,language_5to7_spanish,Population,Diversity,B16007_004E,1,0,0,0
-489,5 to 17 Years Speak other Indo-European Languages,language_5to7_otherindoeuropean,Population,Diversity,B16007_005E,1,0,0,0
-490,5 to 17 Years Speak Asian and Pacific Island Languages,language_5to7_asianandpacificisland,Population,Diversity,B16007_006E,1,0,0,0
-491,5 to 17 Years Speak Other Languages,language_5to7_other,Population,Diversity,B16007_007E,1,0,0,0
-492,Total 18 to 64 Years,language_total_18to64,Population,Diversity,B16007_008E,1,0,0,0
-493,18 to 64 Years Speak only English,language_18to64_onlyenglish,Population,Diversity,B16007_009E,1,0,0,0
-494,18 to 64 Years Speak Spanish,language_18to64_spanish,Population,Diversity,B16007_010E,1,0,0,0
-495,18 to 64 Years Speak other Indo-European Languages,language_18to64_otherindoeuropean,Population,Diversity,B16007_011E,1,0,0,0
-496,18 to 64 Years Speak Asian and Pacific Island Languages,language_18to64_asianandpacificisland,Population,Diversity,B16007_012E,1,0,0,0
-497,18 to 64 Years Speak Other Languages,language_18to64_other,Population,Diversity,B16007_013E,1,0,0,0
-498,Total 65+ Years,language_total_65+,Population,Diversity,B16007_014E,1,0,0,0
-499,65+ Years Speak only English,language_65+_onlyenglish,Population,Diversity,B16007_015E,1,0,0,0
-500,65+ Years Speak Spanish,language_65+_spanish,Population,Diversity,B16007_016E,1,0,0,0
-501,65+ Years Speak other Indo-European Languages,language_65+_otherindoeuropean,Population,Diversity,B16007_017E,1,0,0,0
-502,65+ Years Speak Asian and Pacific Island Languages,language_65+_asianandpacificisland,Population,Diversity,B16007_018E,1,0,0,0
-503,65+ Years Speak Other Languages,language_65+_other,Population,Diversity,B16007_019E,1,0,0,0
-504,Total Educational Attainment for the Population 25+ Series,attainment_total_over25_series,Population,Educational Attainment,B15003_001E,1,0,0,0
-505,No Schooling Completed,attainment_noschooling,Population,Educational Attainment,B15003_002E,1,0,0,0
-506,Nursery School,attainment_nurseryschool,Population,Educational Attainment,B15003_003E,1,0,0,0
-507,Kindergarten,attainment_kindergarten,Population,Educational Attainment,B15003_004E,1,0,0,0
-508,1st Grade,attainment_1stgrade,Population,Educational Attainment,B15003_005E,1,0,0,0
-509,2nd Grade,attainment_2ndgrade,Population,Educational Attainment,B15003_006E,1,0,0,0
-510,3rd Grade,attainment_3rdgrade,Population,Educational Attainment,B15003_007E,1,0,0,0
-511,4th Grade,attainment_4thgrade,Population,Educational Attainment,B15003_008E,1,0,0,0
-512,5th Grade,attainment_5thgrade,Population,Educational Attainment,B15003_009E,1,0,0,0
-513,6th Grade,attainment_6thgrade,Population,Educational Attainment,B15003_010E,1,0,0,0
-514,7th Grade,attainment_7thgrade,Population,Educational Attainment,B15003_011E,1,0,0,0
-515,8th Grade,attainment_8thgrade,Population,Educational Attainment,B15003_012E,1,0,0,0
-516,9th Grade,attainment_9thgrade,Population,Educational Attainment,B15003_013E,1,0,0,0
-517,10th Grade,attainment_10thgrade,Population,Educational Attainment,B15003_014E,1,0,0,0
-518,11th Grade,attainment_11thgrade,Population,Educational Attainment,B15003_015E,1,0,0,0
-519,12th Grade No Diploma,attainment_12thgradenodiploma,Population,Educational Attainment,B15003_016E,1,0,0,0
-520,Regular High School Diploma,attainment_regularhighschooldiploma,Population,Educational Attainment,B15003_017E,1,0,0,0
-521,GED or Alternative Credential,attainment_gedoralternativecredential,Population,Educational Attainment,B15003_018E,1,0,0,0
-522,"Some College, Less than 1 Year",attainment_somecollegelessthan1year,Population,Educational Attainment,B15003_019E,1,0,0,0
-523,"Some College, 1 or More Years No Degree",attainment_somecollege1ormoreyearsnodegree,Population,Educational Attainment,B15003_020E,1,0,0,0
-524,Associate's Degree,attainment_associatesdegree,Population,Educational Attainment,B15003_021E,1,0,0,0
-525,Bachelor's Degree,attainment_bachelorsdegree,Population,Educational Attainment,B15003_022E,1,0,0,0
-526,Master's Degree,attainment_mastersdegree,Population,Educational Attainment,B15003_023E,1,0,0,0
-527,Professional School Degree,attainment_professionalschooldegree,Population,Educational Attainment,B15003_024E,1,0,0,0
-528,Doctorate Degree,attainment_doctoratedegree,Population,Educational Attainment,B15003_025E,1,0,0,0
-529,"Total, Means of Transportation to Work by Class of Worker Series",classworker_total_series,Employment,Class of Worker,B08128_001E,1,0,0,0
-530,Private for Profit Wage and Salary Workers,classworker_privateforprofit,Employment,Class of Worker,B08128_002E,1,0,0,0
-531,"Private for Profit Wage and Salary Workers, Employee of Private Company Workers",classworker_privateforprofit_employee,Employment,Class of Worker,B08128_003E,1,0,0,0
-532,"Private for Profit Wage and Salary Workers, Self-Employed in own Incorporated Business ",classworker_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,B08128_004E,1,0,0,0
-533,Private not for Profit Wage and Salary Workers,classworker_privatenotforprofit,Employment,Class of Worker,B08128_005E,1,0,0,0
-534,Local Government Workers,classworker_localgovt,Employment,Class of Worker,B08128_006E,1,0,0,0
-535,State Government Workers,classworker_stategovt,Employment,Class of Worker,B08128_007E,1,0,0,0
-536,Federal Government Workers,classworker_federalgovt,Employment,Class of Worker,B08128_008E,1,0,0,0
-537,Self Employed in Own Non-Incorporated Business Workers,classworker_selfemployednonincorporatedbusiness,Employment,Class of Worker,B08128_009E,1,0,0,0
-538,Unpaid Family Workers,classworker_unpaidfamilyworker,Employment,Class of Worker,B08128_010E,1,0,0,0
-539,Total Sex by Age by Employment Status for the 16+ Population Series,lfstatus_total_sexbyagebyemploymentstatus16+_series,Employment,Labor Force Status,B23001_001E,1,0,0,0
-540,Male 16 to 19 Civilian,lfstatus_mciv_16to19,Employment,Labor Force Status,B23001_006E,1,0,0,0
-541,Male 16 to 19 Civilian Employed,lfstatus_mciv_16to19_employed,Employment,Labor Force Status,B23001_007E,1,0,0,0
-542,Male 16 to 19 Civilian Unemployed,lfstatus_mciv_16to19_unemployed,Employment,Labor Force Status,B23001_008E,1,0,0,0
-543,Male 20 and 21 Civilian,lfstatus_mciv_20to21,Employment,Labor Force Status,B23001_013E,1,0,0,0
-544,Male 20 and 21 Civilian Employed,lfstatus_mciv_20to21_employed,Employment,Labor Force Status,B23001_014E,1,0,0,0
-545,Male 20 and 21 Civilian Unemployed,lfstatus_mciv_20to21_unemployed,Employment,Labor Force Status,B23001_015E,1,0,0,0
-546,Male 22 to 24 Civilian,lfstatus_mciv_22to24,Employment,Labor Force Status,B23001_020E,1,0,0,0
-547,Male 22 to 24 Civilian Employed,lfstatus_mciv_20to21_employed,Employment,Labor Force Status,B23001_021E,1,0,0,0
-548,Male 22 to 24 Civilian Unemployed,lfstatus_mciv_20to21_unemployed,Employment,Labor Force Status,B23001_022E,1,0,0,0
-549,Male 25 to 29 Civilian,lfstatus_mciv_25to29,Employment,Labor Force Status,B23001_027E,1,0,0,0
-550,Male 25 to 29 Civilian Employed,lfstatus_mciv_25to29_employed,Employment,Labor Force Status,B23001_028E,1,0,0,0
-551,Male 25 to 29 Civilian Unemployed,lfstatus_mciv_25to29_unemployed,Employment,Labor Force Status,B23001_029E,1,0,0,0
-552,Male 30 to 34 Civilian,lfstatus_mciv_30to34,Employment,Labor Force Status,B23001_034E,1,0,0,0
-553,Male 30 to 34 Civilian Employed,lfstatus_mciv_30to34_employed,Employment,Labor Force Status,B23001_035E,1,0,0,0
-554,Male 30 to 34 Civilian Unemployed,lfstatus_mciv_30to34_unemployed,Employment,Labor Force Status,B23001_036E,1,0,0,0
-555,Male 35 to 44 Civilian,lfstatus_mciv_35to44,Employment,Labor Force Status,B23001_041E,1,0,0,0
-556,Male 35 to 44 Civilian Employed,lfstatus_mciv_35to44_employed,Employment,Labor Force Status,B23001_042E,1,0,0,0
-557,Male 35 to 44 Civilian Unemployed,lfstatus_mciv_35to44_unemployed,Employment,Labor Force Status,B23001_043E,1,0,0,0
-558,Male 45 to 54 Civilian,lfstatus_mciv_45to54,Employment,Labor Force Status,B23001_048E,1,0,0,0
-559,Male 45 to 54 Civilian Employed,lfstatus_mciv_45to54_employed,Employment,Labor Force Status,B23001_049E,1,0,0,0
-560,Male 45 to 54 Civilian Unemployed,lfstatus_mciv_45to54_unemployed,Employment,Labor Force Status,B23001_050E,1,0,0,0
-561,Male 55 to 59 Civilian,lfstatus_mciv_55to59,Employment,Labor Force Status,B23001_055E,1,0,0,0
-562,Male 55 to 59 Civilian Employed,lfstatus_mciv_55to59_employed,Employment,Labor Force Status,B23001_056E,1,0,0,0
-563,Male 55 to 59 Civilian Unemployed,lfstatus_mciv_55to59_unemployed,Employment,Labor Force Status,B23001_057E,1,0,0,0
-564,Male 60 and 61 Civilian,lfstatus_mciv_60to61,Employment,Labor Force Status,B23001_062E,1,0,0,0
-565,Male 60 and 61 Civilian Employed,lfstatus_mciv_60to61_employed,Employment,Labor Force Status,B23001_063E,1,0,0,0
-566,Male 60 and 61 Civilian Unemployed,lfstatus_mciv_60to61_unemployed,Employment,Labor Force Status,B23001_064E,1,0,0,0
-567,Male 62 to 64 Civilian,lfstatus_mciv_62to64,Employment,Labor Force Status,B23001_069E,1,0,0,0
-568,Male 62 to 64 Civilian Employed,lfstatus_mciv_62to64_employed,Employment,Labor Force Status,B23001_070E,1,0,0,0
-569,Male 62 to 64 Civilian Unemployed,lfstatus_mciv_62to64_unemployed,Employment,Labor Force Status,B23001_071E,1,0,0,0
-570,Male 65 to 69 Civilian,lfstatus_mciv_65to69,Employment,Labor Force Status,B23001_074E,1,0,0,0
-571,Male 65 to 69 Civilian Employed,lfstatus_mciv_65to69_employed,Employment,Labor Force Status,B23001_075E,1,0,0,0
-572,Male 65 to 69 Civilian Unemployed,lfstatus_mciv_65to69_unemployed,Employment,Labor Force Status,B23001_076E,1,0,0,0
-573,Male 70 to 74 Civilian,lfstatus_mciv_70to74,Employment,Labor Force Status,B23001_079E,1,0,0,0
-574,Male 70 to 74 Civilian Employed,lfstatus_mciv_70to74_employed,Employment,Labor Force Status,B23001_080E,1,0,0,0
-575,Male 70 to 74 Civilian Unemployed,lfstatus_mciv_70to74_unemployed,Employment,Labor Force Status,B23001_081E,1,0,0,0
-576,Male 75+ Civilian,lfstatus_mciv_75+,Employment,Labor Force Status,B23001_084E,1,0,0,0
-577,Male 75+ Civilian Employed,lfstatus_mciv_75+,Employment,Labor Force Status,B23001_085E,1,0,0,0
-578,Male 75+ Civilian Unemployed,lfstatus_mciv_75+,Employment,Labor Force Status,B23001_086E,1,0,0,0
-579,Female 16 to 19 Civilian,lfstatus_fciv_16to19,Employment,Labor Force Status,B23001_092E,1,0,0,0
-580,Female 16 to 19 Civilian Employed,lfstatus_fciv_16to19_employed,Employment,Labor Force Status,B23001_093E,1,0,0,0
-581,Female 16 to 19 Civilian Unemployed,lfstatus_fciv_16to19_unemployed,Employment,Labor Force Status,B23001_094E,1,0,0,0
-582,Female 20 and 21 Civilian,lfstatus_fciv_20to21,Employment,Labor Force Status,B23001_099E,1,0,0,0
-583,Female 20 and 21 Civilian Employed,lfstatus_fciv_20to21_employed,Employment,Labor Force Status,B23001_100E,1,0,0,0
-584,Female 20 and 21 Civilian Unemployed,lfstatus_fciv_20to21_unemployed,Employment,Labor Force Status,B23001_101E,1,0,0,0
-585,Female 22 to 24 Civilian,lfstatus_fciv_22to24,Employment,Labor Force Status,B23001_106E,1,0,0,0
-586,Female 22 to 24 Civilian Employed,lfstatus_fciv_20to21_employed,Employment,Labor Force Status,B23001_107E,1,0,0,0
-587,Female 22 to 24 Civilian Unemployed,lfstatus_fciv_20to21_unemployed,Employment,Labor Force Status,B23001_108E,1,0,0,0
-588,Female 25 to 29 Civilian,lfstatus_fciv_25to29,Employment,Labor Force Status,B23001_113E,1,0,0,0
-589,Female 25 to 29 Civilian Employed,lfstatus_fciv_25to29_employed,Employment,Labor Force Status,B23001_114E,1,0,0,0
-590,Female 25 to 29 Civilian Unemployed,lfstatus_fciv_25to29_unemployed,Employment,Labor Force Status,B23001_115E,1,0,0,0
-591,Female 30 to 34 Civilian,lfstatus_fciv_30to34,Employment,Labor Force Status,B23001_120E,1,0,0,0
-592,Female 30 to 34 Civilian Employed,lfstatus_fciv_30to34_employed,Employment,Labor Force Status,B23001_121E,1,0,0,0
-593,Female 30 to 34 Civilian Unemployed,lfstatus_fciv_30to34_unemployed,Employment,Labor Force Status,B23001_122E,1,0,0,0
-594,Female 35 to 44 Civilian,lfstatus_fciv_35to44,Employment,Labor Force Status,B23001_127E,1,0,0,0
-595,Female 35 to 44 Civilian Employed,lfstatus_fciv_35to44_employed,Employment,Labor Force Status,B23001_128E,1,0,0,0
-596,Female 35 to 44 Civilian Unemployed,lfstatus_fciv_35to44_unemployed,Employment,Labor Force Status,B23001_129E,1,0,0,0
-597,Female 45 to 54 Civilian,lfstatus_fciv_45to54,Employment,Labor Force Status,B23001_134E,1,0,0,0
-598,Female 45 to 54 Civilian Employed,lfstatus_fciv_45to54_employed,Employment,Labor Force Status,B23001_135E,1,0,0,0
-599,Female 45 to 54 Civilian Unemployed,lfstatus_fciv_45to54_unemployed,Employment,Labor Force Status,B23001_136E,1,0,0,0
-600,Female 55 to 59 Civilian,lfstatus_fciv_55to59,Employment,Labor Force Status,B23001_141E,1,0,0,0
-601,Female 55 to 59 Civilian Employed,lfstatus_fciv_55to59_employed,Employment,Labor Force Status,B23001_142E,1,0,0,0
-602,Female 55 to 59 Civilian Unemployed,lfstatus_fciv_55to59_unemployed,Employment,Labor Force Status,B23001_143E,1,0,0,0
-603,Female 60 and 61 Civilian,lfstatus_fciv_60to61,Employment,Labor Force Status,B23001_148E,1,0,0,0
-604,Female 60 and 61 Civilian Employed,lfstatus_fciv_60to61_employed,Employment,Labor Force Status,B23001_149E,1,0,0,0
-605,Female 60 and 61 Civilian Unemployed,lfstatus_fciv_60to61_unemployed,Employment,Labor Force Status,B23001_150E,1,0,0,0
-606,Female 62 to 64 Civilian,lfstatus_fciv_62to64,Employment,Labor Force Status,B23001_155E,1,0,0,0
-607,Female 62 to 64 Civilian Employed,lfstatus_fciv_62to64_employed,Employment,Labor Force Status,B23001_156E,1,0,0,0
-608,Female 62 to 64 Civilian Unemployed,lfstatus_fciv_62to64_unemployed,Employment,Labor Force Status,B23001_157E,1,0,0,0
-609,Female 65 to 69 Civilian,lfstatus_fciv_65to69,Employment,Labor Force Status,B23001_160E,1,0,0,0
-610,Female 65 to 69 Civilian Employed,lfstatus_fciv_65to69_employed,Employment,Labor Force Status,B23001_161E,1,0,0,0
-611,Female 65 to 69 Civilian Unemployed,lfstatus_fciv_65to69_unemployed,Employment,Labor Force Status,B23001_162E,1,0,0,0
-612,Female 70 to 74 Civilian,lfstatus_fciv_70to74,Employment,Labor Force Status,B23001_165E,1,0,0,0
-613,Female 70 to 74 Civilian Employed,lfstatus_fciv_70to74_employed,Employment,Labor Force Status,B23001_166E,1,0,0,0
-614,Female 70 to 74 Civilian Unemployed,lfstatus_fciv_70to74_unemployed,Employment,Labor Force Status,B23001_167E,1,0,0,0
-615,Female 75+ Civilian,lfstatus_fciv_75+,Employment,Labor Force Status,B23001_170E,1,0,0,0
-616,Female 75+ Civilian Employed,lfstatus_fciv_75+,Employment,Labor Force Status,B23001_171E,1,0,0,0
-617,Female 75+ Civilian Unemployed,lfstatus_fciv_75+,Employment,Labor Force Status,B23001_172E,1,0,0,0
-618,Per Capita Personal Income in the Past 12 Months in 2019 Dollars,percapita_income_2019dollars,Employment,Income,B19301_001E,1,0,0,0
-619,Total Geographic Mobility in the Past Year by Age Series,geo_total_series,Geographic Mobility,Moved,B07001_001E,1,0,0,0
-620,Geographic Mobility Past Year Age 1 to 4 Total,geo_1to4_total,Geographic Mobility,Moved,B07001_002E,1,0,0,0
-621,Geographic Mobility Past Year Age 5 to 17 Total,geo_5to17_total,Geographic Mobility,Moved,B07001_003E,1,0,0,0
-622,Geographic Mobility Past Year Age 18 to 19 Total,geo_18to19_total,Geographic Mobility,Moved,B07001_004E,1,0,0,0
-623,Geographic Mobility Past Year Age 20 to 24 Total,geo_20to24_total,Geographic Mobility,Moved,B07001_005E,1,0,0,0
-624,Geographic Mobility Past Year Age 25 to 29 Total,geo_25to29_total,Geographic Mobility,Moved,B07001_006E,1,0,0,0
-625,Geographic Mobility Past Year Age 30 to 34 Total,geo_30to34_total,Geographic Mobility,Moved,B07001_007E,1,0,0,0
-626,Geographic Mobility Past Year Age 35 to 39 Total,geo_35to39_total,Geographic Mobility,Moved,B07001_008E,1,0,0,0
-627,Geographic Mobility Past Year Age 40 to 44 Total,geo_40to44_total,Geographic Mobility,Moved,B07001_009E,1,0,0,0
-628,Geographic Mobility Past Year Age 45 to 49 Total,geo_45to49_total,Geographic Mobility,Moved,B07001_010E,1,0,0,0
-629,Geographic Mobility Past Year Age 50 to 54 Total,geo_50to54_total,Geographic Mobility,Moved,B07001_011E,1,0,0,0
-630,Geographic Mobility Past Year Age 55 to 59 Total,geo_55to59_total,Geographic Mobility,Moved,B07001_012E,1,0,0,0
-631,Geographic Mobility Past Year Age 60 to 64 Total,geo_60to64_total,Geographic Mobility,Moved,B07001_013E,1,0,0,0
-632,Geographic Mobility Past Year Age 65 to 69 Total,geo_65to69_total,Geographic Mobility,Moved,B07001_014E,1,0,0,0
-633,Geographic Mobility Past Year Age 70 to74 Total,geo_70to74_total,Geographic Mobility,Moved,B07001_015E,1,0,0,0
-634,Geographic Mobility Past Year Age 75+ Total,geo_75+_total,Geographic Mobility,Moved,B07001_016E,1,0,0,0
-635,Geographic Mobility Total Same House One Year Ago,geo_samehouse_total,Geographic Mobility,Moved,B07001_017E,1,0,0,0
-636,Geo Mobility 55 to 59 Same House One Year Ago,geo_55to59_samehouse,Geographic Mobility,Moved,B07001_028E,1,0,0,0
-637,Geo Mobility 60 to 64 Same House One Year Ago,geo_60to64_samehouse,Geographic Mobility,Moved,B07001_029E,1,0,0,0
-638,Geo Mobility 65 to 69 Same House One Year Ago,geo_65to69_samehouse,Geographic Mobility,Moved,B07001_030E,1,0,0,0
-639,Geo Mobility 70 to 74 Same House One Year Ago,geo_70to74_samehouse,Geographic Mobility,Moved,B07001_031E,1,0,0,0
-640,Geo Mobility 75+ Same House One Year Ago,geo_75+_samehouse,Geographic Mobility,Moved,B07001_032E,1,0,0,0
-641,Geographic Mobility Total Moved Within Same County,geo_movedsamecounty_total,Geographic Mobility,Moved,B07001_033E,1,0,0,0
-642,Geo Mobility 55 to 59 Moved Within Same County,geo_55to59_movedsamecounty,Geographic Mobility,Moved,B07001_044E,1,0,0,0
-643,Geo Mobility 60 to 64 Moved Within Same County,geo_60to64_movedsamecounty,Geographic Mobility,Moved,B07001_045E,1,0,0,0
-644,Geo Mobility 65 to 69 Moved Within Same County,geo_65to69_movedsamecounty,Geographic Mobility,Moved,B07001_046E,1,0,0,0
-645,Geo Mobility 70 to 74 Moved Within Same County,geo_70to74_movedsamecounty,Geographic Mobility,Moved,B07001_047E,1,0,0,0
-646,Geo Mobility 75+ Moved Within Same County,geo_75+_movedsamecounty,Geographic Mobility,Moved,B07001_048E,1,0,0,0
-647,Geographic Mobility Moved from Different County Within Same State,geo_moveddifferentcountysamestate_total,Geographic Mobility,Moved,B07001_049E,1,0,0,0
-648,Geo Mobility 55 to 59 Moved from Different County in Same State,geo_55to59_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_060E,1,0,0,0
-649,Geo Mobility 60 to 64 Moved from Different County in Same State,geo_60to64_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_061E,1,0,0,0
-650,Geo Mobility 65 to 69 Moved from Different County in Same State,geo_65to69_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_062E,1,0,0,0
-651,Geo Mobility 70 to 74 Moved from Different County in Same State,geo_70to74_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_063E,1,0,0,0
-652,Geo Mobility 75+ Moved from Different County in Same State,geo_75+_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_064E,1,0,0,0
-653,Geographic Mobility Moved From Different State,geo_moveddifferentstate_total,Geographic Mobility,Moved,B07001_065E,1,0,0,0
-654,Geo Mobility 55 to 59 Moved from Different State,geo_55to59_moveddifferentstate,Geographic Mobility,Moved,B07001_076E,1,0,0,0
-655,Geo Mobility 60 to 64 Moved from Different State,geo_60to64_moveddifferentstate,Geographic Mobility,Moved,B07001_077E,1,0,0,0
-656,Geo Mobility 65 to 69 Moved from Different State,geo_65to69_moveddifferentstate,Geographic Mobility,Moved,B07001_078E,1,0,0,0
-657,Geo Mobility 70 to 74 Moved from Different State,geo_70to74_moveddifferentstate,Geographic Mobility,Moved,B07001_079E,1,0,0,0
-658,Geo Mobility 75+ Moved from Different State,geo_75+_moveddifferentstate,Geographic Mobility,Moved,B07001_080E,1,0,0,0
-659,Geographic Mobility Moved from Abroad,geo_movedabroad_total,Geographic Mobility,Moved,B07001_081E,1,0,0,0
-660,Geo Mobility 55 to 59 Moved from Abroad,geo_55to59_movedabroad,Geographic Mobility,Moved,B07001_092E,1,0,0,0
-661,Geo Mobility 60 to 64 Moved from Abroad,geo_60to64_movedabroad,Geographic Mobility,Moved,B07001_093E,1,0,0,0
-662,Geo Mobility 65 to 69 Moved from Abroad,geo_65to69_movedabroad,Geographic Mobility,Moved,B07001_094E,1,0,0,0
-663,Geo Mobility 70 to 74 Moved from Abroad,geo_70to74_movedabroad,Geographic Mobility,Moved,B07001_095E,1,0,0,0
-664,Geo Mobility 75+ Moved from Abroad,geo_75+_movedabroad,Geographic Mobility,Moved,B07001_096E,1,0,0,0
-665,Vehicles per Household by Tenure Total Series,vehicles_tenurebyvehicles_total_series,Transportation,Vehicles,B25044_001E,1,0,0,0
-666,Vehicles per Household Total Owner Occupied,vehicles_ownerocc_total,Transportation,Vehicles,B25044_002E,1,0,0,0
-667,Vehicles per Household Owner Occupied No Vehicles,vehicles_ownerocc_novehicle,Transportation,Vehicles,B25044_003E,1,0,0,0
-668,Vehicles per Household Owner Occupied 1 Vehicle,vehicles_ownerocc_1vehicle,Transportation,Vehicles,B25044_004E,1,0,0,0
-669,Vehicles per Household Owner Occupied 2 Vehicles,vehicles_ownerocc_2vehicles,Transportation,Vehicles,B25044_005E,1,0,0,0
-670,Vehicles per Household Owner Occupied 3 Vehicles,vehicles_ownerocc_3vehicles,Transportation,Vehicles,B25044_006E,1,0,0,0
-671,Vehicles per Household Owner Occupied 4 Vehicles,vehicles_ownerocc_4vehicles,Transportation,Vehicles,B25044_007E,1,0,0,0
-672,Vehicles per Household Owner Occupied 5 Vehicles,vehicles_ownerocc_5+vehicles,Transportation,Vehicles,B25044_008E,1,0,0,0
-673,Vehicles per Household Total Renter Occupied,vehicles_renterocc_total,Transportation,Vehicles,B25044_009E,1,0,0,0
-674,Vehicles per Household Renter Occupied No Vehicles,vehicles_renterocc_novehicle,Transportation,Vehicles,B25044_010E,1,0,0,0
-675,Vehicles per Household Renter Occupied 1 Vehicle,vehicles_renterocc_1vehicle,Transportation,Vehicles,B25044_011E,1,0,0,0
-676,Vehicles per Household Renter Occupied 2 Vehicles,vehicles_renterocc_2vehicles,Transportation,Vehicles,B25044_012E,1,0,0,0
-677,Vehicles per Household Renter Occupied 3 Vehicles,vehicles_renterocc_3vehicles,Transportation,Vehicles,B25044_013E,1,0,0,0
-678,Vehicles per Household Renter Occupied 4 Vehicles,vehicles_renterocc_4vehicles,Transportation,Vehicles,B25044_014E,1,0,0,0
-679,Vehicles per Household Renter Occupied 5 Vehicles,vehicles_renterocc_5+vehicles,Transportation,Vehicles,B25044_015E,1,0,0,0
-680,Industry Employment Sex by Industry Civilian Population Total Series,industry_sexbyindustrycivilianpop_total_series,Employment,Industry Employment,C24030_001E,1,0,0,1
-681,Industry Employment Total Male,industry_sexbyindustrycivilianpop_totalmale,Employment,Industry Employment,C24030_002E,1,0,0,1
-682,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining",industry_m_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,C24030_003E,1,0,0,1
-683,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_m_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,C24030_004E,1,0,0,1
-684,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_m_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,C24030_005E,1,0,0,1
-685,Industry Employment Male Construction,industry_m_construction,Employment,Industry Employment,C24030_006E,1,0,0,1
-686,Industry Employment Male Manufacturing,industry_m_manufacturing,Employment,Industry Employment,C24030_007E,1,0,0,1
-687,Industry Employment Male Wholesale Trade,industry_m_wholesaletrade,Employment,Industry Employment,C24030_008E,1,0,0,1
-688,Industry Employment Male Retail Trade,industry_m_retailtrade,Employment,Industry Employment,C24030_009E,1,0,0,1
-689,"Industry Employment Male Transportation, Warehousing, and Utilities",industry_m_transportation_warehousing_utilities,Employment,Industry Employment,C24030_010E,1,0,0,1
-690,"Industry Employment Male Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_m_transut_transportation_warehousing,Employment,Industry Employment,C24030_011E,1,0,0,1
-691,"Industry Employment Male Transportation, Warehousing, and Utilities: Utilities",industry_m_transut_utilities,Employment,Industry Employment,C24030_012E,1,0,0,1
-692,Industry Employment Male Information,industry_m_information,Employment,Industry Employment,C24030_013E,1,0,0,1
-693,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing",industry_m_finance_insurance_realestate_rental,Employment,Industry Employment,C24030_014E,1,0,0,1
-694,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_m_finrent_finance_insurance,Employment,Industry Employment,C24030_015E,1,0,0,1
-695,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_m_finrent_realestate_rental,Employment,Industry Employment,C24030_016E,1,0,0,1
-696,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management",industry_m_professional_scientific_managementadmin_waste,Employment,Industry Employment,C24030_017E,1,0,0,1
-697,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_m_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,C24030_018E,1,0,0,1
-698,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_m_profwaste_managementcompaniesenterprises,Employment,Industry Employment,C24030_019E,1,0,0,1
-699,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_m_adminandsupportandwaste,Employment,Industry Employment,C24030_020E,1,0,0,1
-700,"Industry Employment Male Educational, Healthcare, and Social Assistance",industry_m_educational_healthcare_socialassistance,Employment,Industry Employment,C24030_021E,1,0,0,1
-701,"Industry Employment Male Educational, Healthcare, and Social Assistance: Educational",industry_m_edsocial_educational,Employment,Industry Employment,C24030_022E,1,0,0,1
-702,"Industry Employment Male Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_m_edsocial_healthcare_socialassistance,Employment,Industry Employment,C24030_023E,1,0,0,1
-703,"Industry Employment Male Entertainment and Recreation, Accommodation and Food",industry_m_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,C24030_024E,1,0,0,1
-704,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_m_artsaccom_arts_entertainmentrec,Employment,Industry Employment,C24030_025E,1,0,0,1
-705,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_m_artsaccom_accommodation_food,Employment,Industry Employment,C24030_026E,1,0,0,1
-706,Industry Employment Male Other Services Not Public Administration,industry_m_otherservices_notpublicadmin,Employment,Industry Employment,C24030_027E,1,0,0,1
-707,Industry Employment Male Public Administration,industry_m_publicadmin,Employment,Industry Employment,C24030_028E,1,0,0,1
-708,Industry Employment Total Female,industry_sexbyindustrycivilianpop_totalfemale,Employment,Industry Employment,C24030_029E,1,0,0,1
-709,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining",industry_f_agriculture_forestry_fishing_hunting_fining,Employment,Industry Employment,C24030_030E,1,0,0,1
-710,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_f_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,C24030_031E,1,0,0,1
-711,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_f_agmining_fining_quarrying_oilandgas,Employment,Industry Employment,C24030_032E,1,0,0,1
-712,Industry Employment Female Construction,industry_f_construction,Employment,Industry Employment,C24030_033E,1,0,0,1
-713,Industry Employment Female Manufacturing,industry_f_fanufacturing,Employment,Industry Employment,C24030_034E,1,0,0,1
-714,Industry Employment Female Wholesale Trade,industry_f_wholesaletrade,Employment,Industry Employment,C24030_035E,1,0,0,1
-715,Industry Employment Female Retail Trade,industry_f_retailtrade,Employment,Industry Employment,C24030_036E,1,0,0,1
-716,"Industry Employment Female Transportation, Warehousing, and Utilities",industry_f_transportation_warehousing_utilities,Employment,Industry Employment,C24030_037E,1,0,0,1
-717,"Industry Employment Female Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_f_transut_transportation_warehousing,Employment,Industry Employment,C24030_038E,1,0,0,1
-718,"Industry Employment Female Transportation, Warehousing, and Utilities: Utilities",industry_f_transut_utilities,Employment,Industry Employment,C24030_039E,1,0,0,1
-719,Industry Employment Female Information,industry_f_information,Employment,Industry Employment,C24030_040E,1,0,0,1
-720,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing",industry_f_finance_insurance_realestate_rental,Employment,Industry Employment,C24030_041E,1,0,0,1
-721,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_f_finrent_finance_insurance,Employment,Industry Employment,C24030_042E,1,0,0,1
-722,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_f_finrent_realestate_rental,Employment,Industry Employment,C24030_043E,1,0,0,1
-723,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management",industry_f_professional_scientific_fanagementadmin_waste,Employment,Industry Employment,C24030_044E,1,0,0,1
-724,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_f_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,C24030_045E,1,0,0,1
-725,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_f_profwaste_fanagementcompaniesenterprises,Employment,Industry Employment,C24030_046E,1,0,0,1
-726,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_f_adminandsupportandwaste,Employment,Industry Employment,C24030_047E,1,0,0,1
-727,"Industry Employment Female Educational, Healthcare, and Social Assistance",industry_f_educational_healthcare_socialassistance,Employment,Industry Employment,C24030_048E,1,0,0,1
-728,"Industry Employment Female Educational, Healthcare, and Social Assistance: Educational",industry_f_edsocial_educational,Employment,Industry Employment,C24030_049E,1,0,0,1
-729,"Industry Employment Female Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_f_edsocial_healthcare_socialassistance,Employment,Industry Employment,C24030_050E,1,0,0,1
-730,"Industry Employment Female Entertainment and Recreation, Accommodation and Food",industry_f_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,C24030_051E,1,0,0,1
-731,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_f_artsaccom_arts_entertainmentrec,Employment,Industry Employment,C24030_052E,1,0,0,1
-732,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_f_artsaccom_accommodation_food,Employment,Industry Employment,C24030_053E,1,0,0,1
-733,Industry Employment Female Other Services Not Public Administration,industry_f_otherservices_notpublicadmin,Employment,Industry Employment,C24030_054E,1,0,0,1
-734,Industry Employment Female Public Administration,industry_f_publicadmin,Employment,Industry Employment,C24030_055E,1,0,0,1
-735,Occupational Employment by Sex Total Series,occupation_sexbyoccupationcivilianpop_total_series,Employment,Occupational Employment,C24010_001E,1,0,0,0
-736,Occupational Employment Total Male,occupation_sexbyoccupationcivilianpop_totalmale,Employment,Occupational Employment,C24010_002E,1,0,0,0
-737,"Occupational Employment Male Management, Professional, and Related: Management Occupations",occupation_m_management,Employment,Occupational Employment,C24010_005E,1,0,0,0
-738,"Occupational Employment Male Management, Professional, and Related: Business and Financial Operations Occupations",occupation_m_businessandfinancial,Employment,Occupational Employment,C24010_006E,1,0,0,0
-739,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_m_computerandmathematical,Employment,Occupational Employment,C24010_008E,1,0,0,0
-740,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_m_architectureandengineering,Employment,Occupational Employment,C24010_009E,1,0,0,0
-741,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_m_lifephysicalsocialscience,Employment,Occupational Employment,C24010_010E,1,0,0,0
-742,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_m_communityandsocialservices,Employment,Occupational Employment,C24010_012E,1,0,0,0
-743,"Occupational Employment Male Management, Professional, and Related: Legal Occupations",occupation_m_legal,Employment,Occupational Employment,C24010_013E,1,0,0,0
-744,"Occupational Employment Male Management, Professional, and Related: Education, Training, and Library Occupations",occupation_m_educationtrainingandlibrary,Employment,Occupational Employment,C24010_014E,1,0,0,0
-745,"Occupational Employment Male Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_m_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,C24010_015E,1,0,0,0
-746,"Occupational Employment Male Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_m_healthcarepractitionersandtechnical,Employment,Occupational Employment,C24010_016E,1,0,0,0
-747,Occupational Employment Male Service Occupations: Healthcare Support Occupations,occupation_m_healthcaresupport,Employment,Occupational Employment,C24010_020E,1,0,0,0
-748,Occupational Employment Male Service Occupations: Protective Service Occupations,occupation_m_protectiveservice,Employment,Occupational Employment,C24010_021E,1,0,0,0
-749,Occupational Employment Male Service Occupations: Food Preparations and Serving Related Occupations,occupation_m_foodprepandserving,Employment,Occupational Employment,C24010_023E,1,0,0,0
-750,Occupational Employment Male Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_m_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,C24010_025E,1,0,0,0
-751,Occupational Employment Male Service Occupations: Personal Care and Service Occupations,occupation_m_personalcareandservice,Employment,Occupational Employment,C24010_026E,1,0,0,0
-752,Occupational Employment Male Sales and Office Occupations: Sales and Related Occupations,occupation_m_salesandrelated,Employment,Occupational Employment,C24010_028E,1,0,0,0
-753,Occupational Employment Male Sales and Office Occupations: Office and Administrative Support Occupations,occupation_m_officeandadmin,Employment,Occupational Employment,C24010_029E,1,0,0,0
-754,"Occupational Employment Male Farming, Fishing, and Forestry Occupations",occupation_m_farmingfishingandforestry,Employment,Occupational Employment,C24010_031E,1,0,0,0
-755,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_m_constructionandextraction,Employment,Occupational Employment,C24010_032E,1,0,0,0
-756,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_m_installationmaintenanceandrepair,Employment,Occupational Employment,C24010_033E,1,0,0,0
-757,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_m_production,Employment,Occupational Employment,C24010_035E,1,0,0,0
-758,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Transportation Occupations",occupation_m_transportation,Employment,Occupational Employment,C24010_036E,1,0,0,0
-759,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Material Moving Occupations",occupation_m_materialmoving,Employment,Occupational Employment,C24010_037E,1,0,0,0
-760,Occupational Employment Total Female,occupation_sexbyoccupationcivilianpop_totalfemale,Employment,Occupational Employment,C24010_038E,1,0,0,0
-761,"Occupational Employment Female Management, Professional, and Related: Management Occupations",occupation_f_fanagement_exceptfarmersandfarmmanagers,Employment,Occupational Employment,C24010_041E,1,0,0,0
-762,"Occupational Employment Female Management, Professional, and Related: Business and Financial Operations Occupations",occupation_f_businessandfinancial,Employment,Occupational Employment,C24010_042E,1,0,0,0
-763,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_f_computerandmathematical,Employment,Occupational Employment,C24010_044E,1,0,0,0
-764,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_f_architectureandengineering,Employment,Occupational Employment,C24010_045E,1,0,0,0
-765,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_f_lifephysicalsocialscience,Employment,Occupational Employment,C24010_046E,1,0,0,0
-766,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_f_communityandsocialservices,Employment,Occupational Employment,C24010_048E,1,0,0,0
-767,"Occupational Employment Female Management, Professional, and Related: Legal Occupations",occupation_f_legal,Employment,Occupational Employment,C24010_049E,1,0,0,0
-768,"Occupational Employment Female Management, Professional, and Related: Education, Training, and Library Occupations",occupation_f_educationtrainingandlibrary,Employment,Occupational Employment,C24010_050E,1,0,0,0
-769,"Occupational Employment Female Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_f_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,C24010_051E,1,0,0,0
-770,"Occupational Employment Female Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_f_healthcarepractitionersandtechnical,Employment,Occupational Employment,C24010_052E,1,0,0,0
-771,Occupational Employment Female Service Occupations: Healthcare Support Occupations,occupation_f_healthcaresupport,Employment,Occupational Employment,C24010_056E,1,0,0,0
-772,Occupational Employment Female Service Occupations: Protective Service Occupations,occupation_f_protectiveservice,Employment,Occupational Employment,C24010_057E,1,0,0,0
-773,Occupational Employment Female Service Occupations: Food Preparations and Serving Related Occupations,occupation_f_foodprepandserving,Employment,Occupational Employment,C24010_060E,1,0,0,0
-774,Occupational Employment Female Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_f_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,C24010_061E,1,0,0,0
-775,Occupational Employment Female Service Occupations: Personal Care and Service Occupations,occupation_f_personalcareandservice,Employment,Occupational Employment,C24010_062E,1,0,0,0
-776,Occupational Employment Female Sales and Office Occupations: Sales and Related Occupations,occupation_f_salesandrelated,Employment,Occupational Employment,C24010_064E,1,0,0,0
-777,Occupational Employment Female Sales and Office Occupations: Office and Administrative Support Occupations,occupation_f_officeandadmin,Employment,Occupational Employment,C24010_065E,1,0,0,0
-778,"Occupational Employment Female Farming, Fishing, and Forestry Occupations",occupation_f_farmingfishingandforestry,Employment,Occupational Employment,C24010_067E,1,0,0,0
-779,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_f_constructionandextraction,Employment,Occupational Employment,C24010_068E,1,0,0,0
-780,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_f_installationmaintenanceandrepair,Employment,Occupational Employment,C24010_069E,1,0,0,0
-781,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_f_production,Employment,Occupational Employment,C24010_071E,1,0,0,0
-782,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Transportation Occupations",occupation_f_transportation,Employment,Occupational Employment,C24010_072E,1,0,0,0
-783,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Material Moving Occupations",occupation_f_materialmoving,Employment,Occupational Employment,C24010_073E,1,0,0,0
+1,Total Age by Sex Series,agebysex_total_series,Population,Sex by Age,B01001_001E,1,1,0,0
+2,Total Male,age_total_male,Population,Sex by Age,B01001_002E,1,1,0,0
+3,Male Under 5,age_m_u5,Population,Sex by Age,B01001_003E,1,1,0,0
+4,Male 5 to 9,age_m_5to9,Population,Sex by Age,B01001_004E,1,1,0,0
+5,Male 10 to 14,age_m_10to14,Population,Sex by Age,B01001_005E,1,1,0,0
+6,Male 15 to 17,age_m_15to17,Population,Sex by Age,B01001_006E,1,1,0,0
+7,Male 18 and 19,age_m_18to19,Population,Sex by Age,B01001_007E,1,1,0,0
+8,Male 20,age_m_20,Population,Sex by Age,B01001_008E,1,1,0,0
+9,Male 21,age_m_21,Population,Sex by Age,B01001_009E,1,1,0,0
+10,Male 22 to 24,age_m_22to24,Population,Sex by Age,B01001_010E,1,1,0,0
+11,Male 25 to 29,age_m_25to29,Population,Sex by Age,B01001_011E,1,1,0,0
+12,Male 30 to 34,age_m_30to34,Population,Sex by Age,B01001_012E,1,1,0,0
+13,Male 35 to 39,age_m_35to39,Population,Sex by Age,B01001_013E,1,1,0,0
+14,Male 40 to 44,age_m_40to44,Population,Sex by Age,B01001_014E,1,1,0,0
+15,Male 45 to 49,age_m_45to49,Population,Sex by Age,B01001_015E,1,1,0,0
+16,Male 50 to 54,age_m_50to54,Population,Sex by Age,B01001_016E,1,1,0,0
+17,Male 55 to 59,age_m_55to59,Population,Sex by Age,B01001_017E,1,1,0,0
+18,Male 60 and 61,age_m_60to61,Population,Sex by Age,B01001_018E,1,1,0,0
+19,Male 62 and 64,age_m_62to64,Population,Sex by Age,B01001_019E,1,1,0,0
+20,Male 65 and 66,age_m_65to66,Population,Sex by Age,B01001_020E,1,1,0,0
+21,Male 67 to 69,age_m_67to69,Population,Sex by Age,B01001_021E,1,1,0,0
+22,Male 70 to 74,age_m_70to74,Population,Sex by Age,B01001_022E,1,1,0,0
+23,Male 75 to 79,age_m_75to79,Population,Sex by Age,B01001_023E,1,1,0,0
+24,Male 80 to 84,age_m_80to84,Population,Sex by Age,B01001_024E,1,1,0,0
+25,Male 85 Years and Over,age_m_85+,Population,Sex by Age,B01001_025E,1,1,0,0
+26,Female Total,age_total_female,Population,Sex by Age,B01001_026E,1,1,0,0
+27,Female Under 5,age_f_u5,Population,Sex by Age,B01001_027E,1,1,0,0
+28,Female 5 to 9,age_f_5to9,Population,Sex by Age,B01001_028E,1,1,0,0
+29,Female 10 to 14,age_f_10to14,Population,Sex by Age,B01001_029E,1,1,0,0
+30,Female 15 to 17,age_f_15to17,Population,Sex by Age,B01001_030E,1,1,0,0
+31,Female 18 and 19,age_f_18to19,Population,Sex by Age,B01001_031E,1,1,0,0
+32,Female 20,age_f_20,Population,Sex by Age,B01001_032E,1,1,0,0
+33,Female 21,age_f_21,Population,Sex by Age,B01001_033E,1,1,0,0
+34,Female 22 to 24,age_f_22to24,Population,Sex by Age,B01001_034E,1,1,0,0
+35,Female 25 to 29,age_f_25to29,Population,Sex by Age,B01001_035E,1,1,0,0
+36,Female 30 to 34,age_f_30to34,Population,Sex by Age,B01001_036E,1,1,0,0
+37,Female 35 to 39,age_f_35to39,Population,Sex by Age,B01001_037E,1,1,0,0
+38,Female 40 to 44,age_f_40to44,Population,Sex by Age,B01001_038E,1,1,0,0
+39,Female 45 to 49,age_f_45to49,Population,Sex by Age,B01001_039E,1,1,0,0
+40,Female 50 to 54,age_f_50to54,Population,Sex by Age,B01001_040E,1,1,0,0
+41,Female 55 to 59,age_f_55to59,Population,Sex by Age,B01001_041E,1,1,0,0
+42,Female 60 and 61,age_f_60to61,Population,Sex by Age,B01001_042E,1,1,0,0
+43,Female 62 and 64,age_f_62to64,Population,Sex by Age,B01001_043E,1,1,0,0
+44,Female 65 and 66,age_f_65to66,Population,Sex by Age,B01001_044E,1,1,0,0
+45,Female 67 to 69,age_f_67to69,Population,Sex by Age,B01001_045E,1,1,0,0
+46,Female 70 to 74,age_f_70to74,Population,Sex by Age,B01001_046E,1,1,0,0
+47,Female 75 to 79,age_f_75to79,Population,Sex by Age,B01001_047E,1,1,0,0
+48,Female 80 to 84,age_f_80to84,Population,Sex by Age,B01001_048E,1,1,0,0
+49,Female 85 Years and Over,age_f_85+,Population,Sex by Age,B01001_049E,1,1,0,0
+50,White Alone,raceeth_white_alone,Population,Race and Ethnicity,B01001A_001E,1,1,0,0
+51,Black or African American Alone,raceeth_blackafricanamerican_alone,Population,Race and Ethnicity,B01001B_001E,1,1,0,0
+52,American Indian and Alaska Native Alone,raceeth_americanindianalaskanative_alone,Population,Race and Ethnicity,B01001C_001E,1,1,0,0
+53,Asian Alone,raceeth_asian_alone,Population,Race and Ethnicity,B01001D_001E,1,1,0,0
+54,Native Hawaiian and Other Pacific Islander Alone,raceeth_nativehawaiianotherpacificislander_alone,Population,Race and Ethnicity,B01001E_001E,1,1,0,0
+55,Some Other Race Alone,raceeth_someotherrace_alone,Population,Race and Ethnicity,B01001F_001E,1,1,0,0
+56,Two or More Races Alone,raceeth_twoormoreraces_alone,Population,Race and Ethnicity,B01001G_001E,1,1,0,0
+57,White Alone Not Hispanic or Latino,raceeth_whitealone_nothispanicorlatino,Population,Race and Ethnicity,B01001H_001E,1,1,0,0
+58,Hispanic or Latino,raceeth_hispanicorlatino,Population,Race and Ethnicity,B01001I_001E,1,1,0,0
+59,Average Household Size,hhsize_avg,Population,Household,B25010_001E,1,1,0,0
+60,Total for Healthcare Insurance Coverage Status by Sex by Age,healthcoverage_total_healthcare_series,Population,Healthcare,B27001_001E,1,0,0,0
+61,Total Male Health Insurance Coverage,healthcoverage_total_mallhealthcare,Population,Healthcare,B27001_002E,1,0,0,0
+62,Male Under 6 Healthcare Coverage,healthcoverage_mu6_all,Population,Healthcare,B27001_003E,1,0,0,0
+63,Male Under 6 With Health Insurance,healthcoverage_mu6_w,Population,Healthcare,B27001_004E,1,0,0,0
+64,Male Under 6 Without Health Insurance,healthcoverage_mu6_wo,Population,Healthcare,B27001_005E,1,0,0,0
+65,Male 6 to 18  Healthcare Coverage,healthcoverage_m6to18_all,Population,Healthcare,B27001_006E,1,0,0,0
+66,Male 6 to 18 With Health Insurance,healthcoverage_m6to18_w,Population,Healthcare,B27001_007E,1,0,0,0
+67,Male 6 to 18 Without Health Insurance,healthcoverage_m6to18_wo,Population,Healthcare,B27001_008E,1,0,0,0
+68,Male 19 to 25 Healthcare Coverage,healthcoverage_m19to25_all,Population,Healthcare,B27001_009E,1,0,0,0
+69,Male 19 to 25 With Health Insurance,healthcoverage_m19to25_w,Population,Healthcare,B27001_010E,1,0,0,0
+70,Male 19 to 25 Without Health Insurance,healthcoverage_m19to25_wo,Population,Healthcare,B27001_011E,1,0,0,0
+71,Male 26 to 34 Healthcare Coverage,healthcoverage_m26to34_all,Population,Healthcare,B27001_012E,1,0,0,0
+72,Male 26 to 34 With Health Insurance,healthcoverage_m26to34_w,Population,Healthcare,B27001_013E,1,0,0,0
+73,Male 26 to 34 Without Health Insurance,healthcoverage_m26to34_wo,Population,Healthcare,B27001_014E,1,0,0,0
+74,Male 35 to 44 Healthcare Coverage,healthcoverage_m35to44_all,Population,Healthcare,B27001_015E,1,0,0,0
+75,Male 35 to 44 With Health Insurance,healthcoverage_m35to44_w,Population,Healthcare,B27001_016E,1,0,0,0
+76,Male 35 to 44 Without Health Insurance,healthcoverage_m35to44_wo,Population,Healthcare,B27001_017E,1,0,0,0
+77,Male 45 to 54 Healthcare Coverage,healthcoverage_m45to54_all,Population,Healthcare,B27001_018E,1,0,0,0
+78,Male 45 to 54 With Health Insurance,healthcoverage_m45to54_w,Population,Healthcare,B27001_019E,1,0,0,0
+79,Male 45 to 54 Without Health Insurance,healthcoverage_m45to54_wo,Population,Healthcare,B27001_020E,1,0,0,0
+80,Male 55 to 64 Healthcare Coverage,healthcoverage_m55to64_all,Population,Healthcare,B27001_021E,1,0,0,0
+81,Male 55 to 64 With Health Insurance,healthcoverage_m55to64_w,Population,Healthcare,B27001_022E,1,0,0,0
+82,Male 55 to 64 Without Health Insurance,healthcoverage_m55to64_wo,Population,Healthcare,B27001_023E,1,0,0,0
+83,Male 65 to 74 Healthcare Coverage,healthcoverage_m65to74_all,Population,Healthcare,B27001_024E,1,0,0,0
+84,Male 65 to 74 With Health Insurance,healthcoverage_m65to74_w,Population,Healthcare,B27001_025E,1,0,0,0
+85,Male 65 to 74 Without Health Insurance,healthcoverage_m65to74_wo,Population,Healthcare,B27001_026E,1,0,0,0
+86,Male 75 and Over Healthcare Coverage,healthcoverage_m75+_all,Population,Healthcare,B27001_027E,1,0,0,0
+87,Male 75 and Over With Health Insurance,healthcoverage_m75+_w,Population,Healthcare,B27001_028E,1,0,0,0
+88,Male 75 and Over Without Health Insurance,healthcoverage_m75+_wo,Population,Healthcare,B27001_029E,1,0,0,0
+89,Total Female Health Insurance Coverage,healthcoverage_total_fallhealthcare,Population,Healthcare,B27001_030E,1,0,0,0
+90,Female Under 6 Healthcare Coverage,healthcoverage_fu6_all,Population,Healthcare,B27001_031E,1,0,0,0
+91,Female Under 6 With Health Insurance,healthcoverage_fu6_w,Population,Healthcare,B27001_032E,1,0,0,0
+92,Female Under 6 Without Health Insurance,healthcoverage_fu6_wo,Population,Healthcare,B27001_033E,1,0,0,0
+93,Female 6 to 18  Healthcare Coverage,healthcoverage_f6to18_all,Population,Healthcare,B27001_034E,1,0,0,0
+94,Female 6 to 18 With Health Insurance,healthcoverage_f6to18_w,Population,Healthcare,B27001_035E,1,0,0,0
+95,Female 6 to 18 Without Health Insurance,healthcoverage_f6to18_wo,Population,Healthcare,B27001_036E,1,0,0,0
+96,Female 19 to 25 Healthcare Coverage,healthcoverage_f19to25_all,Population,Healthcare,B27001_037E,1,0,0,0
+97,Female 19 to 25 With Health Insurance,healthcoverage_f19to25_w,Population,Healthcare,B27001_038E,1,0,0,0
+98,Female 19 to 25 Without Health Insurance,healthcoverage_f19to25_wo,Population,Healthcare,B27001_039E,1,0,0,0
+99,Female 26 to 34 Healthcare Coverage,healthcoverage_f26to34_all,Population,Healthcare,B27001_040E,1,0,0,0
+100,Female 26 to 34 With Health Insurance,healthcoverage_f26to34_w,Population,Healthcare,B27001_041E,1,0,0,0
+101,Female 26 to 34 Without Health Insurance,healthcoverage_f26to34_wo,Population,Healthcare,B27001_042E,1,0,0,0
+102,Female 35 to 44 Healthcare Coverage,healthcoverage_f35to44_all,Population,Healthcare,B27001_043E,1,0,0,0
+103,Female 35 to 44 With Health Insurance,healthcoverage_f35to44_w,Population,Healthcare,B27001_044E,1,0,0,0
+104,Female 35 to 44 Without Health Insurance,healthcoverage_f35to44_wo,Population,Healthcare,B27001_045E,1,0,0,0
+105,Female 45 to 54 Healthcare Coverage,healthcoverage_f45to54_all,Population,Healthcare,B27001_046E,1,0,0,0
+106,Female 45 to 54 With Health Insurance,healthcoverage_f45to54_w,Population,Healthcare,B27001_047E,1,0,0,0
+107,Female 45 to 54 Without Health Insurance,healthcoverage_f45to54_wo,Population,Healthcare,B27001_048E,1,0,0,0
+108,Female 55 to 64 Healthcare Coverage,healthcoverage_f55to64_all,Population,Healthcare,B27001_049E,1,0,0,0
+109,Female 55 to 64 With Health Insurance,healthcoverage_f55to64_w,Population,Healthcare,B27001_050E,1,0,0,0
+110,Female 55 to 64 Without Health Insurance,healthcoverage_f55to64_wo,Population,Healthcare,B27001_051E,1,0,0,0
+111,Female 65 to 74 Healthcare Coverage,healthcoverage_f65to74_all,Population,Healthcare,B27001_052E,1,0,0,0
+112,Female 65 to 74 With Health Insurance,healthcoverage_f65to74_w,Population,Healthcare,B27001_053E,1,0,0,0
+113,Female 65 to 74 Without Health Insurance,healthcoverage_f65to74_wo,Population,Healthcare,B27001_054E,1,0,0,0
+114,Female 75 and Over Healthcare Coverage,healthcoverage_f75+_all,Population,Healthcare,B27001_055E,1,0,0,0
+115,Female 75 and Over With Health Insurance,healthcoverage_f75+_w,Population,Healthcare,B27001_056E,1,0,0,0
+116,Female 75 and Over Without Health Insurance,healthcoverage_f75+_wo,Population,Healthcare,B27001_057E,1,0,0,0
+117,Total for Private Healthcare Insurance Coverage Status by Sex by Age,healthcoverage_total_privatehealthcare_series,Population,Healthcare,B27002_001E,1,0,0,0
+118,Total Male Private Health Insurance Coverage,healthcoverage_total_mprivate,Population,Healthcare,B27002_002E,1,0,0,0
+119,Male Under 6 Private Healthcare Coverage,healthcoverage_mu6_privateall,Population,Healthcare,B27002_003E,1,0,0,0
+120,Male Under 6 With Private Health Insurance,healthcoverage_mu6_wprivate,Population,Healthcare,B27002_004E,1,0,0,0
+121,Male Under 6 Without Private Health Insurance,healthcoverage_mu6_woprivate,Population,Healthcare,B27002_005E,1,0,0,0
+122,Male 6 to 18  Private Healthcare Coverage,healthcoverage_m6to18_privateall,Population,Healthcare,B27002_006E,1,0,0,0
+123,Male 6 to 18 With Private Health Insurance,healthcoverage_m6to18_wprivate,Population,Healthcare,B27002_007E,1,0,0,0
+124,Male 6 to 18 Without Private Health Insurance,healthcoverage_m6to18_woprivate,Population,Healthcare,B27002_008E,1,0,0,0
+125,Male 19 to 25 Private Healthcare Coverage,healthcoverage_m19to25_privateall,Population,Healthcare,B27002_009E,1,0,0,0
+126,Male 19 to 25 With Private Health Insurance,healthcoverage_m19to25_wprivate,Population,Healthcare,B27002_010E,1,0,0,0
+127,Male 19 to 25 Without Private Health Insurance,healthcoverage_m19to25_woprivate,Population,Healthcare,B27002_011E,1,0,0,0
+128,Male 26 to 34 Private Healthcare Coverage,healthcoverage_m26to34_privateall,Population,Healthcare,B27002_012E,1,0,0,0
+129,Male 26 to 34 With Private Health Insurance,healthcoverage_m26to34_wprivate,Population,Healthcare,B27002_013E,1,0,0,0
+130,Male 26 to 34 Without Private Health Insurance,healthcoverage_m26to34_woprivate,Population,Healthcare,B27002_014E,1,0,0,0
+131,Male 35 to 44 Private Healthcare Coverage,healthcoverage_m35to44_privateall,Population,Healthcare,B27002_015E,1,0,0,0
+132,Male 35 to 44 With Private Health Insurance,healthcoverage_m35to44_wprivate,Population,Healthcare,B27002_016E,1,0,0,0
+133,Male 35 to 44 Without Private Health Insurance,healthcoverage_m35to44_woprivate,Population,Healthcare,B27002_017E,1,0,0,0
+134,Male 45 to 54 Private Healthcare Coverage,healthcoverage_m45to54_privateall,Population,Healthcare,B27002_018E,1,0,0,0
+135,Male 45 to 54 With Private Health Insurance,healthcoverage_m45to54_wprivate,Population,Healthcare,B27002_019E,1,0,0,0
+136,Male 45 to 54 Without Private Health Insurance,healthcoverage_m45to54_woprivate,Population,Healthcare,B27002_020E,1,0,0,0
+137,Male 55 to 64 Private Healthcare Coverage,healthcoverage_m55to64_privateall,Population,Healthcare,B27002_021E,1,0,0,0
+138,Male 55 to 64 With Private Health Insurance,healthcoverage_m55to64_wprivate,Population,Healthcare,B27002_022E,1,0,0,0
+139,Male 55 to 64 Without Private Health Insurance,healthcoverage_m55to64_woprivate,Population,Healthcare,B27002_023E,1,0,0,0
+140,Male 65 to 74 Private Healthcare Coverage,healthcoverage_m65to74_privateall,Population,Healthcare,B27002_024E,1,0,0,0
+141,Male 65 to 74 With Private Health Insurance,healthcoverage_m65to74_wprivate,Population,Healthcare,B27002_025E,1,0,0,0
+142,Male 65 to 74 Without Private Health Insurance,healthcoverage_m65to74_woprivate,Population,Healthcare,B27002_026E,1,0,0,0
+143,Male 75 and Over Private Healthcare Coverage,healthcoverage_m75+_privateall,Population,Healthcare,B27002_027E,1,0,0,0
+144,Male 75 and Over With Private Health Insurance,healthcoverage_m75+_wprivate,Population,Healthcare,B27002_028E,1,0,0,0
+145,Male 75 and Over Without Private Health Insurance,healthcoverage_m75+_woprivate,Population,Healthcare,B27002_029E,1,0,0,0
+146,Total Female Private Health Insurance Coverage,healthcoverage_total_fprivate,Population,Healthcare,B27002_030E,1,0,0,0
+147,Female Under 6 Private Healthcare Coverage,healthcoverage_fu6_privateall,Population,Healthcare,B27002_031E,1,0,0,0
+148,Female Under 6 With Private Health Insurance,healthcoverage_fu6_wprivate,Population,Healthcare,B27002_032E,1,0,0,0
+149,Female Under 6 Without Private Health Insurance,healthcoverage_fu6_woprivate,Population,Healthcare,B27002_033E,1,0,0,0
+150,Female 6 to 18  Private Healthcare Coverage,healthcoverage_f6to18_privateall,Population,Healthcare,B27002_034E,1,0,0,0
+151,Female 6 to 18 With Private Health Insurance,healthcoverage_f6to18_wprivate,Population,Healthcare,B27002_035E,1,0,0,0
+152,Female 6 to 18 Without Private Health Insurance,healthcoverage_f6to18_woprivate,Population,Healthcare,B27002_036E,1,0,0,0
+153,Female 19 to 25 Private Healthcare Coverage,healthcoverage_f19to25_privateall,Population,Healthcare,B27002_037E,1,0,0,0
+154,Female 19 to 25 With Private Health Insurance,healthcoverage_f19to25_wprivate,Population,Healthcare,B27002_038E,1,0,0,0
+155,Female 19 to 25 Without Private Health Insurance,healthcoverage_f19to25_woprivate,Population,Healthcare,B27002_039E,1,0,0,0
+156,Female 26 to 34 Private Healthcare Coverage,healthcoverage_f26to34_privateall,Population,Healthcare,B27002_040E,1,0,0,0
+157,Female 26 to 34 With Private Health Insurance,healthcoverage_f26to34_wprivate,Population,Healthcare,B27002_041E,1,0,0,0
+158,Female 26 to 34 Without Private Health Insurance,healthcoverage_f26to34_woprivate,Population,Healthcare,B27002_042E,1,0,0,0
+159,Female 35 to 44 Private Healthcare Coverage,healthcoverage_f35to44_privateall,Population,Healthcare,B27002_043E,1,0,0,0
+160,Female 35 to 44 With Private Health Insurance,healthcoverage_f35to44_wprivate,Population,Healthcare,B27002_044E,1,0,0,0
+161,Female 35 to 44 Without Private Health Insurance,healthcoverage_f35to44_woprivate,Population,Healthcare,B27002_045E,1,0,0,0
+162,Female 45 to 54 Private Healthcare Coverage,healthcoverage_f45to54_privateall,Population,Healthcare,B27002_046E,1,0,0,0
+163,Female 45 to 54 With Private Health Insurance,healthcoverage_f45to54_wprivate,Population,Healthcare,B27002_047E,1,0,0,0
+164,Female 45 to 54 Without Private Health Insurance,healthcoverage_f45to54_woprivate,Population,Healthcare,B27002_048E,1,0,0,0
+165,Female 55 to 64 Private Healthcare Coverage,healthcoverage_f55to64_privateall,Population,Healthcare,B27002_049E,1,0,0,0
+166,Female 55 to 64 With Private Health Insurance,healthcoverage_f55to64_wprivate,Population,Healthcare,B27002_050E,1,0,0,0
+167,Female 55 to 64 Without Private Health Insurance,healthcoverage_f55to64_woprivate,Population,Healthcare,B27002_051E,1,0,0,0
+168,Female 65 to 74 Private Healthcare Coverage,healthcoverage_f65to74_privateall,Population,Healthcare,B27002_052E,1,0,0,0
+169,Female 65 to 74 With Private Health Insurance,healthcoverage_f65to74_wprivate,Population,Healthcare,B27002_053E,1,0,0,0
+170,Female 65 to 74 Without Private Health Insurance,healthcoverage_f65to74_woprivate,Population,Healthcare,B27002_054E,1,0,0,0
+171,Female 75 and Over Private Healthcare Coverage,healthcoverage_f75+_privateall,Population,Healthcare,B27002_055E,1,0,0,0
+172,Female 75 and Over With Private Health Insurance,healthcoverage_f75+_wprivate,Population,Healthcare,B27002_056E,1,0,0,0
+173,Female 75 and Over Without Private Health Insurance,healthcoverage_f75+_woprivate,Population,Healthcare,B27002_057E,1,0,0,0
+174,Total for Public Healthcare Insurance Coverage Status by Sex by Age,healthcoverage_total_publichealthcare_series,Population,Healthcare,B27003_001E,1,0,0,0
+175,Total Male Public Health Insurance Coverage,healthcoverage_total_mpublic,Population,Healthcare,B27003_002E,1,0,0,0
+176,Male Under 6 Public Healthcare Coverage,healthcoverage_mu6_publicall,Population,Healthcare,B27003_003E,1,0,0,0
+177,Male Under 6 With Public Health Insurance,healthcoverage_mu6_wpublic,Population,Healthcare,B27003_004E,1,0,0,0
+178,Male Under 6 Without Public Health Insurance,healthcoverage_mu6_wopublic,Population,Healthcare,B27003_005E,1,0,0,0
+179,Male 6 to 18  Public Healthcare Coverage,healthcoverage_m6to18_publicall,Population,Healthcare,B27003_006E,1,0,0,0
+180,Male 6 to 18 With Public Health Insurance,healthcoverage_m6to18_wpublic,Population,Healthcare,B27003_007E,1,0,0,0
+181,Male 6 to 18 Without Public Health Insurance,healthcoverage_m6to18_wopublic,Population,Healthcare,B27003_008E,1,0,0,0
+182,Male 19 to 25 Public Healthcare Coverage,healthcoverage_m19to25_publicall,Population,Healthcare,B27003_009E,1,0,0,0
+183,Male 19 to 25 With Public Health Insurance,healthcoverage_m19to25_wpublic,Population,Healthcare,B27003_010E,1,0,0,0
+184,Male 19 to 25 Without Public Health Insurance,healthcoverage_m19to25_wopublic,Population,Healthcare,B27003_011E,1,0,0,0
+185,Male 26 to 34 Public Healthcare Coverage,healthcoverage_m26to34_publicall,Population,Healthcare,B27003_012E,1,0,0,0
+186,Male 26 to 34 With Public Health Insurance,healthcoverage_m26to34_wpublic,Population,Healthcare,B27003_013E,1,0,0,0
+187,Male 26 to 34 Without Public Health Insurance,healthcoverage_m26to34_wopublic,Population,Healthcare,B27003_014E,1,0,0,0
+188,Male 35 to 44 Public Healthcare Coverage,healthcoverage_m35to44_publicall,Population,Healthcare,B27003_015E,1,0,0,0
+189,Male 35 to 44 With Public Health Insurance,healthcoverage_m35to44_wpublic,Population,Healthcare,B27003_016E,1,0,0,0
+190,Male 35 to 44 Without Public Health Insurance,healthcoverage_m35to44_wopublic,Population,Healthcare,B27003_017E,1,0,0,0
+191,Male 45 to 54 Public Healthcare Coverage,healthcoverage_m45to54_publicall,Population,Healthcare,B27003_018E,1,0,0,0
+192,Male 45 to 54 With Public Health Insurance,healthcoverage_m45to54_wpublic,Population,Healthcare,B27003_019E,1,0,0,0
+193,Male 45 to 54 Without Public Health Insurance,healthcoverage_m45to54_wopublic,Population,Healthcare,B27003_020E,1,0,0,0
+194,Male 55 to 64 Public Healthcare Coverage,healthcoverage_m55to64_publicall,Population,Healthcare,B27003_021E,1,0,0,0
+195,Male 55 to 64 With Public Health Insurance,healthcoverage_m55to64_wpublic,Population,Healthcare,B27003_022E,1,0,0,0
+196,Male 55 to 64 Without Public Health Insurance,healthcoverage_m55to64_wopublic,Population,Healthcare,B27003_023E,1,0,0,0
+197,Male 65 to 74 Public Healthcare Coverage,healthcoverage_m65to74_publicall,Population,Healthcare,B27003_024E,1,0,0,0
+198,Male 65 to 74 With Public Health Insurance,healthcoverage_m65to74_wpublic,Population,Healthcare,B27003_025E,1,0,0,0
+199,Male 65 to 74 Without Public Health Insurance,healthcoverage_m65to74_wopublic,Population,Healthcare,B27003_026E,1,0,0,0
+200,Male 75 and Over Public Healthcare Coverage,healthcoverage_m75+_publicall,Population,Healthcare,B27003_027E,1,0,0,0
+201,Male 75 and Over With Public Health Insurance,healthcoverage_m75+_wpublic,Population,Healthcare,B27003_028E,1,0,0,0
+202,Male 75 and Over Without Public Health Insurance,healthcoverage_m75+_wopublic,Population,Healthcare,B27003_029E,1,0,0,0
+203,Total Female Public Health Insurance Coverage,healthcoverage_total_fpublic,Population,Healthcare,B27003_030E,1,0,0,0
+204,Female Under 6 Public Healthcare Coverage,healthcoverage_fu6_publicall,Population,Healthcare,B27003_031E,1,0,0,0
+205,Female Under 6 With Public Health Insurance,healthcoverage_fu6_wpublic,Population,Healthcare,B27003_032E,1,0,0,0
+206,Female Under 6 Without Public Health Insurance,healthcoverage_fu6_wopublic,Population,Healthcare,B27003_033E,1,0,0,0
+207,Female 6 to 18  Public Healthcare Coverage,healthcoverage_f6to18_publicall,Population,Healthcare,B27003_034E,1,0,0,0
+208,Female 6 to 18 With Public Health Insurance,healthcoverage_f6to18_wpublic,Population,Healthcare,B27003_035E,1,0,0,0
+209,Female 6 to 18 Without Public Health Insurance,healthcoverage_f6to18_wopublic,Population,Healthcare,B27003_036E,1,0,0,0
+210,Female 19 to 25 Public Healthcare Coverage,healthcoverage_f19to25_publicall,Population,Healthcare,B27003_037E,1,0,0,0
+211,Female 19 to 25 With Public Health Insurance,healthcoverage_f19to25_wpublic,Population,Healthcare,B27003_038E,1,0,0,0
+212,Female 19 to 25 Without Public Health Insurance,healthcoverage_f19to25_wopublic,Population,Healthcare,B27003_039E,1,0,0,0
+213,Female 26 to 34 Public Healthcare Coverage,healthcoverage_f26to34_publicall,Population,Healthcare,B27003_040E,1,0,0,0
+214,Female 26 to 34 With Public Health Insurance,healthcoverage_f26to34_wpublic,Population,Healthcare,B27003_041E,1,0,0,0
+215,Female 26 to 34 Without Public Health Insurance,healthcoverage_f26to34_wopublic,Population,Healthcare,B27003_042E,1,0,0,0
+216,Female 35 to 44 Public Healthcare Coverage,healthcoverage_f35to44_publicall,Population,Healthcare,B27003_043E,1,0,0,0
+217,Female 35 to 44 With Public Health Insurance,healthcoverage_f35to44_wpublic,Population,Healthcare,B27003_044E,1,0,0,0
+218,Female 35 to 44 Without Public Health Insurance,healthcoverage_f35to44_wopublic,Population,Healthcare,B27003_045E,1,0,0,0
+219,Female 45 to 54 Public Healthcare Coverage,healthcoverage_f45to54_publicall,Population,Healthcare,B27003_046E,1,0,0,0
+220,Female 45 to 54 With Public Health Insurance,healthcoverage_f45to54_wpublic,Population,Healthcare,B27003_047E,1,0,0,0
+221,Female 45 to 54 Without Public Health Insurance,healthcoverage_f45to54_wopublic,Population,Healthcare,B27003_048E,1,0,0,0
+222,Female 55 to 64 Public Healthcare Coverage,healthcoverage_f55to64_publicall,Population,Healthcare,B27003_049E,1,0,0,0
+223,Female 55 to 64 With Public Health Insurance,healthcoverage_f55to64_wpublic,Population,Healthcare,B27003_050E,1,0,0,0
+224,Female 55 to 64 Without Public Health Insurance,healthcoverage_f55to64_wopublic,Population,Healthcare,B27003_051E,1,0,0,0
+225,Female 65 to 74 Public Healthcare Coverage,healthcoverage_f65to74_publicall,Population,Healthcare,B27003_052E,1,0,0,0
+226,Female 65 to 74 With Public Health Insurance,healthcoverage_f65to74_wpublic,Population,Healthcare,B27003_053E,1,0,0,0
+227,Female 65 to 74 Without Public Health Insurance,healthcoverage_f65to74_wopublic,Population,Healthcare,B27003_054E,1,0,0,0
+228,Female 75 and Over Public Healthcare Coverage,healthcoverage_f75+_publicall,Population,Healthcare,B27003_055E,1,0,0,0
+229,Female 75 and Over With Public Health Insurance,healthcoverage_f75+_wpublic,Population,Healthcare,B27003_056E,1,0,0,0
+230,Female 75 and Over Without Public Health Insurance,healthcoverage_f75+_wopublic,Population,Healthcare,B27003_057E,1,0,0,0
+231,Total for Poverty Status in the Past 12 Months by Sex by Age,poverty_total_bysexbyage_series,Population,Poverty,B17001_001E,1,1,0,0
+232,Income in the Past 12 Months Below Poverty Level,poverty_belowlevel,Population,Poverty,B17001_002E,1,1,0,0
+233,Housing Units,units_allhousing,Housing,Housing,B25001_001E,1,0,1,0
+234,Total Occupancy Status Series,occupancy_total_series,Housing,Occupancy,B25002_001E,1,0,1,0
+235,Occupied Units,occupancy_occupiedunits,Housing,Occupancy,B25002_002E,1,0,0,0
+236,Vacant Units,occupancy_vacantunits,Housing,Occupancy,B25002_003E,1,0,0,0
+237,Total Tenure Series,tenure_total_series,Housing,Tenure,B25003_001E,1,0,0,0
+238,Owner Occupied Units,tenure_owneroccunits,Housing,Tenure,B25003_002E,1,0,0,0
+239,Renter Occupied Units,tenure_renteroccunits,Housing,Tenure,B25003_003E,1,0,0,0
+240,Total for Units in Structure,units_total_series,Housing,Units in Structure,B25024_001E,1,0,1,0
+241,1 Detached Unit in Structure,units_one_detached,Housing,Units in Structure,B25024_002E,1,0,0,0
+242,1 Attached Unit in Structure,units_one_attached,Housing,Units in Structure,B25024_003E,1,0,0,0
+243,2 Units in Structure,units_two,Housing,Units in Structure,B25024_004E,1,0,0,0
+244,3 or 4 Units in Structure,units_threetofour,Housing,Units in Structure,B25024_005E,1,0,0,0
+245,5 to 9 Units in Structure,units_fivetonine,Housing,Units in Structure,B25024_006E,1,0,0,0
+246,10 to 19 Units in Structure,units_tentonineteen,Housing,Units in Structure,B25024_007E,1,0,0,0
+247,20 to 49 Units in Structure,units_twentytofortynine,Housing,Units in Structure,B25024_008E,1,0,0,0
+248,50 or More Units in Structure,units_fiftyormore,Housing,Units in Structure,B25024_009E,1,0,0,0
+249,Mobile Home Unit,units_mobilehome,Housing,Units in Structure,B25024_010E,1,0,0,0
+250,"Boat, RV, Van etc. Unit",units_boatrvvanetc,Housing,Units in Structure,B25024_011E,1,0,0,0
+251,Total Household Type Series,hhtype_total_series,Housing,Household Type,B11001_001E,1,0,1,0
+252,Family Households,hhtype_familyhh,Housing,Household Type,B11001_002E,1,0,1,0
+253,Family Household Married Couple Family,hhtype_familyhh_marriedcouplefam,Housing,Household Type,B11001_003E,1,0,1,0
+254,Family Households Other Family,hhtype_familyhh_otherfam,Housing,Household Type,B11001_004E,1,0,1,0
+255,Family Households Male Householder No Spouse,hhtype_familyhh_malenospouse,Housing,Household Type,B11001_005E,1,0,1,0
+256,Family Households Female Householder No Spouse,hhtype_familyhh_femalenospouse,Housing,Household Type,B11001_006E,1,0,1,0
+257,Nonfamily Households,hhtype_nonfamhh,Housing,Household Type,B11001_007E,1,0,1,0
+258,Nonfamily Household Householder Living Alone,hhtype_nonfamhh_householderalone,Housing,Household Type,B11001_008E,1,0,1,0
+259,Nonfamily Household Householder Not Living Alone,hhtype_nonfamhh_householdernotalone,Housing,Household Type,B11001_009E,1,0,1,0
+260,Median Household Income,hhincome_median,Housing,Housing,B19013_001E,1,0,1,0
+261,Total Mortgage Status by Selected Monthly Owner Cost as a Percentage of Household Income in the Past 12 Months Series,housingcost_total_selectedownercosts%hhincome_series,Housing,Cost Burden,B25091_001E,1,0,1,0
+262,Total Percent Owner Costs with a Mortgage Series,housingcost_total%ownercostwmortgage_series,Housing,Cost Burden,B25091_002E,1,0,1,0
+263,Housing Units with a Mortgage 30 to 34.9 Percent,housingcost_%ownercost30to34.9_wmortgage,Housing,Cost Burden,B25091_008E,1,0,1,0
+264,Housing Units with a Mortgage 35 to 39.9 Percent,housingcost_%ownercost35to39.9_wmortgage,Housing,Cost Burden,B25091_009E,1,0,1,0
+265,Housing Units with a Mortgage 40 to 49.9 Percent,housingcost_%ownercost40to49.9_wmortgage,Housing,Cost Burden,B25091_010E,1,0,1,0
+266,Housing Units with a Mortgage 50 or More Percent,housingcost_%ownercost50+_wmortgage,Housing,Cost Burden,B25091_011E,1,0,1,0
+267,Total Percent Owner Costs without a Mortgage Series,housingcost_total%ownercostwomortgage_series,Housing,Cost Burden,B25091_013E,1,0,1,0
+268,Housing Units without a Mortgage 30 to 34.9 Percent,housingcost_%ownercost30to34.9_womortgage,Housing,Cost Burden,B25091_019E,1,0,1,0
+269,Housing Units without a Mortgage 35 to 39.9 Percent,housingcost_%ownercost35to39.9_womortgage,Housing,Cost Burden,B25091_020E,1,0,1,0
+270,Housing Units without a Mortgage 40 to 49.9 Percent,housingcost_%ownercost40to49.9_womortgage,Housing,Cost Burden,B25091_021E,1,0,1,0
+271,Housing Units without a Mortgage 50 or More Percent,housingcost_%ownercost50+_womortgage,Housing,Cost Burden,B25091_022E,1,0,1,0
+272,Total Gross Rent as Percentage of Household Income in Past 12 Months Series,housingcost_total_rent%hhincome_series,Housing,Cost Burden,B25070_001E,1,0,1,0
+273,Gross Rent 30 to 34.9 Percent of Household Income,housingcost_%rentercost30to34.9,Housing,Cost Burden,B25070_007E,1,0,1,0
+274,Gross Rent 35 to 39.9 Percent of Household Income,housingcost_%rentercost35to39.9,Housing,Cost Burden,B25070_008E,1,0,1,0
+275,Gross Rent 40 to 49.9 Percent of Household Income,housingcost_%rentercost40to49.9,Housing,Cost Burden,B25070_009E,1,0,1,0
+276,Gross Rent 50 Percent or More of Household Income,housingcost_%rentercost50+,Housing,Cost Burden,B25070_010E,1,0,1,0
+277,Median Value for Owner Occupied Units with a Mortgage,housingcost_medvalue_ownerocc_wmortgage,Housing,Home Value,B25097_002E,1,0,0,0
+278,Median Value for Owner Occupied Units without a Mortgage,housingcost_medvalue_ownerocc_womortgage,Housing,Home Value,B25097_003E,1,0,0,0
+279,Median Gross Rent Renter Occupied,housingcost_mediangrossrent_renteroccupied,Housing,Home Value,B25031_001E,1,0,1,0
+280,Total Year Structure Built Series,structures_total_yearbuilt_series,Housing,Year Structure Built,B25034_001E,1,0,0,0
+281,Structures Built 2014 or Later,structures_built2014orlater,Housing,Year Structure Built,B25034_002E,1,0,0,0
+282,Structures Built 2010 to 2013,structures_built2010to2013,Housing,Year Structure Built,B25034_003E,1,0,0,0
+283,Structures Built 2000 to 2009,structures_built2000to2009,Housing,Year Structure Built,B25034_004E,1,0,0,0
+284,Structures Built 1990 to 1999,structures_built1990to1999,Housing,Year Structure Built,B25034_005E,1,0,0,0
+285,Structures Built 1980 to 1989,structures_built1980to1989,Housing,Year Structure Built,B25034_006E,1,0,0,0
+286,Structures Built 1970 to 1979,structures_built1970to1979,Housing,Year Structure Built,B25034_007E,1,0,0,0
+287,Structures Built 1960 to 1969,structures_built1960to1969,Housing,Year Structure Built,B25034_008E,1,0,0,0
+288,Structures Built 1950 to 1959,structures_built1950to1959,Housing,Year Structure Built,B25034_009E,1,0,0,0
+289,Structures Built 1940 to 1949,structures_built1940to1949,Housing,Year Structure Built,B25034_010E,1,0,0,0
+290,Structures Built 1939 or Earlier,structures_built1939orearlier,Housing,Year Structure Built,B25034_011E,1,0,0,0
+291,Median Year Structure Built,structures_medianyearbuilt,Housing,Year Structure Built,B25035_001E,1,0,0,0
+292,Total Sex of Workers by Means of Transportation to Work Series,commute_ total_meansoftransportationtowork_series,Transportation,Commute,B08006_001E,1,0,0,0
+293,Car Truck or Van Commute,commute_cartruckvan,Transportation,Commute,B08006_002E,1,0,0,0
+294,Car Truck or Van Drove Alone Commute,commute_cartruckvan_drovealone,Transportation,Commute,B08006_003E,1,0,0,0
+295,Car Truck or Van Carpooled Commute,commute_cartruckvan_carpooled,Transportation,Commute,B08006_004E,1,0,0,0
+296,Car Truck or Van 2 Person Carpooled Commute,commute_cartruckvan_carpooled_2ppl,Transportation,Commute,B08006_005E,1,0,0,0
+297,Car Truck or Van 3 Person Carpooled Commute,commute_cartruckvan_carpooled_3ppl,Transportation,Commute,B08006_006E,1,0,0,0
+298,Car Truck or Van 4 or More Person Carpooled Commute,commute_cartruckvan_carpooled_4ormoreppl,Transportation,Commute,B08006_007E,1,0,0,0
+299,Public Transportation Excluding Taxicab Commute,commute_publictransportation,Transportation,Commute,B08006_008E,1,0,0,0
+300,Public Transportation Bus Commute,commute_publictransportation_bus,Transportation,Commute,B08006_009E,1,0,0,0
+301,Public Transportation Subway or Elevated Rail Commute,commute_publictransportation_subwayorelevatedrail,Transportation,Commute,B08006_010E,1,0,0,0
+302,Public Transportation Long Distance Train or Commuter Rail Commute,commute_publictransportation_longdistancetrainorcommuterrail,Transportation,Commute,B08006_011E,1,0,0,0
+303,Public Transportation Light Rail Streetcar or Trolley Commute,commute_publictransportation_lightrailstreetcarortrolley,Transportation,Commute,B08006_012E,1,0,0,0
+304,Public Transportation Ferryboat Commute,commute_publictransportation_ferryboat,Transportation,Commute,B08006_013E,1,0,0,0
+305,Bicycle Commute,commute_bicycle,Transportation,Commute,B08006_014E,1,0,0,0
+306,Walked Commute,commute_walk,Transportation,Commute,B08006_015E,1,0,0,0
+307,Taxicab Motorcycle or Other Means Commute,commute_taxicabmotorcycleother,Transportation,Commute,B08006_016E,1,0,0,0
+308,Worked from Home Commute,commute_workedfromhome,Transportation,Commute,B08006_017E,1,0,0,0
+309,Total Sex of Workers by Vehicles Available Series,vehicles_total_series2,Transportation,Vehicles,B08014_001E,1,0,0,0
+310,No Vehicle Available,vehicles_none,Transportation,Vehicles,B08014_002E,1,0,0,0
+311,One Vehicle Available,vehicles_one,Transportation,Vehicles,B08014_003E,1,0,0,0
+312,Two Vehicles Available,vehicles_two,Transportation,Vehicles,B08014_004E,1,0,0,0
+313,Three Vehicles Available,vehicles_three,Transportation,Vehicles,B08014_005E,1,0,0,0
+314,Four Vehicles Available,vehicles_four,Transportation,Vehicles,B08014_006E,1,0,0,0
+315,Five or More Vehicles Available,vehicles_fiveormore,Transportation,Vehicles,B08014_007E,1,0,0,0
+316,Total Foreign Born Place of Birth Series,foreignborn_total,Population,Diversity,B05006_001E,1,0,0,0
+317,Europe,fb_europe,Population,Diversity,B05006_002E,1,0,0,0
+318,"Europe, Northern Europe",fb_eur_northern,Population,Diversity,B05006_003E,1,0,0,0
+319,"Europe, Northern Europe, Ireland",fb_eur_n_ireland,Population,Diversity,B05006_004E,1,0,0,0
+320,"Europe, Northern Europe, Denmark",fb_eur_n_denmark,Population,Diversity,B05006_005E,1,0,0,0
+321,"Europe, Northern Europe, Norway",fb_eur_n_norway,Population,Diversity,B05006_006E,1,0,0,0
+322,"Europe, Northern Europe, Sweden",fb_eur_n_sweden,Population,Diversity,B05006_007E,1,0,0,0
+323,"Europe, Northern Europe, UK",fb_eur_n_uk,Population,Diversity,B05006_008E,1,0,0,0
+324,"Europe, Northern Europe, UK, Excluding England and Scotland",fb_eur_n_excluding england and scotland,Population,Diversity,B05006_009E,1,0,0,0
+325,"Europe, Northern Europe, UK, England",fb_eur_n_england,Population,Diversity,B05006_010E,1,0,0,0
+326,"Europe, Northern Europe, UK, Scotland",fb_eur_n_scotland,Population,Diversity,B05006_011E,1,0,0,0
+327,"Europe, Northern Europe, Other",fb_eur_n_other,Population,Diversity,B05006_012E,1,0,0,0
+328,"Europe, Western Europe ",fb_eur_western,Population,Diversity,B05006_013E,1,0,0,0
+329,"Europe, Western Europe, Austria",fb_eur_w_austria,Population,Diversity,B05006_014E,1,0,0,0
+330,"Europe, Western Europe, Belgium",fb_eur_w_belgium,Population,Diversity,B05006_015E,1,0,0,0
+331,"Europe, Western Europe, France",fb_eur_w_france,Population,Diversity,B05006_016E,1,0,0,0
+332,"Europe, Western Europe, Germany",fb_eur_w_germany,Population,Diversity,B05006_017E,1,0,0,0
+333,"Europe, Western Europe, Netherlands",fb_eur_w_netherlands,Population,Diversity,B05006_018E,1,0,0,0
+334,"Europe, Western Europe, Switzerland",fb_eur_w_switzerland,Population,Diversity,B05006_019E,1,0,0,0
+335,"Europe, Western Europe, Other",fb_eur_w_other,Population,Diversity,B05006_020E,1,0,0,0
+336,"Europe, Southern Europe",fb_eur_southern,Population,Diversity,B05006_021E,1,0,0,0
+337,"Europe, Southern Europe, Greece",fb_eur_s_greece,Population,Diversity,B05006_022E,1,0,0,0
+338,"Europe, Southern Europe, Italy",fb_eur_s_italy,Population,Diversity,B05006_023E,1,0,0,0
+339,"Europe, Southern Europe, Portugal",fb_eur_s_portugal,Population,Diversity,B05006_024E,1,0,0,0
+340,"Europe, Southern Europe, Azores Islands",fb_eur_s_azoresislands,Population,Diversity,B05006_025E,1,0,0,0
+341,"Europe, Southern Europe, Spain",fb_eur_s_spain,Population,Diversity,B05006_026E,1,0,0,0
+342,"Europe, Southern Europe, Other",fb_eur_s_other,Population,Diversity,B05006_027E,1,0,0,0
+343,"Europe, Eastern Europe",fb_eur_eastern,Population,Diversity,B05006_028E,1,0,0,0
+344,"Europe, Eastern Europe, Albania",fb_eur_e_albania,Population,Diversity,B05006_029E,1,0,0,0
+345,"Europe, Eastern Europe, Belarus",fb_eur_e_belarus,Population,Diversity,B05006_030E,1,0,0,0
+346,"Europe, Eastern Europe, Bosnia and Herzegovina",fb_eur_e_bosniaandherzegovina,Population,Diversity,B05006_031E,1,0,0,0
+347,"Europe, Eastern Europe, Bulgaria",fb_eur_e_bulgaria,Population,Diversity,B05006_032E,1,0,0,0
+348,"Europe, Eastern Europe, Croatia",fb_eur_e_croatia,Population,Diversity,B05006_033E,1,0,0,0
+349,"Europe, Eastern Europe, Czechoslovakia (Czech Republic and Slovakia)",fb_eur_e_czechoslovakia,Population,Diversity,B05006_034E,1,0,0,0
+350,"Europe, Eastern Europe, Hungary",fb_eur_e_hungary,Population,Diversity,B05006_035E,1,0,0,0
+351,"Europe, Eastern Europe, Latvia",fb_eur_e_latvia,Population,Diversity,B05006_036E,1,0,0,0
+352,"Europe, Eastern Europe, Lithuania",fb_eur_e_lithuania,Population,Diversity,B05006_037E,1,0,0,0
+353,"Europe, Eastern Europe, North Macedonia (Macedonia)",fb_eur_e_macedonia,Population,Diversity,B05006_038E,1,0,0,0
+354,"Europe, Eastern Europe, Moldova",fb_eur_e_moldova,Population,Diversity,B05006_039E,1,0,0,0
+355,"Europe, Eastern Europe, Poland",fb_eur_e_poland,Population,Diversity,B05006_040E,1,0,0,0
+356,"Europe, Eastern Europe, Romania",fb_eur_e_romania,Population,Diversity,B05006_041E,1,0,0,0
+357,"Europe, Eastern Europe, Russia",fb_eur_e_russia,Population,Diversity,B05006_042E,1,0,0,0
+358,"Europe, Eastern Europe, Serbia",fb_eur_e_serbia,Population,Diversity,B05006_043E,1,0,0,0
+359,"Europe, Eastern Europe, Ukraine",fb_eur_e_ukraine,Population,Diversity,B05006_044E,1,0,0,0
+360,"Europe, Eastern Europe, Other",fb_eur_e_other,Population,Diversity,B05006_045E,1,0,0,0
+361,"Europe, n.e.c.",fb_eur_nec,Population,Diversity,B05006_046E,1,0,0,0
+362,Asia,fb_asia,Population,Diversity,B05006_047E,1,0,0,0
+363,"Asia, Eastern Asia",fb_as_eastern,Population,Diversity,B05006_048E,1,0,0,0
+364,"Asia, Eastern Asia,China",fb_as_e_china,Population,Diversity,B05006_049E,1,0,0,0
+365,"Asia, Eastern Asia,China Excluding Hong Kong and Taiwan",fb_as_e_chinanohongkongortaiwan,Population,Diversity,B05006_050E,1,0,0,0
+366,"Asia, Eastern Asia,Hong Kong",fb_as_e_hongkong,Population,Diversity,B05006_051E,1,0,0,0
+367,"Asia, Eastern Asia,Taiwan",fb_as_e_taiwan,Population,Diversity,B05006_052E,1,0,0,0
+368,"Asia, Eastern Asia,Japan",fb_as_e_japan,Population,Diversity,B05006_053E,1,0,0,0
+369,"Asia, Eastern Asia,Korea",fb_as_e_korea,Population,Diversity,B05006_054E,1,0,0,0
+370,"Asia, Eastern Asia,Other",fb_as_e_other,Population,Diversity,B05006_055E,1,0,0,0
+371,"Asia, South Central Asia",fb_as_southcentral,Population,Diversity,B05006_056E,1,0,0,0
+372,"Asia, South Central Asia,Afghanistan",fb_as_sc_afghanistan,Population,Diversity,B05006_057E,1,0,0,0
+373,"Asia, South Central Asia,Bangladesh",fb_as_sc_bangladesh,Population,Diversity,B05006_058E,1,0,0,0
+374,"Asia, South Central Asia,India",fb_as_sc_india,Population,Diversity,B05006_059E,1,0,0,0
+375,"Asia, South Central Asia,Iran",fb_as_sc_iran,Population,Diversity,B05006_060E,1,0,0,0
+376,"Asia, South Central Asia,Kazakhstan",fb_as_sc_kazakhstan,Population,Diversity,B05006_061E,1,0,0,0
+377,"Asia, South Central Asia,Nepal",fb_as_sc_nepal,Population,Diversity,B05006_062E,1,0,0,0
+378,"Asia, South Central Asia,Pakistan",fb_as_sc_pakistan,Population,Diversity,B05006_063E,1,0,0,0
+379,"Asia, South Central Asia,Sri Lanka",fb_as_sc_srilanka,Population,Diversity,B05006_064E,1,0,0,0
+380,"Asia, South Central Asia,Uzbekistan",fb_as_sc_uzbekistan,Population,Diversity,B05006_065E,1,0,0,0
+381,"Asia, South Central Asia,Other",fb_as_sc_other,Population,Diversity,B05006_066E,1,0,0,0
+382,"Asia, South Eastern Asia",fb_as_southeastern,Population,Diversity,B05006_067E,1,0,0,0
+383,"Asia, South Eastern Asia,Burma",fb_as_se_burma,Population,Diversity,B05006_068E,1,0,0,0
+384,"Asia, South Eastern Asia,Cambodia",fb_as_se_cambodia,Population,Diversity,B05006_069E,1,0,0,0
+385,"Asia, South Eastern Asia,Indonesia",fb_as_se_indonesia,Population,Diversity,B05006_070E,1,0,0,0
+386,"Asia, South Eastern Asia,Laos",fb_as_se_laos,Population,Diversity,B05006_071E,1,0,0,0
+387,"Asia, South Eastern Asia,Malaysia",fb_as_se_malaysia,Population,Diversity,B05006_072E,1,0,0,0
+388,"Asia, South Eastern Asia,Philippines",fb_as_se_philippines,Population,Diversity,B05006_073E,1,0,0,0
+389,"Asia, South Eastern Asia,Singapore",fb_as_se_singapore,Population,Diversity,B05006_074E,1,0,0,0
+390,"Asia, South Eastern Asia,Thailand",fb_as_se_thailand,Population,Diversity,B05006_075E,1,0,0,0
+391,"Asia, South Eastern Asia,Vietnam",fb_as_se_vietnam,Population,Diversity,B05006_076E,1,0,0,0
+392,"Asia, South Eastern Asia,Other",fb_as_se_other,Population,Diversity,B05006_077E,1,0,0,0
+393,"Asia, Western Asia",fb_as_western,Population,Diversity,B05006_078E,1,0,0,0
+394,"Asia, Western Asia,Armenia",fb_as_w_armenia,Population,Diversity,B05006_079E,1,0,0,0
+395,"Asia, Western Asia,Iraq",fb_as_w_iraq,Population,Diversity,B05006_080E,1,0,0,0
+396,"Asia, Western Asia,Israel",fb_as_w_israel,Population,Diversity,B05006_081E,1,0,0,0
+397,"Asia, Western Asia,Jordan",fb_as_w_jordan,Population,Diversity,B05006_082E,1,0,0,0
+398,"Asia, Western Asia,Kuwait",fb_as_w_kuwait,Population,Diversity,B05006_083E,1,0,0,0
+399,"Asia, Western Asia,Lebanon",fb_as_w_lebanon,Population,Diversity,B05006_084E,1,0,0,0
+400,"Asia, Western Asia,Saudi Arabia",fb_as_w_saudiarabia,Population,Diversity,B05006_085E,1,0,0,0
+401,"Asia, Western Asia,Syria",fb_as_w_syria,Population,Diversity,B05006_086E,1,0,0,0
+402,"Asia, Western Asia,Turkey",fb_as_w_turkey,Population,Diversity,B05006_087E,1,0,0,0
+403,"Asia, Western Asia,Yemen",fb_as_w_yemen,Population,Diversity,B05006_088E,1,0,0,0
+404,"Asia, Western Asia,Other",fb_as_w_other,Population,Diversity,B05006_089E,1,0,0,0
+405,"Asia, n.e.c.",fb_as_nec,Population,Diversity,B05006_090E,1,0,0,0
+406,Africa,fb_africa,Population,Diversity,B05006_091E,1,0,0,0
+407,"Africa, Eastern Africa",fb_af_eastern,Population,Diversity,B05006_092E,1,0,0,0
+408,"Africa, Eastern Africa,Eritrea",fb_af_e_eritrea,Population,Diversity,B05006_093E,1,0,0,0
+409,"Africa, Eastern Africa,Ethiopia",fb_af_e_ethiopia,Population,Diversity,B05006_094E,1,0,0,0
+410,"Africa, Eastern Africa,Kenya",fb_af_e_kenya,Population,Diversity,B05006_095E,1,0,0,0
+411,"Africa, Eastern Africa,Somalia",fb_af_e_somalia,Population,Diversity,B05006_096E,1,0,0,0
+412,"Africa, Eastern Africa,Uganda",fb_af_e_uganda,Population,Diversity,B05006_097E,1,0,0,0
+413,"Africa, Eastern Africa,Zimbabwe",fb_af_e_zimbabwe,Population,Diversity,B05006_098E,1,0,0,0
+414,"Africa, Eastern Africa,Other",fb_af_e_other,Population,Diversity,B05006_099E,1,0,0,0
+415,"Africa, Middle Africa",fb_af_middle,Population,Diversity,B05006_100E,1,0,0,0
+416,"Africa, Middle Africa,Cameroon",fb_af_m_cameroon,Population,Diversity,B05006_101E,1,0,0,0
+417,"Africa, Middle Africa,Congo",fb_af_m_congo,Population,Diversity,B05006_102E,1,0,0,0
+418,"Africa, Middle Africa,Democratic Republic of Congo (Zaire)",fb_af_m_democraticrepublicofcongo,Population,Diversity,B05006_103E,1,0,0,0
+419,"Africa, Middle Africa,Other",fb_af_m_other,Population,Diversity,B05006_104E,1,0,0,0
+420,"Africa, Northern Africa",fb_af_northern,Population,Diversity,B05006_105E,1,0,0,0
+421,"Africa, Northern Africa,Egypt",fb_af_n_egypt,Population,Diversity,B05006_106E,1,0,0,0
+422,"Africa, Northern Africa,Morocco",fb_af_n_morocco,Population,Diversity,B05006_107E,1,0,0,0
+423,"Africa, Northern Africa,Sudan",fb_af_n_sudan,Population,Diversity,B05006_108E,1,0,0,0
+424,"Africa, Northern Africa,Other",fb_af_n_other,Population,Diversity,B05006_109E,1,0,0,0
+425,"Africa, Southern Africa",fb_af_southern,Population,Diversity,B05006_110E,1,0,0,0
+426,"Africa, Southern Africa, South Africa",fb_af_s_southafrica,Population,Diversity,B05006_111E,1,0,0,0
+427,"Africa, Southern Africa, Other",fb_af_s_other,Population,Diversity,B05006_112E,1,0,0,0
+428,"Africa, Western Africa",fb_af_western,Population,Diversity,B05006_113E,1,0,0,0
+429,"Africa, Western Africa,Cabo Verde",fb_af_w_caboverde,Population,Diversity,B05006_114E,1,0,0,0
+430,"Africa, Western Africa,Ghana",fb_af_w_ghana,Population,Diversity,B05006_115E,1,0,0,0
+431,"Africa, Western Africa,Liberia",fb_af_w_liberia,Population,Diversity,B05006_116E,1,0,0,0
+432,"Africa, Western Africa,Nigeria",fb_af_w_nigeria,Population,Diversity,B05006_117E,1,0,0,0
+433,"Africa, Western Africa,Senegal",fb_af_w_senegal,Population,Diversity,B05006_118E,1,0,0,0
+434,"Africa, Western Africa,Sierra Leone",fb_af_w_sierraleone,Population,Diversity,B05006_119E,1,0,0,0
+435,"Africa, Western Africa,Other",fb_af_w_other,Population,Diversity,B05006_120E,1,0,0,0
+436,"Africa, n.e.c.",fb_af_nec,Population,Diversity,B05006_121E,1,0,0,0
+437,Oceania,fb_oceania,Population,Diversity,B05006_122E,1,0,0,0
+438,"Oceania, Australia and New Zealand Subregion",fb_oc_australianewzealandsubregion,Population,Diversity,B05006_123E,1,0,0,0
+439,"Oceania, Australia and New Zealand Subregion, Australia",fb_oc_australianewzealandsubregion_australia,Population,Diversity,B05006_124E,1,0,0,0
+440,"Oceania, Australia and New Zealand Subregion, Other",fb_oc_australianewzealandsubregion_other,Population,Diversity,B05006_125E,1,0,0,0
+441,"Oceania, Fiji",fb_oc_fiji,Population,Diversity,B05006_126E,1,0,0,0
+442,"Oceania, Micronesia",fb_oc_micronesia,Population,Diversity,B05006_127E,1,0,0,0
+443,"Oceania, n.e.c.",fb_oc_nec,Population,Diversity,B05006_128E,1,0,0,0
+444,Americas,fb_americas,Population,Diversity,B05006_129E,1,0,0,0
+445,"Americas, Latin America",fb_am_latinamerica,Population,Diversity,B05006_130E,1,0,0,0
+446,"Americas, Latin America, Caribbean",fb_am_la_caribbean,Population,Diversity,B05006_131E,1,0,0,0
+447,"Americas, Latin America, Caribbean, Bahamas",fb_am_la_cbb_bahamas,Population,Diversity,B05006_132E,1,0,0,0
+448,"Americas, Latin America, Caribbean, Barbados",fb_am_la_cbb_barbados,Population,Diversity,B05006_133E,1,0,0,0
+449,"Americas, Latin America, Caribbean, Cuba",fb_am_la_cbb_cuba,Population,Diversity,B05006_134E,1,0,0,0
+450,"Americas, Latin America, Caribbean, Dominica",fb_am_la_cbb_dominica,Population,Diversity,B05006_135E,1,0,0,0
+451,"Americas, Latin America, Caribbean, Dominican Republic",fb_am_la_cbb_dominicanrepublic,Population,Diversity,B05006_136E,1,0,0,0
+452,"Americas, Latin America, Caribbean, Grenada",fb_am_la_cbb_grenada,Population,Diversity,B05006_137E,1,0,0,0
+453,"Americas, Latin America, Caribbean, Haiti",fb_am_la_cbb_haiti,Population,Diversity,B05006_138E,1,0,0,0
+454,"Americas, Latin America, Caribbean, Jamaica",fb_am_la_cbb_jamaica,Population,Diversity,B05006_139E,1,0,0,0
+455,"Americas, Latin America, Caribbean, St. Vincent and the Grenadines",fb_am_la_cbb_stvincentandthegrenadines,Population,Diversity,B05006_140E,1,0,0,0
+456,"Americas, Latin America, Caribbean, Trinidad and Tobago",fb_am_la_cbb_trinidadandtobago,Population,Diversity,B05006_141E,1,0,0,0
+457,"Americas, Latin America, Caribbean, West Indies",fb_am_la_cbb_westindies,Population,Diversity,B05006_142E,1,0,0,0
+458,"Americas, Latin America, Caribbean, Other",fb_am_la_cbb_other,Population,Diversity,B05006_143E,1,0,0,0
+459,"Americas, Latin America, Central America",fb_am_la_centralamerica,Population,Diversity,B05006_144E,1,0,0,0
+460,"Americas, Latin America, Central America, Belize",fb_am_la_centr_belize,Population,Diversity,B05006_145E,1,0,0,0
+461,"Americas, Latin America, Central America,Costa Rica",fb_am_la_centr_costarica,Population,Diversity,B05006_146E,1,0,0,0
+462,"Americas, Latin America, Central America,El Salvador",fb_am_la_centr_elsalvador,Population,Diversity,B05006_147E,1,0,0,0
+463,"Americas, Latin America, Central America,Guatemala",fb_am_la_centr_guatemala,Population,Diversity,B05006_148E,1,0,0,0
+464,"Americas, Latin America, Central America,Honduras",fb_am_la_centr_honduras,Population,Diversity,B05006_149E,1,0,0,0
+465,"Americas, Latin America, Central America,Mexico",fb_am_la_centr_mexico,Population,Diversity,B05006_150E,1,0,0,0
+466,"Americas, Latin America, Central America,Nicaragua",fb_am_la_centr_nicaragua,Population,Diversity,B05006_151E,1,0,0,0
+467,"Americas, Latin America, Central America,Panama",fb_am_la_centr_panama,Population,Diversity,B05006_152E,1,0,0,0
+468,"Americas, Latin America, Central America,Other",fb_am_la_centr_other,Population,Diversity,B05006_153E,1,0,0,0
+469,"Americas, Latin America, South America",fb_am_la_southamerica,Population,Diversity,B05006_154E,1,0,0,0
+470,"Americas, Latin America, South America, Argentina",fb_am_la_s_argentina,Population,Diversity,B05006_155E,1,0,0,0
+471,"Americas, Latin America, South America,Bolivia",fb_am_la_s_bolivia,Population,Diversity,B05006_156E,1,0,0,0
+472,"Americas, Latin America, South America,Brazil",fb_am_la_s_brazil,Population,Diversity,B05006_157E,1,0,0,0
+473,"Americas, Latin America, South America,Chile",fb_am_la_s_chile,Population,Diversity,B05006_158E,1,0,0,0
+474,"Americas, Latin America, South America,Columbia",fb_am_la_s_columbia,Population,Diversity,B05006_159E,1,0,0,0
+475,"Americas, Latin America, South America,Ecuador",fb_am_la_s_ecuador,Population,Diversity,B05006_160E,1,0,0,0
+476,"Americas, Latin America, South America,Guyana",fb_am_la_s_guyana,Population,Diversity,B05006_161E,1,0,0,0
+477,"Americas, Latin America, South America,Peru",fb_am_la_s_peru,Population,Diversity,B05006_162E,1,0,0,0
+478,"Americas, Latin America, South America,Uruguay",fb_am_la_s_uruguay,Population,Diversity,B05006_163E,1,0,0,0
+479,"Americas, Latin America, South America,Venezuela",fb_am_la_s_venezuela,Population,Diversity,B05006_164E,1,0,0,0
+480,"Americas, Latin America, South America,Other",fb_am_la_s_other,Population,Diversity,B05006_165E,1,0,0,0
+481,"Americas, Northern America",fb_am_northern,Population,Diversity,B05006_166E,1,0,0,0
+482,"Americas, Northern America, Canada",fb_am_n_canada,Population,Diversity,B05006_167E,1,0,0,0
+483,"Americas, Northern America, Other",fb_am_n_other,Population,Diversity,B05006_168E,1,0,0,0
+484,Total Language Spoken at Home by Age for Population 5+ Series,language_total_5+_series,Population,Diversity,B16007_001E,1,0,0,0
+485,Total 5 to 17 Years,language_total_5to7,Population,Diversity,B16007_002E,1,0,0,0
+486,5 to 17 Years Speak only English,language_5to7_onlyenglish,Population,Diversity,B16007_003E,1,0,0,0
+487,5 to 17 Years Speak Spanish,language_5to7_spanish,Population,Diversity,B16007_004E,1,0,0,0
+488,5 to 17 Years Speak other Indo-European Languages,language_5to7_otherindoeuropean,Population,Diversity,B16007_005E,1,0,0,0
+489,5 to 17 Years Speak Asian and Pacific Island Languages,language_5to7_asianandpacificisland,Population,Diversity,B16007_006E,1,0,0,0
+490,5 to 17 Years Speak Other Languages,language_5to7_other,Population,Diversity,B16007_007E,1,0,0,0
+491,Total 18 to 64 Years,language_total_18to64,Population,Diversity,B16007_008E,1,0,0,0
+492,18 to 64 Years Speak only English,language_18to64_onlyenglish,Population,Diversity,B16007_009E,1,0,0,0
+493,18 to 64 Years Speak Spanish,language_18to64_spanish,Population,Diversity,B16007_010E,1,0,0,0
+494,18 to 64 Years Speak other Indo-European Languages,language_18to64_otherindoeuropean,Population,Diversity,B16007_011E,1,0,0,0
+495,18 to 64 Years Speak Asian and Pacific Island Languages,language_18to64_asianandpacificisland,Population,Diversity,B16007_012E,1,0,0,0
+496,18 to 64 Years Speak Other Languages,language_18to64_other,Population,Diversity,B16007_013E,1,0,0,0
+497,Total 65+ Years,language_total_65+,Population,Diversity,B16007_014E,1,0,0,0
+498,65+ Years Speak only English,language_65+_onlyenglish,Population,Diversity,B16007_015E,1,0,0,0
+499,65+ Years Speak Spanish,language_65+_spanish,Population,Diversity,B16007_016E,1,0,0,0
+500,65+ Years Speak other Indo-European Languages,language_65+_otherindoeuropean,Population,Diversity,B16007_017E,1,0,0,0
+501,65+ Years Speak Asian and Pacific Island Languages,language_65+_asianandpacificisland,Population,Diversity,B16007_018E,1,0,0,0
+502,65+ Years Speak Other Languages,language_65+_other,Population,Diversity,B16007_019E,1,0,0,0
+503,Total Educational Attainment for the Population 25+ Series,attainment_total_over25_series,Population,Educational Attainment,B15003_001E,1,0,0,0
+504,No Schooling Completed,attainment_noschooling,Population,Educational Attainment,B15003_002E,1,0,0,0
+505,Nursery School,attainment_nurseryschool,Population,Educational Attainment,B15003_003E,1,0,0,0
+506,Kindergarten,attainment_kindergarten,Population,Educational Attainment,B15003_004E,1,0,0,0
+507,1st Grade,attainment_1stgrade,Population,Educational Attainment,B15003_005E,1,0,0,0
+508,2nd Grade,attainment_2ndgrade,Population,Educational Attainment,B15003_006E,1,0,0,0
+509,3rd Grade,attainment_3rdgrade,Population,Educational Attainment,B15003_007E,1,0,0,0
+510,4th Grade,attainment_4thgrade,Population,Educational Attainment,B15003_008E,1,0,0,0
+511,5th Grade,attainment_5thgrade,Population,Educational Attainment,B15003_009E,1,0,0,0
+512,6th Grade,attainment_6thgrade,Population,Educational Attainment,B15003_010E,1,0,0,0
+513,7th Grade,attainment_7thgrade,Population,Educational Attainment,B15003_011E,1,0,0,0
+514,8th Grade,attainment_8thgrade,Population,Educational Attainment,B15003_012E,1,0,0,0
+515,9th Grade,attainment_9thgrade,Population,Educational Attainment,B15003_013E,1,0,0,0
+516,10th Grade,attainment_10thgrade,Population,Educational Attainment,B15003_014E,1,0,0,0
+517,11th Grade,attainment_11thgrade,Population,Educational Attainment,B15003_015E,1,0,0,0
+518,12th Grade No Diploma,attainment_12thgradenodiploma,Population,Educational Attainment,B15003_016E,1,0,0,0
+519,Regular High School Diploma,attainment_regularhighschooldiploma,Population,Educational Attainment,B15003_017E,1,0,0,0
+520,GED or Alternative Credential,attainment_gedoralternativecredential,Population,Educational Attainment,B15003_018E,1,0,0,0
+521,"Some College, Less than 1 Year",attainment_somecollegelessthan1year,Population,Educational Attainment,B15003_019E,1,0,0,0
+522,"Some College, 1 or More Years No Degree",attainment_somecollege1ormoreyearsnodegree,Population,Educational Attainment,B15003_020E,1,0,0,0
+523,Associate's Degree,attainment_associatesdegree,Population,Educational Attainment,B15003_021E,1,0,0,0
+524,Bachelor's Degree,attainment_bachelorsdegree,Population,Educational Attainment,B15003_022E,1,0,0,0
+525,Master's Degree,attainment_mastersdegree,Population,Educational Attainment,B15003_023E,1,0,0,0
+526,Professional School Degree,attainment_professionalschooldegree,Population,Educational Attainment,B15003_024E,1,0,0,0
+527,Doctorate Degree,attainment_doctoratedegree,Population,Educational Attainment,B15003_025E,1,0,0,0
+528,"Total, Means of Transportation to Work by Class of Worker Series",classworker_total_series,Employment,Class of Worker,B08128_001E,1,0,0,0
+529,Private for Profit Wage and Salary Workers,classworker_privateforprofit,Employment,Class of Worker,B08128_002E,1,0,0,0
+530,"Private for Profit Wage and Salary Workers, Employee of Private Company Workers",classworker_privateforprofit_employee,Employment,Class of Worker,B08128_003E,1,0,0,0
+531,"Private for Profit Wage and Salary Workers, Self-Employed in own Incorporated Business ",classworker_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,B08128_004E,1,0,0,0
+532,Private not for Profit Wage and Salary Workers,classworker_privatenotforprofit,Employment,Class of Worker,B08128_005E,1,0,0,0
+533,Local Government Workers,classworker_localgovt,Employment,Class of Worker,B08128_006E,1,0,0,0
+534,State Government Workers,classworker_stategovt,Employment,Class of Worker,B08128_007E,1,0,0,0
+535,Federal Government Workers,classworker_federalgovt,Employment,Class of Worker,B08128_008E,1,0,0,0
+536,Self Employed in Own Non-Incorporated Business Workers,classworker_selfemployednonincorporatedbusiness,Employment,Class of Worker,B08128_009E,1,0,0,0
+537,Unpaid Family Workers,classworker_unpaidfamilyworker,Employment,Class of Worker,B08128_010E,1,0,0,0
+538,Total Sex by Age by Employment Status for the 16+ Population Series,lfstatus_total_sexbyagebyemploymentstatus16+_series,Employment,Labor Force Status,B23001_001E,1,0,0,0
+539,Male 16 to 19 Civilian,lfstatus_mciv_16to19,Employment,Labor Force Status,B23001_006E,1,0,0,0
+540,Male 16 to 19 Civilian Employed,lfstatus_mciv_16to19_employed,Employment,Labor Force Status,B23001_007E,1,0,0,0
+541,Male 16 to 19 Civilian Unemployed,lfstatus_mciv_16to19_unemployed,Employment,Labor Force Status,B23001_008E,1,0,0,0
+542,Male 20 and 21 Civilian,lfstatus_mciv_20to21,Employment,Labor Force Status,B23001_013E,1,0,0,0
+543,Male 20 and 21 Civilian Employed,lfstatus_mciv_20to21_employed,Employment,Labor Force Status,B23001_014E,1,0,0,0
+544,Male 20 and 21 Civilian Unemployed,lfstatus_mciv_20to21_unemployed,Employment,Labor Force Status,B23001_015E,1,0,0,0
+545,Male 22 to 24 Civilian,lfstatus_mciv_22to24,Employment,Labor Force Status,B23001_020E,1,0,0,0
+546,Male 22 to 24 Civilian Employed,lfstatus_mciv_20to21_employed,Employment,Labor Force Status,B23001_021E,1,0,0,0
+547,Male 22 to 24 Civilian Unemployed,lfstatus_mciv_20to21_unemployed,Employment,Labor Force Status,B23001_022E,1,0,0,0
+548,Male 25 to 29 Civilian,lfstatus_mciv_25to29,Employment,Labor Force Status,B23001_027E,1,0,0,0
+549,Male 25 to 29 Civilian Employed,lfstatus_mciv_25to29_employed,Employment,Labor Force Status,B23001_028E,1,0,0,0
+550,Male 25 to 29 Civilian Unemployed,lfstatus_mciv_25to29_unemployed,Employment,Labor Force Status,B23001_029E,1,0,0,0
+551,Male 30 to 34 Civilian,lfstatus_mciv_30to34,Employment,Labor Force Status,B23001_034E,1,0,0,0
+552,Male 30 to 34 Civilian Employed,lfstatus_mciv_30to34_employed,Employment,Labor Force Status,B23001_035E,1,0,0,0
+553,Male 30 to 34 Civilian Unemployed,lfstatus_mciv_30to34_unemployed,Employment,Labor Force Status,B23001_036E,1,0,0,0
+554,Male 35 to 44 Civilian,lfstatus_mciv_35to44,Employment,Labor Force Status,B23001_041E,1,0,0,0
+555,Male 35 to 44 Civilian Employed,lfstatus_mciv_35to44_employed,Employment,Labor Force Status,B23001_042E,1,0,0,0
+556,Male 35 to 44 Civilian Unemployed,lfstatus_mciv_35to44_unemployed,Employment,Labor Force Status,B23001_043E,1,0,0,0
+557,Male 45 to 54 Civilian,lfstatus_mciv_45to54,Employment,Labor Force Status,B23001_048E,1,0,0,0
+558,Male 45 to 54 Civilian Employed,lfstatus_mciv_45to54_employed,Employment,Labor Force Status,B23001_049E,1,0,0,0
+559,Male 45 to 54 Civilian Unemployed,lfstatus_mciv_45to54_unemployed,Employment,Labor Force Status,B23001_050E,1,0,0,0
+560,Male 55 to 59 Civilian,lfstatus_mciv_55to59,Employment,Labor Force Status,B23001_055E,1,0,0,0
+561,Male 55 to 59 Civilian Employed,lfstatus_mciv_55to59_employed,Employment,Labor Force Status,B23001_056E,1,0,0,0
+562,Male 55 to 59 Civilian Unemployed,lfstatus_mciv_55to59_unemployed,Employment,Labor Force Status,B23001_057E,1,0,0,0
+563,Male 60 and 61 Civilian,lfstatus_mciv_60to61,Employment,Labor Force Status,B23001_062E,1,0,0,0
+564,Male 60 and 61 Civilian Employed,lfstatus_mciv_60to61_employed,Employment,Labor Force Status,B23001_063E,1,0,0,0
+565,Male 60 and 61 Civilian Unemployed,lfstatus_mciv_60to61_unemployed,Employment,Labor Force Status,B23001_064E,1,0,0,0
+566,Male 62 to 64 Civilian,lfstatus_mciv_62to64,Employment,Labor Force Status,B23001_069E,1,0,0,0
+567,Male 62 to 64 Civilian Employed,lfstatus_mciv_62to64_employed,Employment,Labor Force Status,B23001_070E,1,0,0,0
+568,Male 62 to 64 Civilian Unemployed,lfstatus_mciv_62to64_unemployed,Employment,Labor Force Status,B23001_071E,1,0,0,0
+569,Male 65 to 69 Civilian,lfstatus_mciv_65to69,Employment,Labor Force Status,B23001_074E,1,0,0,0
+570,Male 65 to 69 Civilian Employed,lfstatus_mciv_65to69_employed,Employment,Labor Force Status,B23001_075E,1,0,0,0
+571,Male 65 to 69 Civilian Unemployed,lfstatus_mciv_65to69_unemployed,Employment,Labor Force Status,B23001_076E,1,0,0,0
+572,Male 70 to 74 Civilian,lfstatus_mciv_70to74,Employment,Labor Force Status,B23001_079E,1,0,0,0
+573,Male 70 to 74 Civilian Employed,lfstatus_mciv_70to74_employed,Employment,Labor Force Status,B23001_080E,1,0,0,0
+574,Male 70 to 74 Civilian Unemployed,lfstatus_mciv_70to74_unemployed,Employment,Labor Force Status,B23001_081E,1,0,0,0
+575,Male 75+ Civilian,lfstatus_mciv_75+,Employment,Labor Force Status,B23001_084E,1,0,0,0
+576,Male 75+ Civilian Employed,lfstatus_mciv_75+,Employment,Labor Force Status,B23001_085E,1,0,0,0
+577,Male 75+ Civilian Unemployed,lfstatus_mciv_75+,Employment,Labor Force Status,B23001_086E,1,0,0,0
+578,Female 16 to 19 Civilian,lfstatus_fciv_16to19,Employment,Labor Force Status,B23001_092E,1,0,0,0
+579,Female 16 to 19 Civilian Employed,lfstatus_fciv_16to19_employed,Employment,Labor Force Status,B23001_093E,1,0,0,0
+580,Female 16 to 19 Civilian Unemployed,lfstatus_fciv_16to19_unemployed,Employment,Labor Force Status,B23001_094E,1,0,0,0
+581,Female 20 and 21 Civilian,lfstatus_fciv_20to21,Employment,Labor Force Status,B23001_099E,1,0,0,0
+582,Female 20 and 21 Civilian Employed,lfstatus_fciv_20to21_employed,Employment,Labor Force Status,B23001_100E,1,0,0,0
+583,Female 20 and 21 Civilian Unemployed,lfstatus_fciv_20to21_unemployed,Employment,Labor Force Status,B23001_101E,1,0,0,0
+584,Female 22 to 24 Civilian,lfstatus_fciv_22to24,Employment,Labor Force Status,B23001_106E,1,0,0,0
+585,Female 22 to 24 Civilian Employed,lfstatus_fciv_20to21_employed,Employment,Labor Force Status,B23001_107E,1,0,0,0
+586,Female 22 to 24 Civilian Unemployed,lfstatus_fciv_20to21_unemployed,Employment,Labor Force Status,B23001_108E,1,0,0,0
+587,Female 25 to 29 Civilian,lfstatus_fciv_25to29,Employment,Labor Force Status,B23001_113E,1,0,0,0
+588,Female 25 to 29 Civilian Employed,lfstatus_fciv_25to29_employed,Employment,Labor Force Status,B23001_114E,1,0,0,0
+589,Female 25 to 29 Civilian Unemployed,lfstatus_fciv_25to29_unemployed,Employment,Labor Force Status,B23001_115E,1,0,0,0
+590,Female 30 to 34 Civilian,lfstatus_fciv_30to34,Employment,Labor Force Status,B23001_120E,1,0,0,0
+591,Female 30 to 34 Civilian Employed,lfstatus_fciv_30to34_employed,Employment,Labor Force Status,B23001_121E,1,0,0,0
+592,Female 30 to 34 Civilian Unemployed,lfstatus_fciv_30to34_unemployed,Employment,Labor Force Status,B23001_122E,1,0,0,0
+593,Female 35 to 44 Civilian,lfstatus_fciv_35to44,Employment,Labor Force Status,B23001_127E,1,0,0,0
+594,Female 35 to 44 Civilian Employed,lfstatus_fciv_35to44_employed,Employment,Labor Force Status,B23001_128E,1,0,0,0
+595,Female 35 to 44 Civilian Unemployed,lfstatus_fciv_35to44_unemployed,Employment,Labor Force Status,B23001_129E,1,0,0,0
+596,Female 45 to 54 Civilian,lfstatus_fciv_45to54,Employment,Labor Force Status,B23001_134E,1,0,0,0
+597,Female 45 to 54 Civilian Employed,lfstatus_fciv_45to54_employed,Employment,Labor Force Status,B23001_135E,1,0,0,0
+598,Female 45 to 54 Civilian Unemployed,lfstatus_fciv_45to54_unemployed,Employment,Labor Force Status,B23001_136E,1,0,0,0
+599,Female 55 to 59 Civilian,lfstatus_fciv_55to59,Employment,Labor Force Status,B23001_141E,1,0,0,0
+600,Female 55 to 59 Civilian Employed,lfstatus_fciv_55to59_employed,Employment,Labor Force Status,B23001_142E,1,0,0,0
+601,Female 55 to 59 Civilian Unemployed,lfstatus_fciv_55to59_unemployed,Employment,Labor Force Status,B23001_143E,1,0,0,0
+602,Female 60 and 61 Civilian,lfstatus_fciv_60to61,Employment,Labor Force Status,B23001_148E,1,0,0,0
+603,Female 60 and 61 Civilian Employed,lfstatus_fciv_60to61_employed,Employment,Labor Force Status,B23001_149E,1,0,0,0
+604,Female 60 and 61 Civilian Unemployed,lfstatus_fciv_60to61_unemployed,Employment,Labor Force Status,B23001_150E,1,0,0,0
+605,Female 62 to 64 Civilian,lfstatus_fciv_62to64,Employment,Labor Force Status,B23001_155E,1,0,0,0
+606,Female 62 to 64 Civilian Employed,lfstatus_fciv_62to64_employed,Employment,Labor Force Status,B23001_156E,1,0,0,0
+607,Female 62 to 64 Civilian Unemployed,lfstatus_fciv_62to64_unemployed,Employment,Labor Force Status,B23001_157E,1,0,0,0
+608,Female 65 to 69 Civilian,lfstatus_fciv_65to69,Employment,Labor Force Status,B23001_160E,1,0,0,0
+609,Female 65 to 69 Civilian Employed,lfstatus_fciv_65to69_employed,Employment,Labor Force Status,B23001_161E,1,0,0,0
+610,Female 65 to 69 Civilian Unemployed,lfstatus_fciv_65to69_unemployed,Employment,Labor Force Status,B23001_162E,1,0,0,0
+611,Female 70 to 74 Civilian,lfstatus_fciv_70to74,Employment,Labor Force Status,B23001_165E,1,0,0,0
+612,Female 70 to 74 Civilian Employed,lfstatus_fciv_70to74_employed,Employment,Labor Force Status,B23001_166E,1,0,0,0
+613,Female 70 to 74 Civilian Unemployed,lfstatus_fciv_70to74_unemployed,Employment,Labor Force Status,B23001_167E,1,0,0,0
+614,Female 75+ Civilian,lfstatus_fciv_75+,Employment,Labor Force Status,B23001_170E,1,0,0,0
+615,Female 75+ Civilian Employed,lfstatus_fciv_75+,Employment,Labor Force Status,B23001_171E,1,0,0,0
+616,Female 75+ Civilian Unemployed,lfstatus_fciv_75+,Employment,Labor Force Status,B23001_172E,1,0,0,0
+617,Per Capita Personal Income in the Past 12 Months in 2019 Dollars,percapita_income_2019dollars,Employment,Income,B19301_001E,1,0,0,0
+618,Total Geographic Mobility in the Past Year by Age Series,geo_total_series,Geographic Mobility,Moved,B07001_001E,1,0,0,0
+619,Geographic Mobility Past Year Age 1 to 4 Total,geo_1to4_total,Geographic Mobility,Moved,B07001_002E,1,0,0,0
+620,Geographic Mobility Past Year Age 5 to 17 Total,geo_5to17_total,Geographic Mobility,Moved,B07001_003E,1,0,0,0
+621,Geographic Mobility Past Year Age 18 to 19 Total,geo_18to19_total,Geographic Mobility,Moved,B07001_004E,1,0,0,0
+622,Geographic Mobility Past Year Age 20 to 24 Total,geo_20to24_total,Geographic Mobility,Moved,B07001_005E,1,0,0,0
+623,Geographic Mobility Past Year Age 25 to 29 Total,geo_25to29_total,Geographic Mobility,Moved,B07001_006E,1,0,0,0
+624,Geographic Mobility Past Year Age 30 to 34 Total,geo_30to34_total,Geographic Mobility,Moved,B07001_007E,1,0,0,0
+625,Geographic Mobility Past Year Age 35 to 39 Total,geo_35to39_total,Geographic Mobility,Moved,B07001_008E,1,0,0,0
+626,Geographic Mobility Past Year Age 40 to 44 Total,geo_40to44_total,Geographic Mobility,Moved,B07001_009E,1,0,0,0
+627,Geographic Mobility Past Year Age 45 to 49 Total,geo_45to49_total,Geographic Mobility,Moved,B07001_010E,1,0,0,0
+628,Geographic Mobility Past Year Age 50 to 54 Total,geo_50to54_total,Geographic Mobility,Moved,B07001_011E,1,0,0,0
+629,Geographic Mobility Past Year Age 55 to 59 Total,geo_55to59_total,Geographic Mobility,Moved,B07001_012E,1,0,0,0
+630,Geographic Mobility Past Year Age 60 to 64 Total,geo_60to64_total,Geographic Mobility,Moved,B07001_013E,1,0,0,0
+631,Geographic Mobility Past Year Age 65 to 69 Total,geo_65to69_total,Geographic Mobility,Moved,B07001_014E,1,0,0,0
+632,Geographic Mobility Past Year Age 70 to74 Total,geo_70to74_total,Geographic Mobility,Moved,B07001_015E,1,0,0,0
+633,Geographic Mobility Past Year Age 75+ Total,geo_75+_total,Geographic Mobility,Moved,B07001_016E,1,0,0,0
+634,Geographic Mobility Total Same House One Year Ago,geo_samehouse_total,Geographic Mobility,Moved,B07001_017E,1,0,0,0
+635,Geo Mobility 55 to 59 Same House One Year Ago,geo_55to59_samehouse,Geographic Mobility,Moved,B07001_028E,1,0,0,0
+636,Geo Mobility 60 to 64 Same House One Year Ago,geo_60to64_samehouse,Geographic Mobility,Moved,B07001_029E,1,0,0,0
+637,Geo Mobility 65 to 69 Same House One Year Ago,geo_65to69_samehouse,Geographic Mobility,Moved,B07001_030E,1,0,0,0
+638,Geo Mobility 70 to 74 Same House One Year Ago,geo_70to74_samehouse,Geographic Mobility,Moved,B07001_031E,1,0,0,0
+639,Geo Mobility 75+ Same House One Year Ago,geo_75+_samehouse,Geographic Mobility,Moved,B07001_032E,1,0,0,0
+640,Geographic Mobility Total Moved Within Same County,geo_movedsamecounty_total,Geographic Mobility,Moved,B07001_033E,1,0,0,0
+641,Geo Mobility 55 to 59 Moved Within Same County,geo_55to59_movedsamecounty,Geographic Mobility,Moved,B07001_044E,1,0,0,0
+642,Geo Mobility 60 to 64 Moved Within Same County,geo_60to64_movedsamecounty,Geographic Mobility,Moved,B07001_045E,1,0,0,0
+643,Geo Mobility 65 to 69 Moved Within Same County,geo_65to69_movedsamecounty,Geographic Mobility,Moved,B07001_046E,1,0,0,0
+644,Geo Mobility 70 to 74 Moved Within Same County,geo_70to74_movedsamecounty,Geographic Mobility,Moved,B07001_047E,1,0,0,0
+645,Geo Mobility 75+ Moved Within Same County,geo_75+_movedsamecounty,Geographic Mobility,Moved,B07001_048E,1,0,0,0
+646,Geographic Mobility Moved from Different County Within Same State,geo_moveddifferentcountysamestate_total,Geographic Mobility,Moved,B07001_049E,1,0,0,0
+647,Geo Mobility 55 to 59 Moved from Different County in Same State,geo_55to59_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_060E,1,0,0,0
+648,Geo Mobility 60 to 64 Moved from Different County in Same State,geo_60to64_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_061E,1,0,0,0
+649,Geo Mobility 65 to 69 Moved from Different County in Same State,geo_65to69_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_062E,1,0,0,0
+650,Geo Mobility 70 to 74 Moved from Different County in Same State,geo_70to74_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_063E,1,0,0,0
+651,Geo Mobility 75+ Moved from Different County in Same State,geo_75+_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_064E,1,0,0,0
+652,Geographic Mobility Moved From Different State,geo_moveddifferentstate_total,Geographic Mobility,Moved,B07001_065E,1,0,0,0
+653,Geo Mobility 55 to 59 Moved from Different State,geo_55to59_moveddifferentstate,Geographic Mobility,Moved,B07001_076E,1,0,0,0
+654,Geo Mobility 60 to 64 Moved from Different State,geo_60to64_moveddifferentstate,Geographic Mobility,Moved,B07001_077E,1,0,0,0
+655,Geo Mobility 65 to 69 Moved from Different State,geo_65to69_moveddifferentstate,Geographic Mobility,Moved,B07001_078E,1,0,0,0
+656,Geo Mobility 70 to 74 Moved from Different State,geo_70to74_moveddifferentstate,Geographic Mobility,Moved,B07001_079E,1,0,0,0
+657,Geo Mobility 75+ Moved from Different State,geo_75+_moveddifferentstate,Geographic Mobility,Moved,B07001_080E,1,0,0,0
+658,Geographic Mobility Moved from Abroad,geo_movedabroad_total,Geographic Mobility,Moved,B07001_081E,1,0,0,0
+659,Geo Mobility 55 to 59 Moved from Abroad,geo_55to59_movedabroad,Geographic Mobility,Moved,B07001_092E,1,0,0,0
+660,Geo Mobility 60 to 64 Moved from Abroad,geo_60to64_movedabroad,Geographic Mobility,Moved,B07001_093E,1,0,0,0
+661,Geo Mobility 65 to 69 Moved from Abroad,geo_65to69_movedabroad,Geographic Mobility,Moved,B07001_094E,1,0,0,0
+662,Geo Mobility 70 to 74 Moved from Abroad,geo_70to74_movedabroad,Geographic Mobility,Moved,B07001_095E,1,0,0,0
+663,Geo Mobility 75+ Moved from Abroad,geo_75+_movedabroad,Geographic Mobility,Moved,B07001_096E,1,0,0,0
+664,Vehicles per Household by Tenure Total Series,vehicles_tenurebyvehicles_total_series,Transportation,Vehicles,B25044_001E,1,0,0,0
+665,Vehicles per Household Total Owner Occupied,vehicles_ownerocc_total,Transportation,Vehicles,B25044_002E,1,0,0,0
+666,Vehicles per Household Owner Occupied No Vehicles,vehicles_ownerocc_novehicle,Transportation,Vehicles,B25044_003E,1,0,0,0
+667,Vehicles per Household Owner Occupied 1 Vehicle,vehicles_ownerocc_1vehicle,Transportation,Vehicles,B25044_004E,1,0,0,0
+668,Vehicles per Household Owner Occupied 2 Vehicles,vehicles_ownerocc_2vehicles,Transportation,Vehicles,B25044_005E,1,0,0,0
+669,Vehicles per Household Owner Occupied 3 Vehicles,vehicles_ownerocc_3vehicles,Transportation,Vehicles,B25044_006E,1,0,0,0
+670,Vehicles per Household Owner Occupied 4 Vehicles,vehicles_ownerocc_4vehicles,Transportation,Vehicles,B25044_007E,1,0,0,0
+671,Vehicles per Household Owner Occupied 5 Vehicles,vehicles_ownerocc_5+vehicles,Transportation,Vehicles,B25044_008E,1,0,0,0
+672,Vehicles per Household Total Renter Occupied,vehicles_renterocc_total,Transportation,Vehicles,B25044_009E,1,0,0,0
+673,Vehicles per Household Renter Occupied No Vehicles,vehicles_renterocc_novehicle,Transportation,Vehicles,B25044_010E,1,0,0,0
+674,Vehicles per Household Renter Occupied 1 Vehicle,vehicles_renterocc_1vehicle,Transportation,Vehicles,B25044_011E,1,0,0,0
+675,Vehicles per Household Renter Occupied 2 Vehicles,vehicles_renterocc_2vehicles,Transportation,Vehicles,B25044_012E,1,0,0,0
+676,Vehicles per Household Renter Occupied 3 Vehicles,vehicles_renterocc_3vehicles,Transportation,Vehicles,B25044_013E,1,0,0,0
+677,Vehicles per Household Renter Occupied 4 Vehicles,vehicles_renterocc_4vehicles,Transportation,Vehicles,B25044_014E,1,0,0,0
+678,Vehicles per Household Renter Occupied 5 Vehicles,vehicles_renterocc_5+vehicles,Transportation,Vehicles,B25044_015E,1,0,0,0
+679,Industry Employment Sex by Industry Civilian Population Total Series,industry_sexbyindustrycivilianpop_total_series,Employment,Industry Employment,C24030_001E,1,0,0,1
+680,Industry Employment Total Male,industry_sexbyindustrycivilianpop_totalmale,Employment,Industry Employment,C24030_002E,1,0,0,1
+681,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining",industry_m_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,C24030_003E,1,0,0,1
+682,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_m_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,C24030_004E,1,0,0,1
+683,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_m_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,C24030_005E,1,0,0,1
+684,Industry Employment Male Construction,industry_m_construction,Employment,Industry Employment,C24030_006E,1,0,0,1
+685,Industry Employment Male Manufacturing,industry_m_manufacturing,Employment,Industry Employment,C24030_007E,1,0,0,1
+686,Industry Employment Male Wholesale Trade,industry_m_wholesaletrade,Employment,Industry Employment,C24030_008E,1,0,0,1
+687,Industry Employment Male Retail Trade,industry_m_retailtrade,Employment,Industry Employment,C24030_009E,1,0,0,1
+688,"Industry Employment Male Transportation, Warehousing, and Utilities",industry_m_transportation_warehousing_utilities,Employment,Industry Employment,C24030_010E,1,0,0,1
+689,"Industry Employment Male Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_m_transut_transportation_warehousing,Employment,Industry Employment,C24030_011E,1,0,0,1
+690,"Industry Employment Male Transportation, Warehousing, and Utilities: Utilities",industry_m_transut_utilities,Employment,Industry Employment,C24030_012E,1,0,0,1
+691,Industry Employment Male Information,industry_m_information,Employment,Industry Employment,C24030_013E,1,0,0,1
+692,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing",industry_m_finance_insurance_realestate_rental,Employment,Industry Employment,C24030_014E,1,0,0,1
+693,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_m_finrent_finance_insurance,Employment,Industry Employment,C24030_015E,1,0,0,1
+694,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_m_finrent_realestate_rental,Employment,Industry Employment,C24030_016E,1,0,0,1
+695,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management",industry_m_professional_scientific_managementadmin_waste,Employment,Industry Employment,C24030_017E,1,0,0,1
+696,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_m_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,C24030_018E,1,0,0,1
+697,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_m_profwaste_managementcompaniesenterprises,Employment,Industry Employment,C24030_019E,1,0,0,1
+698,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_m_adminandsupportandwaste,Employment,Industry Employment,C24030_020E,1,0,0,1
+699,"Industry Employment Male Educational, Healthcare, and Social Assistance",industry_m_educational_healthcare_socialassistance,Employment,Industry Employment,C24030_021E,1,0,0,1
+700,"Industry Employment Male Educational, Healthcare, and Social Assistance: Educational",industry_m_edsocial_educational,Employment,Industry Employment,C24030_022E,1,0,0,1
+701,"Industry Employment Male Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_m_edsocial_healthcare_socialassistance,Employment,Industry Employment,C24030_023E,1,0,0,1
+702,"Industry Employment Male Entertainment and Recreation, Accommodation and Food",industry_m_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,C24030_024E,1,0,0,1
+703,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_m_artsaccom_arts_entertainmentrec,Employment,Industry Employment,C24030_025E,1,0,0,1
+704,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_m_artsaccom_accommodation_food,Employment,Industry Employment,C24030_026E,1,0,0,1
+705,Industry Employment Male Other Services Not Public Administration,industry_m_otherservices_notpublicadmin,Employment,Industry Employment,C24030_027E,1,0,0,1
+706,Industry Employment Male Public Administration,industry_m_publicadmin,Employment,Industry Employment,C24030_028E,1,0,0,1
+707,Industry Employment Total Female,industry_sexbyindustrycivilianpop_totalfemale,Employment,Industry Employment,C24030_029E,1,0,0,1
+708,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining",industry_f_agriculture_forestry_fishing_hunting_fining,Employment,Industry Employment,C24030_030E,1,0,0,1
+709,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_f_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,C24030_031E,1,0,0,1
+710,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_f_agmining_fining_quarrying_oilandgas,Employment,Industry Employment,C24030_032E,1,0,0,1
+711,Industry Employment Female Construction,industry_f_construction,Employment,Industry Employment,C24030_033E,1,0,0,1
+712,Industry Employment Female Manufacturing,industry_f_fanufacturing,Employment,Industry Employment,C24030_034E,1,0,0,1
+713,Industry Employment Female Wholesale Trade,industry_f_wholesaletrade,Employment,Industry Employment,C24030_035E,1,0,0,1
+714,Industry Employment Female Retail Trade,industry_f_retailtrade,Employment,Industry Employment,C24030_036E,1,0,0,1
+715,"Industry Employment Female Transportation, Warehousing, and Utilities",industry_f_transportation_warehousing_utilities,Employment,Industry Employment,C24030_037E,1,0,0,1
+716,"Industry Employment Female Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_f_transut_transportation_warehousing,Employment,Industry Employment,C24030_038E,1,0,0,1
+717,"Industry Employment Female Transportation, Warehousing, and Utilities: Utilities",industry_f_transut_utilities,Employment,Industry Employment,C24030_039E,1,0,0,1
+718,Industry Employment Female Information,industry_f_information,Employment,Industry Employment,C24030_040E,1,0,0,1
+719,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing",industry_f_finance_insurance_realestate_rental,Employment,Industry Employment,C24030_041E,1,0,0,1
+720,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_f_finrent_finance_insurance,Employment,Industry Employment,C24030_042E,1,0,0,1
+721,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_f_finrent_realestate_rental,Employment,Industry Employment,C24030_043E,1,0,0,1
+722,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management",industry_f_professional_scientific_fanagementadmin_waste,Employment,Industry Employment,C24030_044E,1,0,0,1
+723,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_f_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,C24030_045E,1,0,0,1
+724,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_f_profwaste_fanagementcompaniesenterprises,Employment,Industry Employment,C24030_046E,1,0,0,1
+725,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_f_adminandsupportandwaste,Employment,Industry Employment,C24030_047E,1,0,0,1
+726,"Industry Employment Female Educational, Healthcare, and Social Assistance",industry_f_educational_healthcare_socialassistance,Employment,Industry Employment,C24030_048E,1,0,0,1
+727,"Industry Employment Female Educational, Healthcare, and Social Assistance: Educational",industry_f_edsocial_educational,Employment,Industry Employment,C24030_049E,1,0,0,1
+728,"Industry Employment Female Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_f_edsocial_healthcare_socialassistance,Employment,Industry Employment,C24030_050E,1,0,0,1
+729,"Industry Employment Female Entertainment and Recreation, Accommodation and Food",industry_f_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,C24030_051E,1,0,0,1
+730,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_f_artsaccom_arts_entertainmentrec,Employment,Industry Employment,C24030_052E,1,0,0,1
+731,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_f_artsaccom_accommodation_food,Employment,Industry Employment,C24030_053E,1,0,0,1
+732,Industry Employment Female Other Services Not Public Administration,industry_f_otherservices_notpublicadmin,Employment,Industry Employment,C24030_054E,1,0,0,1
+733,Industry Employment Female Public Administration,industry_f_publicadmin,Employment,Industry Employment,C24030_055E,1,0,0,1
+734,Occupational Employment by Sex Total Series,occupation_sexbyoccupationcivilianpop_total_series,Employment,Occupational Employment,C24010_001E,1,0,0,0
+735,Occupational Employment Total Male,occupation_sexbyoccupationcivilianpop_totalmale,Employment,Occupational Employment,C24010_002E,1,0,0,0
+736,"Occupational Employment Male Management, Professional, and Related: Management Occupations",occupation_m_management,Employment,Occupational Employment,C24010_005E,1,0,0,0
+737,"Occupational Employment Male Management, Professional, and Related: Business and Financial Operations Occupations",occupation_m_businessandfinancial,Employment,Occupational Employment,C24010_006E,1,0,0,0
+738,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_m_computerandmathematical,Employment,Occupational Employment,C24010_008E,1,0,0,0
+739,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_m_architectureandengineering,Employment,Occupational Employment,C24010_009E,1,0,0,0
+740,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_m_lifephysicalsocialscience,Employment,Occupational Employment,C24010_010E,1,0,0,0
+741,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_m_communityandsocialservices,Employment,Occupational Employment,C24010_012E,1,0,0,0
+742,"Occupational Employment Male Management, Professional, and Related: Legal Occupations",occupation_m_legal,Employment,Occupational Employment,C24010_013E,1,0,0,0
+743,"Occupational Employment Male Management, Professional, and Related: Education, Training, and Library Occupations",occupation_m_educationtrainingandlibrary,Employment,Occupational Employment,C24010_014E,1,0,0,0
+744,"Occupational Employment Male Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_m_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,C24010_015E,1,0,0,0
+745,"Occupational Employment Male Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_m_healthcarepractitionersandtechnical,Employment,Occupational Employment,C24010_016E,1,0,0,0
+746,Occupational Employment Male Service Occupations: Healthcare Support Occupations,occupation_m_healthcaresupport,Employment,Occupational Employment,C24010_020E,1,0,0,0
+747,Occupational Employment Male Service Occupations: Protective Service Occupations,occupation_m_protectiveservice,Employment,Occupational Employment,C24010_021E,1,0,0,0
+748,Occupational Employment Male Service Occupations: Food Preparations and Serving Related Occupations,occupation_m_foodprepandserving,Employment,Occupational Employment,C24010_023E,1,0,0,0
+749,Occupational Employment Male Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_m_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,C24010_025E,1,0,0,0
+750,Occupational Employment Male Service Occupations: Personal Care and Service Occupations,occupation_m_personalcareandservice,Employment,Occupational Employment,C24010_026E,1,0,0,0
+751,Occupational Employment Male Sales and Office Occupations: Sales and Related Occupations,occupation_m_salesandrelated,Employment,Occupational Employment,C24010_028E,1,0,0,0
+752,Occupational Employment Male Sales and Office Occupations: Office and Administrative Support Occupations,occupation_m_officeandadmin,Employment,Occupational Employment,C24010_029E,1,0,0,0
+753,"Occupational Employment Male Farming, Fishing, and Forestry Occupations",occupation_m_farmingfishingandforestry,Employment,Occupational Employment,C24010_031E,1,0,0,0
+754,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_m_constructionandextraction,Employment,Occupational Employment,C24010_032E,1,0,0,0
+755,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_m_installationmaintenanceandrepair,Employment,Occupational Employment,C24010_033E,1,0,0,0
+756,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_m_production,Employment,Occupational Employment,C24010_035E,1,0,0,0
+757,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Transportation Occupations",occupation_m_transportation,Employment,Occupational Employment,C24010_036E,1,0,0,0
+758,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Material Moving Occupations",occupation_m_materialmoving,Employment,Occupational Employment,C24010_037E,1,0,0,0
+759,Occupational Employment Total Female,occupation_sexbyoccupationcivilianpop_totalfemale,Employment,Occupational Employment,C24010_038E,1,0,0,0
+760,"Occupational Employment Female Management, Professional, and Related: Management Occupations",occupation_f_fanagement_exceptfarmersandfarmmanagers,Employment,Occupational Employment,C24010_041E,1,0,0,0
+761,"Occupational Employment Female Management, Professional, and Related: Business and Financial Operations Occupations",occupation_f_businessandfinancial,Employment,Occupational Employment,C24010_042E,1,0,0,0
+762,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_f_computerandmathematical,Employment,Occupational Employment,C24010_044E,1,0,0,0
+763,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_f_architectureandengineering,Employment,Occupational Employment,C24010_045E,1,0,0,0
+764,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_f_lifephysicalsocialscience,Employment,Occupational Employment,C24010_046E,1,0,0,0
+765,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_f_communityandsocialservices,Employment,Occupational Employment,C24010_048E,1,0,0,0
+766,"Occupational Employment Female Management, Professional, and Related: Legal Occupations",occupation_f_legal,Employment,Occupational Employment,C24010_049E,1,0,0,0
+767,"Occupational Employment Female Management, Professional, and Related: Education, Training, and Library Occupations",occupation_f_educationtrainingandlibrary,Employment,Occupational Employment,C24010_050E,1,0,0,0
+768,"Occupational Employment Female Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_f_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,C24010_051E,1,0,0,0
+769,"Occupational Employment Female Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_f_healthcarepractitionersandtechnical,Employment,Occupational Employment,C24010_052E,1,0,0,0
+770,Occupational Employment Female Service Occupations: Healthcare Support Occupations,occupation_f_healthcaresupport,Employment,Occupational Employment,C24010_056E,1,0,0,0
+771,Occupational Employment Female Service Occupations: Protective Service Occupations,occupation_f_protectiveservice,Employment,Occupational Employment,C24010_057E,1,0,0,0
+772,Occupational Employment Female Service Occupations: Food Preparations and Serving Related Occupations,occupation_f_foodprepandserving,Employment,Occupational Employment,C24010_060E,1,0,0,0
+773,Occupational Employment Female Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_f_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,C24010_061E,1,0,0,0
+774,Occupational Employment Female Service Occupations: Personal Care and Service Occupations,occupation_f_personalcareandservice,Employment,Occupational Employment,C24010_062E,1,0,0,0
+775,Occupational Employment Female Sales and Office Occupations: Sales and Related Occupations,occupation_f_salesandrelated,Employment,Occupational Employment,C24010_064E,1,0,0,0
+776,Occupational Employment Female Sales and Office Occupations: Office and Administrative Support Occupations,occupation_f_officeandadmin,Employment,Occupational Employment,C24010_065E,1,0,0,0
+777,"Occupational Employment Female Farming, Fishing, and Forestry Occupations",occupation_f_farmingfishingandforestry,Employment,Occupational Employment,C24010_067E,1,0,0,0
+778,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_f_constructionandextraction,Employment,Occupational Employment,C24010_068E,1,0,0,0
+779,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_f_installationmaintenanceandrepair,Employment,Occupational Employment,C24010_069E,1,0,0,0
+780,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_f_production,Employment,Occupational Employment,C24010_071E,1,0,0,0
+781,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Transportation Occupations",occupation_f_transportation,Employment,Occupational Employment,C24010_072E,1,0,0,0
+782,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Material Moving Occupations",occupation_f_materialmoving,Employment,Occupational Employment,C24010_073E,1,0,0,0
