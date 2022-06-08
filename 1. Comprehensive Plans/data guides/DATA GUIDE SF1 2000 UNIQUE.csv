@@ -1,0 +1,10 @@
+﻿ID,Column Name,Category,Sub Category,2000 Unique
+1,tenure_owneroccunits,Housing,Tenure,H004002
+2,tenure_renteroccunits,Housing,Tenure,H004003
+3,hhtype_familyhh,Housing,Household Type,P018006
+4,hhtype_familyhh_marriedcouplefam,Housing,Household Type,P018007
+5,hhtype_familyhh_otherfam,Housing,Household Type,P018010
+6,hhtype_familyhh_malenospouse,Housing,Household Type,P018011
+7,hhtype_familyhh_femalenospouse,Housing,Household Type,P018014
+8,hhtype_nonfamhh_householderalone,Housing,Household Type,P018002
+9,hhtype_nonfamhh_householdernotalone,Housing,Household Type,P018005
