@@ -1,0 +1,16 @@
+﻿ID,Column Name,Category,Sub Category,PL Variable
+1,pop,Population,Population,P1_001N
+2,raceeth_total_series,Population,Race and Ethnicity,P1_001N
+3,raceeth_white_alone,Population,Race and Ethnicity,P1_003N
+4,raceeth_blackafricanamerican_alone,Population,Race and Ethnicity,P1_004N
+5,raceeth_americanindianalaskanative_alone,Population,Race and Ethnicity,P1_005N
+6,raceeth_asian_alone,Population,Race and Ethnicity,P1_006N
+7,raceeth_nativehawaiianotherpacificislander_alone,Population,Race and Ethnicity,P1_007N
+8,raceeth_someotherrace_alone,Population,Race and Ethnicity,P1_008N
+9,raceeth_twoormoreraces_alone,Population,Race and Ethnicity,P1_009N
+10,raceeth_whitealone_nothispanicorlatino,Population,Race and Ethnicity,P2_005N
+11,raceeth_hispanicorlatino,Population,Race and Ethnicity,P2_002N
+12,units_allhousing,Housing,Housing,H1_001N
+13,occupancy_total_series,Housing,Occupancy,H1_001N
+14,occupancy_occupiedunits,Housing,Occupancy,H1_002N
+15,occupancy_vacantunits,Housing,Occupancy,H1_003N

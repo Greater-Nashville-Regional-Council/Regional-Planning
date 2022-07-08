@@ -91,465 +91,455 @@
 90,Oceania,fb_oceania,Population,Diversity,B05006_122E
 91,Americas,fb_americas,Population,Diversity,B05006_129E
 92,"Americas, Latin America",fb_am_latinamerica,Population,Diversity,B05006_130E
-93,"Americas, Northern America",fb_am_northern,Population,Diversity,B05006_166E
-94,Total Educational Attainment for the Population 25+ Series,attainment_total_over25_series,Population,Educational Attainment,B15003_001E
-95,No Schooling Completed,attainment_noschooling,Population,Educational Attainment,B15003_002E
-96,Nursery School,attainment_nurseryschool,Population,Educational Attainment,B15003_003E
-97,Kindergarten,attainment_kindergarten,Population,Educational Attainment,B15003_004E
-98,1st Grade,attainment_1stgrade,Population,Educational Attainment,B15003_005E
-99,2nd Grade,attainment_2ndgrade,Population,Educational Attainment,B15003_006E
-100,3rd Grade,attainment_3rdgrade,Population,Educational Attainment,B15003_007E
-101,4th Grade,attainment_4thgrade,Population,Educational Attainment,B15003_008E
-102,5th Grade,attainment_5thgrade,Population,Educational Attainment,B15003_009E
-103,6th Grade,attainment_6thgrade,Population,Educational Attainment,B15003_010E
-104,7th Grade,attainment_7thgrade,Population,Educational Attainment,B15003_011E
-105,8th Grade,attainment_8thgrade,Population,Educational Attainment,B15003_012E
-106,9th Grade,attainment_9thgrade,Population,Educational Attainment,B15003_013E
-107,10th Grade,attainment_10thgrade,Population,Educational Attainment,B15003_014E
-108,11th Grade,attainment_11thgrade,Population,Educational Attainment,B15003_015E
-109,12th Grade No Diploma,attainment_12thgradenodiploma,Population,Educational Attainment,B15003_016E
-110,Regular High School Diploma,attainment_regularhighschooldiploma,Population,Educational Attainment,B15003_017E
-111,GED or Alternative Credential,attainment_gedoralternativecredential,Population,Educational Attainment,B15003_018E
-112,"Some College, Less than 1 Year",attainment_somecollegelessthan1year,Population,Educational Attainment,B15003_019E
-113,"Some College, 1 or More Years No Degree",attainment_somecollege1ormoreyearsnodegree,Population,Educational Attainment,B15003_020E
-114,Associate's Degree,attainment_associatesdegree,Population,Educational Attainment,B15003_021E
-115,Bachelor's Degree,attainment_bachelorsdegree,Population,Educational Attainment,B15003_022E
-116,Master's Degree,attainment_mastersdegree,Population,Educational Attainment,B15003_023E
-117,Professional School Degree,attainment_professionalschooldegree,Population,Educational Attainment,B15003_024E
-118,Doctorate Degree,attainment_doctoratedegree,Population,Educational Attainment,B15003_025E
-119,"Total, Means of Transportation to Work by Class of Worker Series",classworker_total_series,Employment,Class of Worker,B08128_001E
-120,Private for Profit Wage and Salary Workers,classworker_privateforprofit,Employment,Class of Worker,B08128_002E
-121,"Private for Profit Wage and Salary Workers, Employee of Private Company Workers",classworker_privateforprofit_employee,Employment,Class of Worker,B08128_003E
-122,"Private for Profit Wage and Salary Workers, Self-Employed in own Incorporated Business ",classworker_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,B08128_004E
-123,Private not for Profit Wage and Salary Workers,classworker_privatenotforprofit,Employment,Class of Worker,B08128_005E
-124,Local Government Workers,classworker_localgovt,Employment,Class of Worker,B08128_006E
-125,State Government Workers,classworker_stategovt,Employment,Class of Worker,B08128_007E
-126,Federal Government Workers,classworker_federalgovt,Employment,Class of Worker,B08128_008E
-127,Self Employed in Own Non-Incorporated Business Workers,classworker_selfemployednonincorporatedbusiness,Employment,Class of Worker,B08128_009E
-128,Unpaid Family Workers,classworker_unpaidfamilyworker,Employment,Class of Worker,B08128_010E
-129,Total Sex by Age by Employment Status for the 16+ Population Series,lfstatus_total_sexbyagebyemploymentstatus16+_series,Employment,Labor Force Status,B23001_001E
-130,Male 16 to 19 Civilian,lfstatus_mciv_16to19,Employment,Labor Force Status,B23001_006E
-131,Male 16 to 19 Civilian Employed,lfstatus_mciv_16to19_employed,Employment,Labor Force Status,B23001_007E
-132,Male 16 to 19 Civilian Unemployed,lfstatus_mciv_16to19_unemployed,Employment,Labor Force Status,B23001_008E
-133,Male 20 and 21 Civilian,lfstatus_mciv_20to21,Employment,Labor Force Status,B23001_013E
-134,Male 20 and 21 Civilian Employed,lfstatus_mciv_20to21_employed,Employment,Labor Force Status,B23001_014E
-135,Male 20 and 21 Civilian Unemployed,lfstatus_mciv_20to21_unemployed,Employment,Labor Force Status,B23001_015E
-136,Male 22 to 24 Civilian,lfstatus_mciv_22to24,Employment,Labor Force Status,B23001_020E
-137,Male 22 to 24 Civilian Employed,lfstatus_mciv_22to24_employed,Employment,Labor Force Status,B23001_021E
-138,Male 22 to 24 Civilian Unemployed,lfstatus_mciv_22to24_unemployed,Employment,Labor Force Status,B23001_022E
-139,Male 25 to 29 Civilian,lfstatus_mciv_25to29,Employment,Labor Force Status,B23001_027E
-140,Male 25 to 29 Civilian Employed,lfstatus_mciv_25to29_employed,Employment,Labor Force Status,B23001_028E
-141,Male 25 to 29 Civilian Unemployed,lfstatus_mciv_25to29_unemployed,Employment,Labor Force Status,B23001_029E
-142,Male 30 to 34 Civilian,lfstatus_mciv_30to34,Employment,Labor Force Status,B23001_034E
-143,Male 30 to 34 Civilian Employed,lfstatus_mciv_30to34_employed,Employment,Labor Force Status,B23001_035E
-144,Male 30 to 34 Civilian Unemployed,lfstatus_mciv_30to34_unemployed,Employment,Labor Force Status,B23001_036E
-145,Male 35 to 44 Civilian,lfstatus_mciv_35to44,Employment,Labor Force Status,B23001_041E
-146,Male 35 to 44 Civilian Employed,lfstatus_mciv_35to44_employed,Employment,Labor Force Status,B23001_042E
-147,Male 35 to 44 Civilian Unemployed,lfstatus_mciv_35to44_unemployed,Employment,Labor Force Status,B23001_043E
-148,Male 45 to 54 Civilian,lfstatus_mciv_45to54,Employment,Labor Force Status,B23001_048E
-149,Male 45 to 54 Civilian Employed,lfstatus_mciv_45to54_employed,Employment,Labor Force Status,B23001_049E
-150,Male 45 to 54 Civilian Unemployed,lfstatus_mciv_45to54_unemployed,Employment,Labor Force Status,B23001_050E
-151,Male 55 to 59 Civilian,lfstatus_mciv_55to59,Employment,Labor Force Status,B23001_055E
-152,Male 55 to 59 Civilian Employed,lfstatus_mciv_55to59_employed,Employment,Labor Force Status,B23001_056E
-153,Male 55 to 59 Civilian Unemployed,lfstatus_mciv_55to59_unemployed,Employment,Labor Force Status,B23001_057E
-154,Male 60 and 61 Civilian,lfstatus_mciv_60to61,Employment,Labor Force Status,B23001_062E
-155,Male 60 and 61 Civilian Employed,lfstatus_mciv_60to61_employed,Employment,Labor Force Status,B23001_063E
-156,Male 60 and 61 Civilian Unemployed,lfstatus_mciv_60to61_unemployed,Employment,Labor Force Status,B23001_064E
-157,Male 62 to 64 Civilian,lfstatus_mciv_62to64,Employment,Labor Force Status,B23001_069E
-158,Male 62 to 64 Civilian Employed,lfstatus_mciv_62to64_employed,Employment,Labor Force Status,B23001_070E
-159,Male 62 to 64 Civilian Unemployed,lfstatus_mciv_62to64_unemployed,Employment,Labor Force Status,B23001_071E
-160,Male 65 to 69 Civilian,lfstatus_mciv_65to69,Employment,Labor Force Status,B23001_074E
-161,Male 65 to 69 Civilian Employed,lfstatus_mciv_65to69_employed,Employment,Labor Force Status,B23001_075E
-162,Male 65 to 69 Civilian Unemployed,lfstatus_mciv_65to69_unemployed,Employment,Labor Force Status,B23001_076E
-163,Male 70 to 74 Civilian,lfstatus_mciv_70to74,Employment,Labor Force Status,B23001_079E
-164,Male 70 to 74 Civilian Employed,lfstatus_mciv_70to74_employed,Employment,Labor Force Status,B23001_080E
-165,Male 70 to 74 Civilian Unemployed,lfstatus_mciv_70to74_unemployed,Employment,Labor Force Status,B23001_081E
-166,Male 75+ Civilian,lfstatus_mciv_75+,Employment,Labor Force Status,B23001_084E
-167,Male 75+ Civilian Employed,lfstatus_mciv_75+_employed,Employment,Labor Force Status,B23001_085E
-168,Male 75+ Civilian Unemployed,lfstatus_mciv_75+_unemployed,Employment,Labor Force Status,B23001_086E
-169,Female 16 to 19 Civilian,lfstatus_fciv_16to19,Employment,Labor Force Status,B23001_092E
-170,Female 16 to 19 Civilian Employed,lfstatus_fciv_16to19_employed,Employment,Labor Force Status,B23001_093E
-171,Female 16 to 19 Civilian Unemployed,lfstatus_fciv_16to19_unemployed,Employment,Labor Force Status,B23001_094E
-172,Female 20 and 21 Civilian,lfstatus_fciv_20to21,Employment,Labor Force Status,B23001_099E
-173,Female 20 and 21 Civilian Employed,lfstatus_fciv_20to21_employed,Employment,Labor Force Status,B23001_100E
-174,Female 20 and 21 Civilian Unemployed,lfstatus_fciv_20to21_unemployed,Employment,Labor Force Status,B23001_101E
-175,Female 22 to 24 Civilian,lfstatus_fciv_22to24,Employment,Labor Force Status,B23001_106E
-176,Female 22 to 24 Civilian Employed,lfstatus_fciv_22to24_employed,Employment,Labor Force Status,B23001_107E
-177,Female 22 to 24 Civilian Unemployed,lfstatus_fciv_22to24_unemployed,Employment,Labor Force Status,B23001_108E
-178,Female 25 to 29 Civilian,lfstatus_fciv_25to29,Employment,Labor Force Status,B23001_113E
-179,Female 25 to 29 Civilian Employed,lfstatus_fciv_25to29_employed,Employment,Labor Force Status,B23001_114E
-180,Female 25 to 29 Civilian Unemployed,lfstatus_fciv_25to29_unemployed,Employment,Labor Force Status,B23001_115E
-181,Female 30 to 34 Civilian,lfstatus_fciv_30to34,Employment,Labor Force Status,B23001_120E
-182,Female 30 to 34 Civilian Employed,lfstatus_fciv_30to34_employed,Employment,Labor Force Status,B23001_121E
-183,Female 30 to 34 Civilian Unemployed,lfstatus_fciv_30to34_unemployed,Employment,Labor Force Status,B23001_122E
-184,Female 35 to 44 Civilian,lfstatus_fciv_35to44,Employment,Labor Force Status,B23001_127E
-185,Female 35 to 44 Civilian Employed,lfstatus_fciv_35to44_employed,Employment,Labor Force Status,B23001_128E
-186,Female 35 to 44 Civilian Unemployed,lfstatus_fciv_35to44_unemployed,Employment,Labor Force Status,B23001_129E
-187,Female 45 to 54 Civilian,lfstatus_fciv_45to54,Employment,Labor Force Status,B23001_134E
-188,Female 45 to 54 Civilian Employed,lfstatus_fciv_45to54_employed,Employment,Labor Force Status,B23001_135E
-189,Female 45 to 54 Civilian Unemployed,lfstatus_fciv_45to54_unemployed,Employment,Labor Force Status,B23001_136E
-190,Female 55 to 59 Civilian,lfstatus_fciv_55to59,Employment,Labor Force Status,B23001_141E
-191,Female 55 to 59 Civilian Employed,lfstatus_fciv_55to59_employed,Employment,Labor Force Status,B23001_142E
-192,Female 55 to 59 Civilian Unemployed,lfstatus_fciv_55to59_unemployed,Employment,Labor Force Status,B23001_143E
-193,Female 60 and 61 Civilian,lfstatus_fciv_60to61,Employment,Labor Force Status,B23001_148E
-194,Female 60 and 61 Civilian Employed,lfstatus_fciv_60to61_employed,Employment,Labor Force Status,B23001_149E
-195,Female 60 and 61 Civilian Unemployed,lfstatus_fciv_60to61_unemployed,Employment,Labor Force Status,B23001_150E
-196,Female 62 to 64 Civilian,lfstatus_fciv_62to64,Employment,Labor Force Status,B23001_155E
-197,Female 62 to 64 Civilian Employed,lfstatus_fciv_62to64_employed,Employment,Labor Force Status,B23001_156E
-198,Female 62 to 64 Civilian Unemployed,lfstatus_fciv_62to64_unemployed,Employment,Labor Force Status,B23001_157E
-199,Female 65 to 69 Civilian,lfstatus_fciv_65to69,Employment,Labor Force Status,B23001_160E
-200,Female 65 to 69 Civilian Employed,lfstatus_fciv_65to69_employed,Employment,Labor Force Status,B23001_161E
-201,Female 65 to 69 Civilian Unemployed,lfstatus_fciv_65to69_unemployed,Employment,Labor Force Status,B23001_162E
-202,Female 70 to 74 Civilian,lfstatus_fciv_70to74,Employment,Labor Force Status,B23001_165E
-203,Female 70 to 74 Civilian Employed,lfstatus_fciv_70to74_employed,Employment,Labor Force Status,B23001_166E
-204,Female 70 to 74 Civilian Unemployed,lfstatus_fciv_70to74_unemployed,Employment,Labor Force Status,B23001_167E
-205,Female 75+ Civilian,lfstatus_fciv_75+,Employment,Labor Force Status,B23001_170E
-206,Female 75+ Civilian Employed,lfstatus_fciv_75+_employed,Employment,Labor Force Status,B23001_171E
-207,Female 75+ Civilian Unemployed,lfstatus_fciv_75+_unemployed,Employment,Labor Force Status,B23001_172E
-208,Per Capita Personal Income in the Past 12 Months in Most Recent Year Dollars,percapita_income,Employment,Income,B19301_001E
-209,Total Geographic Mobility in the Past Year by Age Series,geo_total_series,Geographic Mobility,Moved,B07001_001E
-210,Geographic Mobility Past Year Age 1 to 4 Total,geo_1to4_total,Geographic Mobility,Moved,B07001_002E
-211,Geographic Mobility Past Year Age 5 to 17 Total,geo_5to17_total,Geographic Mobility,Moved,B07001_003E
-212,Geographic Mobility Past Year Age 18 to 19 Total,geo_18to19_total,Geographic Mobility,Moved,B07001_004E
-213,Geographic Mobility Past Year Age 20 to 24 Total,geo_20to24_total,Geographic Mobility,Moved,B07001_005E
-214,Geographic Mobility Past Year Age 25 to 29 Total,geo_25to29_total,Geographic Mobility,Moved,B07001_006E
-215,Geographic Mobility Past Year Age 30 to 34 Total,geo_30to34_total,Geographic Mobility,Moved,B07001_007E
-216,Geographic Mobility Past Year Age 35 to 39 Total,geo_35to39_total,Geographic Mobility,Moved,B07001_008E
-217,Geographic Mobility Past Year Age 40 to 44 Total,geo_40to44_total,Geographic Mobility,Moved,B07001_009E
-218,Geographic Mobility Past Year Age 45 to 49 Total,geo_45to49_total,Geographic Mobility,Moved,B07001_010E
-219,Geographic Mobility Past Year Age 50 to 54 Total,geo_50to54_total,Geographic Mobility,Moved,B07001_011E
-220,Geographic Mobility Past Year Age 55 to 59 Total,geo_55to59_total,Geographic Mobility,Moved,B07001_012E
-221,Geographic Mobility Past Year Age 60 to 64 Total,geo_60to64_total,Geographic Mobility,Moved,B07001_013E
-222,Geographic Mobility Past Year Age 65 to 69 Total,geo_65to69_total,Geographic Mobility,Moved,B07001_014E
-223,Geographic Mobility Past Year Age 70 to74 Total,geo_70to74_total,Geographic Mobility,Moved,B07001_015E
-224,Geographic Mobility Past Year Age 75+ Total,geo_75+_total,Geographic Mobility,Moved,B07001_016E
-225,Geographic Mobility Total Same House One Year Ago,geo_samehouse_total,Geographic Mobility,Moved,B07001_017E
-226,Geo Mobility 55 to 59 Same House One Year Ago,geo_55to59_samehouse,Geographic Mobility,Moved,B07001_028E
-227,Geo Mobility 60 to 64 Same House One Year Ago,geo_60to64_samehouse,Geographic Mobility,Moved,B07001_029E
-228,Geo Mobility 65 to 69 Same House One Year Ago,geo_65to69_samehouse,Geographic Mobility,Moved,B07001_030E
-229,Geo Mobility 70 to 74 Same House One Year Ago,geo_70to74_samehouse,Geographic Mobility,Moved,B07001_031E
-230,Geo Mobility 75+ Same House One Year Ago,geo_75+_samehouse,Geographic Mobility,Moved,B07001_032E
-231,Geographic Mobility Total Moved Within Same County,geo_movedsamecounty_total,Geographic Mobility,Moved,B07001_033E
-232,Geo Mobility 55 to 59 Moved Within Same County,geo_55to59_movedsamecounty,Geographic Mobility,Moved,B07001_044E
-233,Geo Mobility 60 to 64 Moved Within Same County,geo_60to64_movedsamecounty,Geographic Mobility,Moved,B07001_045E
-234,Geo Mobility 65 to 69 Moved Within Same County,geo_65to69_movedsamecounty,Geographic Mobility,Moved,B07001_046E
-235,Geo Mobility 70 to 74 Moved Within Same County,geo_70to74_movedsamecounty,Geographic Mobility,Moved,B07001_047E
-236,Geo Mobility 75+ Moved Within Same County,geo_75+_movedsamecounty,Geographic Mobility,Moved,B07001_048E
-237,Geographic Mobility Moved from Different County Within Same State,geo_moveddifferentcountysamestate_total,Geographic Mobility,Moved,B07001_049E
-238,Geo Mobility 55 to 59 Moved from Different County in Same State,geo_55to59_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_060E
-239,Geo Mobility 60 to 64 Moved from Different County in Same State,geo_60to64_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_061E
-240,Geo Mobility 65 to 69 Moved from Different County in Same State,geo_65to69_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_062E
-241,Geo Mobility 70 to 74 Moved from Different County in Same State,geo_70to74_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_063E
-242,Geo Mobility 75+ Moved from Different County in Same State,geo_75+_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_064E
-243,Geographic Mobility Moved From Different State,geo_moveddifferentstate_total,Geographic Mobility,Moved,B07001_065E
-244,Geo Mobility 55 to 59 Moved from Different State,geo_55to59_moveddifferentstate,Geographic Mobility,Moved,B07001_076E
-245,Geo Mobility 60 to 64 Moved from Different State,geo_60to64_moveddifferentstate,Geographic Mobility,Moved,B07001_077E
-246,Geo Mobility 65 to 69 Moved from Different State,geo_65to69_moveddifferentstate,Geographic Mobility,Moved,B07001_078E
-247,Geo Mobility 70 to 74 Moved from Different State,geo_70to74_moveddifferentstate,Geographic Mobility,Moved,B07001_079E
-248,Geo Mobility 75+ Moved from Different State,geo_75+_moveddifferentstate,Geographic Mobility,Moved,B07001_080E
-249,Geographic Mobility Moved from Abroad,geo_movedabroad_total,Geographic Mobility,Moved,B07001_081E
-250,Geo Mobility 55 to 59 Moved from Abroad,geo_55to59_movedabroad,Geographic Mobility,Moved,B07001_092E
-251,Geo Mobility 60 to 64 Moved from Abroad,geo_60to64_movedabroad,Geographic Mobility,Moved,B07001_093E
-252,Geo Mobility 65 to 69 Moved from Abroad,geo_65to69_movedabroad,Geographic Mobility,Moved,B07001_094E
-253,Geo Mobility 70 to 74 Moved from Abroad,geo_70to74_movedabroad,Geographic Mobility,Moved,B07001_095E
-254,Geo Mobility 75+ Moved from Abroad,geo_75+_movedabroad,Geographic Mobility,Moved,B07001_096E
-255,Vehicles per Household by Tenure Total Series,vehicles_tenurebyvehicles_total_series,Transportation,Vehicles,B25044_001E
-256,Vehicles per Household Total Owner Occupied,vehicles_ownerocc_total,Transportation,Vehicles,B25044_002E
-257,Vehicles per Household Owner Occupied No Vehicles,vehicles_ownerocc_novehicle,Transportation,Vehicles,B25044_003E
-258,Vehicles per Household Owner Occupied 1 Vehicle,vehicles_ownerocc_1vehicle,Transportation,Vehicles,B25044_004E
-259,Vehicles per Household Owner Occupied 2 Vehicles,vehicles_ownerocc_2vehicles,Transportation,Vehicles,B25044_005E
-260,Vehicles per Household Owner Occupied 3 Vehicles,vehicles_ownerocc_3vehicles,Transportation,Vehicles,B25044_006E
-261,Vehicles per Household Owner Occupied 4 Vehicles,vehicles_ownerocc_4vehicles,Transportation,Vehicles,B25044_007E
-262,Vehicles per Household Owner Occupied 5 Vehicles,vehicles_ownerocc_5+vehicles,Transportation,Vehicles,B25044_008E
-263,Vehicles per Household Total Renter Occupied,vehicles_renterocc_total,Transportation,Vehicles,B25044_009E
-264,Vehicles per Household Renter Occupied No Vehicles,vehicles_renterocc_novehicle,Transportation,Vehicles,B25044_010E
-265,Vehicles per Household Renter Occupied 1 Vehicle,vehicles_renterocc_1vehicle,Transportation,Vehicles,B25044_011E
-266,Vehicles per Household Renter Occupied 2 Vehicles,vehicles_renterocc_2vehicles,Transportation,Vehicles,B25044_012E
-267,Vehicles per Household Renter Occupied 3 Vehicles,vehicles_renterocc_3vehicles,Transportation,Vehicles,B25044_013E
-268,Vehicles per Household Renter Occupied 4 Vehicles,vehicles_renterocc_4vehicles,Transportation,Vehicles,B25044_014E
-269,Vehicles per Household Renter Occupied 5 Vehicles,vehicles_renterocc_5+vehicles,Transportation,Vehicles,B25044_015E
-270,Industry Employment Sex by Industry Civilian Population Total Series,industry_sexbyindustrycivilianpop_total_series,Employment,Industry Employment,C24030_001E
-271,Industry Employment Total Male,industry_sexbyindustrycivilianpop_totalmale,Employment,Industry Employment,C24030_002E
-272,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining",industry_m_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,C24030_003E
-273,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_m_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,C24030_004E
-274,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_m_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,C24030_005E
-275,Industry Employment Male Construction,industry_m_construction,Employment,Industry Employment,C24030_006E
-276,Industry Employment Male Manufacturing,industry_m_manufacturing,Employment,Industry Employment,C24030_007E
-277,Industry Employment Male Wholesale Trade,industry_m_wholesaletrade,Employment,Industry Employment,C24030_008E
-278,Industry Employment Male Retail Trade,industry_m_retailtrade,Employment,Industry Employment,C24030_009E
-279,"Industry Employment Male Transportation, Warehousing, and Utilities",industry_m_transportation_warehousing_utilities,Employment,Industry Employment,C24030_010E
-280,"Industry Employment Male Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_m_transut_transportation_warehousing,Employment,Industry Employment,C24030_011E
-281,"Industry Employment Male Transportation, Warehousing, and Utilities: Utilities",industry_m_transut_utilities,Employment,Industry Employment,C24030_012E
-282,Industry Employment Male Information,industry_m_information,Employment,Industry Employment,C24030_013E
-283,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing",industry_m_finance_insurance_realestate_rental,Employment,Industry Employment,C24030_014E
-284,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_m_finrent_finance_insurance,Employment,Industry Employment,C24030_015E
-285,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_m_finrent_realestate_rental,Employment,Industry Employment,C24030_016E
-286,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management",industry_m_professional_scientific_managementadmin_waste,Employment,Industry Employment,C24030_017E
-287,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_m_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,C24030_018E
-288,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_m_profwaste_managementcompaniesenterprises,Employment,Industry Employment,C24030_019E
-289,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_m_adminandsupportandwaste,Employment,Industry Employment,C24030_020E
-290,"Industry Employment Male Educational, Healthcare, and Social Assistance",industry_m_educational_healthcare_socialassistance,Employment,Industry Employment,C24030_021E
-291,"Industry Employment Male Educational, Healthcare, and Social Assistance: Educational",industry_m_edsocial_educational,Employment,Industry Employment,C24030_022E
-292,"Industry Employment Male Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_m_edsocial_healthcare_socialassistance,Employment,Industry Employment,C24030_023E
-293,"Industry Employment Male Entertainment and Recreation, Accommodation and Food",industry_m_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,C24030_024E
-294,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_m_artsaccom_arts_entertainmentrec,Employment,Industry Employment,C24030_025E
-295,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_m_artsaccom_accommodation_food,Employment,Industry Employment,C24030_026E
-296,Industry Employment Male Other Services Not Public Administration,industry_m_otherservices_notpublicadmin,Employment,Industry Employment,C24030_027E
-297,Industry Employment Male Public Administration,industry_m_publicadmin,Employment,Industry Employment,C24030_028E
-298,Industry Employment Total Female,industry_sexbyindustrycivilianpop_totalfemale,Employment,Industry Employment,C24030_029E
-299,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining",industry_f_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,C24030_030E
-300,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_f_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,C24030_031E
-301,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_f_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,C24030_032E
-302,Industry Employment Female Construction,industry_f_construction,Employment,Industry Employment,C24030_033E
-303,Industry Employment Female Manufacturing,industry_f_manufacturing,Employment,Industry Employment,C24030_034E
-304,Industry Employment Female Wholesale Trade,industry_f_wholesaletrade,Employment,Industry Employment,C24030_035E
-305,Industry Employment Female Retail Trade,industry_f_retailtrade,Employment,Industry Employment,C24030_036E
-306,"Industry Employment Female Transportation, Warehousing, and Utilities",industry_f_transportation_warehousing_utilities,Employment,Industry Employment,C24030_037E
-307,"Industry Employment Female Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_f_transut_transportation_warehousing,Employment,Industry Employment,C24030_038E
-308,"Industry Employment Female Transportation, Warehousing, and Utilities: Utilities",industry_f_transut_utilities,Employment,Industry Employment,C24030_039E
-309,Industry Employment Female Information,industry_f_information,Employment,Industry Employment,C24030_040E
-310,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing",industry_f_finance_insurance_realestate_rental,Employment,Industry Employment,C24030_041E
-311,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_f_finrent_finance_insurance,Employment,Industry Employment,C24030_042E
-312,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_f_finrent_realestate_rental,Employment,Industry Employment,C24030_043E
-313,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management",industry_f_professional_scientific_managementadmin_waste,Employment,Industry Employment,C24030_044E
-314,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_f_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,C24030_045E
-315,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_f_profwaste_managementcompaniesenterprises,Employment,Industry Employment,C24030_046E
-316,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_f_adminandsupportandwaste,Employment,Industry Employment,C24030_047E
-317,"Industry Employment Female Educational, Healthcare, and Social Assistance",industry_f_educational_healthcare_socialassistance,Employment,Industry Employment,C24030_048E
-318,"Industry Employment Female Educational, Healthcare, and Social Assistance: Educational",industry_f_edsocial_educational,Employment,Industry Employment,C24030_049E
-319,"Industry Employment Female Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_f_edsocial_healthcare_socialassistance,Employment,Industry Employment,C24030_050E
-320,"Industry Employment Female Entertainment and Recreation, Accommodation and Food",industry_f_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,C24030_051E
-321,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_f_artsaccom_arts_entertainmentrec,Employment,Industry Employment,C24030_052E
-322,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_f_artsaccom_accommodation_food,Employment,Industry Employment,C24030_053E
-323,Industry Employment Female Other Services Not Public Administration,industry_f_otherservices_notpublicadmin,Employment,Industry Employment,C24030_054E
-324,Industry Employment Female Public Administration,industry_f_publicadmin,Employment,Industry Employment,C24030_055E
-325,Occupational Employment by Sex Total Series,occupation_sexbyoccupationcivilianpop_total_series,Employment,Occupational Employment,C24010_001E
-326,Occupational Employment Total Male,occupation_sexbyoccupationcivilianpop_totalmale,Employment,Occupational Employment,C24010_002E
-327,"Occupational Employment Male Management, Professional, and Related: Management Occupations",occupation_m_management,Employment,Occupational Employment,C24010_005E
-328,"Occupational Employment Male Management, Professional, and Related: Business and Financial Operations Occupations",occupation_m_businessandfinancial,Employment,Occupational Employment,C24010_006E
-329,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_m_computerandmathematical,Employment,Occupational Employment,C24010_008E
-330,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_m_architectureandengineering,Employment,Occupational Employment,C24010_009E
-331,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_m_lifephysicalsocialscience,Employment,Occupational Employment,C24010_010E
-332,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_m_communityandsocialservices,Employment,Occupational Employment,C24010_012E
-333,"Occupational Employment Male Management, Professional, and Related: Legal Occupations",occupation_m_legal,Employment,Occupational Employment,C24010_013E
-334,"Occupational Employment Male Management, Professional, and Related: Education, Training, and Library Occupations",occupation_m_educationtrainingandlibrary,Employment,Occupational Employment,C24010_014E
-335,"Occupational Employment Male Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_m_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,C24010_015E
-336,"Occupational Employment Male Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_m_healthcarepractitionersandtechnical,Employment,Occupational Employment,C24010_016E
-337,Occupational Employment Male Service Occupations: Healthcare Support Occupations,occupation_m_healthcaresupport,Employment,Occupational Employment,C24010_020E
-338,Occupational Employment Male Service Occupations: Protective Service Occupations,occupation_m_protectiveservice,Employment,Occupational Employment,C24010_021E
-339,Occupational Employment Male Service Occupations: Food Preparations and Serving Related Occupations,occupation_m_foodprepandserving,Employment,Occupational Employment,C24010_023E
-340,Occupational Employment Male Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_m_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,C24010_025E
-341,Occupational Employment Male Service Occupations: Personal Care and Service Occupations,occupation_m_personalcareandservice,Employment,Occupational Employment,C24010_026E
-342,Occupational Employment Male Sales and Office Occupations: Sales and Related Occupations,occupation_m_salesandrelated,Employment,Occupational Employment,C24010_028E
-343,Occupational Employment Male Sales and Office Occupations: Office and Administrative Support Occupations,occupation_m_officeandadmin,Employment,Occupational Employment,C24010_029E
-344,"Occupational Employment Male Farming, Fishing, and Forestry Occupations",occupation_m_farmingfishingandforestry,Employment,Occupational Employment,C24010_031E
-345,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_m_constructionandextraction,Employment,Occupational Employment,C24010_032E
-346,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_m_installationmaintenanceandrepair,Employment,Occupational Employment,C24010_033E
-347,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_m_production,Employment,Occupational Employment,C24010_035E
-348,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Transportation Occupations",occupation_m_transportation,Employment,Occupational Employment,C24010_036E
-349,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Material Moving Occupations",occupation_m_materialmoving,Employment,Occupational Employment,C24010_037E
-350,Occupational Employment Total Female,occupation_sexbyoccupationcivilianpop_totalfemale,Employment,Occupational Employment,C24010_038E
-351,"Occupational Employment Female Management, Professional, and Related: Management Occupations",occupation_f_management,Employment,Occupational Employment,C24010_041E
-352,"Occupational Employment Female Management, Professional, and Related: Business and Financial Operations Occupations",occupation_f_businessandfinancial,Employment,Occupational Employment,C24010_042E
-353,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_f_computerandmathematical,Employment,Occupational Employment,C24010_044E
-354,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_f_architectureandengineering,Employment,Occupational Employment,C24010_045E
-355,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_f_lifephysicalsocialscience,Employment,Occupational Employment,C24010_046E
-356,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_f_communityandsocialservices,Employment,Occupational Employment,C24010_048E
-357,"Occupational Employment Female Management, Professional, and Related: Legal Occupations",occupation_f_legal,Employment,Occupational Employment,C24010_049E
-358,"Occupational Employment Female Management, Professional, and Related: Education, Training, and Library Occupations",occupation_f_educationtrainingandlibrary,Employment,Occupational Employment,C24010_050E
-359,"Occupational Employment Female Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_f_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,C24010_051E
-360,"Occupational Employment Female Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_f_healthcarepractitionersandtechnical,Employment,Occupational Employment,C24010_052E
-361,Occupational Employment Female Service Occupations: Healthcare Support Occupations,occupation_f_healthcaresupport,Employment,Occupational Employment,C24010_056E
-362,Occupational Employment Female Service Occupations: Protective Service Occupations,occupation_f_protectiveservice,Employment,Occupational Employment,C24010_057E
-363,Occupational Employment Female Service Occupations: Food Preparations and Serving Related Occupations,occupation_f_foodprepandserving,Employment,Occupational Employment,C24010_060E
-364,Occupational Employment Female Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_f_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,C24010_061E
-365,Occupational Employment Female Service Occupations: Personal Care and Service Occupations,occupation_f_personalcareandservice,Employment,Occupational Employment,C24010_062E
-366,Occupational Employment Female Sales and Office Occupations: Sales and Related Occupations,occupation_f_salesandrelated,Employment,Occupational Employment,C24010_064E
-367,Occupational Employment Female Sales and Office Occupations: Office and Administrative Support Occupations,occupation_f_officeandadmin,Employment,Occupational Employment,C24010_065E
-368,"Occupational Employment Female Farming, Fishing, and Forestry Occupations",occupation_f_farmingfishingandforestry,Employment,Occupational Employment,C24010_067E
-369,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_f_constructionandextraction,Employment,Occupational Employment,C24010_068E
-370,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_f_installationmaintenanceandrepair,Employment,Occupational Employment,C24010_069E
-371,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_f_production,Employment,Occupational Employment,C24010_071E
-372,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Transportation Occupations",occupation_f_transportation,Employment,Occupational Employment,C24010_072E
-373,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Material Moving Occupations",occupation_f_materialmoving,Employment,Occupational Employment,C24010_073E
-374,Language Spoken at Home by Ability to Speak English for the Population 5+,language_languagebyabilitytospeakenglish_total5+_series,Diversity,Language,B16004_001E
-375,Language Spoken at Home by Ability to Speak English Total 5 to 17,language_total_5to17,Diversity,Language,B16004_002E
-376,Language Spoken at Home Speaks Only English 5 to 17,language_speakonlyenglish_5to17,Diversity,Language,B16004_003E
-377,Language Spoken at Home Speaks Spanish 5 to 17,language_speakspanish_5to17,Diversity,Language,B16004_004E
-378,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 5 to 17",language_speakspanish_speakenglishverywell_5to17,Diversity,Language,B16004_005E
-379,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 5 to 17",language_speakspanish_speakenglishwell_5to17,Diversity,Language,B16004_006E
-380,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 5 to 17",language_speakspanish_speakenglishnotwell_5to17,Diversity,Language,B16004_007E
-381,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 5 to 17",language_speakspanish_speakenglishnotatall_5to17,Diversity,Language,B16004_008E
-382,Language Spoken at Home Speaks Other Indo-European Language 5 to 17,language_speakotherindoeuro_5to17,Diversity,Language,B16004_009E
-383,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 5 to 17",language_speakotherindoeuro_speakenglishverywell_5to17,Diversity,Language,B16004_010E
-384,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 5 to 17",language_speakotherindoeuro_speakenglishwell_5to17,Diversity,Language,B16004_011E
-385,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 5 to 17",language_speakotherindoeuro_speakenglishnotwell_5to17,Diversity,Language,B16004_012E
-386,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 5 to 17",language_speakotherindoeuro_speakenglishnotatall_5to17,Diversity,Language,B16004_013E
-387,Language Spoken at Home Speaks Asian or Pacific Island 5 to 17,language_speakasianpacificisland_5to17,Diversity,Language,B16004_014E
-388,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 5 to 17",language_speakasianpacificisland_speakenglishverywell_5to17,Diversity,Language,B16004_015E
-389,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 5 to 17",language_speakasianpacificisland_speakenglishwell_5to17,Diversity,Language,B16004_016E
-390,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 5 to 17",language_speakasianpacificisland_speakenglishnotwell_5to17,Diversity,Language,B16004_017E
-391,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 5 to 17",language_speakasianpacificisland_speakenglishnotatall_5to17,Diversity,Language,B16004_018E
-392,Language Spoken at Home Speaks Other Language 5 to 17,language_speakother_5to17,Diversity,Language,B16004_019E
-393,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 5 to 17",language_speakother_speakenglishverywell_5to17,Diversity,Language,B16004_020E
-394,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 5 to 17",language_speakother_speakenglishwell_5to17,Diversity,Language,B16004_021E
-395,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 5 to 17",language_speakother_speakenglishnotwell_5to17,Diversity,Language,B16004_022E
-396,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 5 to 17",language_speakother_speakenglishnotatall_5to17,Diversity,Language,B16004_023E
-397,Language Spoken at Home by Ability to Speak English Total 18 to 64,language_total_18to64,Diversity,Language,B16004_024E
-398,Language Spoken at Home Speaks Only English 18 to 64,language_speakonlyenglish_18to64,Diversity,Language,B16004_025E
-399,Language Spoken at Home Speaks Spanish 18 to 64,language_speakspanish_18to64,Diversity,Language,B16004_026E
-400,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 18 to 64",language_speakspanish_speakenglishverywell_18to64,Diversity,Language,B16004_027E
-401,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 18 to 64",language_speakspanish_speakenglishwell_18to64,Diversity,Language,B16004_028E
-402,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 18 to 64",language_speakspanish_speakenglishnotwell_18to64,Diversity,Language,B16004_029E
-403,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 18 to 64",language_speakspanish_speakenglishnotatall_18to64,Diversity,Language,B16004_030E
-404,Language Spoken at Home Speaks Other Indo-European Language 18 to 64,language_speakotherindoeuro_18to64,Diversity,Language,B16004_031E
-405,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 18 to 64",language_speakotherindoeuro_speakenglishverywell_18to64,Diversity,Language,B16004_032E
-406,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 18 to 64",language_speakotherindoeuro_speakenglishwell_18to64,Diversity,Language,B16004_033E
-407,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 18 to 64",language_speakotherindoeuro_speakenglishnotwell_18to64,Diversity,Language,B16004_034E
-408,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 18 to 64",language_speakotherindoeuro_speakenglishnotatall_18to64,Diversity,Language,B16004_035E
-409,Language Spoken at Home Speaks Asian or Pacific Island 18 to 64,language_speakasianpacificisland_18to64,Diversity,Language,B16004_036E
-410,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 18 to 64",language_speakasianpacificisland_speakenglishverywell_18to64,Diversity,Language,B16004_037E
-411,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 18 to 64",language_speakasianpacificisland_speakenglishwell_18to64,Diversity,Language,B16004_038E
-412,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 18 to 64",language_speakasianpacificisland_speakenglishnotwell_18to64,Diversity,Language,B16004_039E
-413,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 18 to 64",language_speakasianpacificisland_speakenglishnotatall_18to64,Diversity,Language,B16004_040E
-414,Language Spoken at Home Speaks Other Language 18 to 64,language_speakother_18to64,Diversity,Language,B16004_041E
-415,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 18 to 64",language_speakother_speakenglishverywell_18to64,Diversity,Language,B16004_042E
-416,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 18 to 64",language_speakother_speakenglishwell_18to64,Diversity,Language,B16004_043E
-417,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 18 to 64",language_speakother_speakenglishnotwell_18to64,Diversity,Language,B16004_044E
-418,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 18 to 64",language_speakother_speakenglishnotatall_18to64,Diversity,Language,B16004_045E
-419,Language Spoken at Home by Ability to Speak English Total 65+,language_total_65+,Diversity,Language,B16004_046E
-420,Language Spoken at Home Speaks Only English 65+,language_speakonlyenglish_65+,Diversity,Language,B16004_047E
-421,Language Spoken at Home Speaks Spanish 65+,language_speakspanish_65+,Diversity,Language,B16004_048E
-422,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 65+",language_speakspanish_speakenglishverywell_65+,Diversity,Language,B16004_049E
-423,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 65+",language_speakspanish_speakenglishwell_65+,Diversity,Language,B16004_050E
-424,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 65+",language_speakspanish_speakenglishnotwell_65+,Diversity,Language,B16004_051E
-425,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 65+",language_speakspanish_speakenglishnotatall_65+,Diversity,Language,B16004_052E
-426,Language Spoken at Home Speaks Other Indo-European Language 65+,language_speakotherindoeuro_65+,Diversity,Language,B16004_053E
-427,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 65+",language_speakotherindoeuro_speakenglishverywell_65+,Diversity,Language,B16004_054E
-428,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 65+",language_speakotherindoeuro_speakenglishwell_65+,Diversity,Language,B16004_055E
-429,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 65+",language_speakotherindoeuro_speakenglishnotwell_65+,Diversity,Language,B16004_056E
-430,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 65+",language_speakotherindoeuro_speakenglishnotatall_65+,Diversity,Language,B16004_057E
-431,Language Spoken at Home Speaks Asian or Pacific Island 65+,language_speakasianpacificisland_65+,Diversity,Language,B16004_058E
-432,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 65+",language_speakasianpacificisland_speakenglishverywell_65+,Diversity,Language,B16004_059E
-433,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 65+",language_speakasianpacificisland_speakenglishwell_65+,Diversity,Language,B16004_060E
-434,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 65+",language_speakasianpacificisland_speakenglishnotwell_65+,Diversity,Language,B16004_061E
-435,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 65+",language_speakasianpacificisland_speakenglishnotatall_65+,Diversity,Language,B16004_062E
-436,Language Spoken at Home Speaks Other Language 65+,language_speakother_65+,Diversity,Language,B16004_063E
-437,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 65+",language_speakother_speakenglishverywell_65+,Diversity,Language,B16004_064E
-438,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 65+",language_speakother_speakenglishwell_65+,Diversity,Language,B16004_065E
-439,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 65+",language_speakother_speakenglishnotwell_65+,Diversity,Language,B16004_066E
-440,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 65+",language_speakother_speakenglishnotatall_65+,Diversity,Language,B16004_067E
-441,Veteran: Veteran Status by Sex by Age for the Civilian Population 18+,veteran_total_series,Population,Veteran Status,B21001_001E
-442,Veteran: Total Veteran,veteran_total_veteran,Population,Veteran Status,B21001_002E
-443,Veteran: Total Nonveteran,veteran_total_nonveteran,Population,Veteran Status,B21001_003E
-444,Veteran: Male,veteran_male,Population,Veteran Status,B21001_004E
-445,Veteran: Male Veteran,veteran_m_veteran,Population,Veteran Status,B21001_005E
-446,Veteran: Male Nonveteran,veteran_m_nonveteran,Population,Veteran Status,B21001_006E
-447,Veteran: Male 18 to 34,veteran_m18to34,Population,Veteran Status,B21001_007E
-448,Veteran: Male 18 to 34 Veteran,veteran_m18to34_veteran,Population,Veteran Status,B21001_008E
-449,Veteran: Male 18 to 34 Nonveteran,veteran_m18to34_nonveteran,Population,Veteran Status,B21001_009E
-450,Veteran: Male 35 to 54,veteran_m35to54,Population,Veteran Status,B21001_010E
-451,Veteran: Male 35 to 54 Veteran,veteran_m35to54_veteran,Population,Veteran Status,B21001_011E
-452,Veteran: Male 35 to 54 Nonveteran,veteran_m35to54_nonveteran,Population,Veteran Status,B21001_012E
-453,Veteran: Male 55 to 64,veteran_m55to64,Population,Veteran Status,B21001_013E
-454,Veteran: Male 55 to 64 Veteran,veteran_m55to64_veteran,Population,Veteran Status,B21001_014E
-455,Veteran: Male 55 to 64 Nonveteran,veteran_m55to64_nonveteran,Population,Veteran Status,B21001_015E
-456,Veteran: Male 65 to 74,veteran_m65to74,Population,Veteran Status,B21001_016E
-457,Veteran: Male 65 to 74 Veteran,veteran_m65to74_veteran,Population,Veteran Status,B21001_017E
-458,Veteran: Male 65 to 74 Nonveteran,veteran_m65to74_nonveteran,Population,Veteran Status,B21001_018E
-459,Veteran: Male 75+ ,veteran_m75+,Population,Veteran Status,B21001_019E
-460,Veteran: Male 75+ Veteran,veteran_m75+_veteran,Population,Veteran Status,B21001_020E
-461,Veteran: Male 75+ Nonveteran,veteran_m75+_nonveteran,Population,Veteran Status,B21001_021E
-462,Veteran: Female,veteran_female,Population,Veteran Status,B21001_022E
-463,Veteran: Female Veteran,veteran_f_veteran,Population,Veteran Status,B21001_023E
-464,Veteran: Female Nonveteran,veteran_f_nonveteran,Population,Veteran Status,B21001_024E
-465,Veteran: Female 18 to 34,veteran_f18to34,Population,Veteran Status,B21001_025E
-466,Veteran: Female 18 to 34 Veteran,veteran_f18to34_veteran,Population,Veteran Status,B21001_026E
-467,Veteran: Female 18 to 34 Nonveteran,veteran_f18to34_nonveteran,Population,Veteran Status,B21001_027E
-468,Veteran: Female 35 to 54,veteran_f35to54,Population,Veteran Status,B21001_028E
-469,Veteran: Female 35 to 54 Veteran,veteran_f35to54_veteran,Population,Veteran Status,B21001_029E
-470,Veteran: Female 35 to 54 Nonveteran,veteran_f35to54_nonveteran,Population,Veteran Status,B21001_030E
-471,Veteran: Female 55 to 64,veteran_f55to64,Population,Veteran Status,B21001_031E
-472,Veteran: Female 55 to 64 Veteran,veteran_f55to64_veteran,Population,Veteran Status,B21001_032E
-473,Veteran: Female 55 to 64 Nonveteran,veteran_f55to64_nonveteran,Population,Veteran Status,B21001_033E
-474,Veteran: Female 65 to 74,veteran_f65to74,Population,Veteran Status,B21001_034E
-475,Veteran: Female 65 to 74 Veteran,veteran_f65to74_veteran,Population,Veteran Status,B21001_035E
-476,Veteran: Female 65 to 74 Nonveteran,veteran_f65to74_nonveteran,Population,Veteran Status,B21001_036E
-477,Veteran: Female 75+ ,veteran_f75+,Population,Veteran Status,B21001_037E
-478,Veteran: Female 75+ Veteran,veteran_f75+_veteran,Population,Veteran Status,B21001_038E
-479,Veteran: Female 75+ Nonveteran,veteran_f75+_nonveteran,Population,Veteran Status,B21001_039E
-480,TravelTimeMode: Means of Transportation to Work by Travel Time to Work Series Total,traveltimemode_series_total,Transportation,Travel Time,B08134_001E
-481,TravelTimeMode: Less than 10 Minutes,traveltimemode_lessthan10,Transportation,Travel Time,B08134_002E
-482,TravelTimeMode: 10 to 14 Minutes,traveltimemode_10to14,Transportation,Travel Time,B08134_003E
-483,TravelTimeMode: 15 to 19 Minutes,traveltimemode_15to19,Transportation,Travel Time,B08134_004E
-484,TravelTimeMode: 20 to 24 Minutes,traveltimemode_20to24,Transportation,Travel Time,B08134_005E
-485,TravelTimeMode: 25 to 29 Minutes,traveltimemode_25to29,Transportation,Travel Time,B08134_006E
-486,TravelTimeMode: 30 to 34 Minutes,traveltimemode_30to34,Transportation,Travel Time,B08134_007E
-487,TravelTimeMode: 35 to 44 Minutes,traveltimemode_35to44,Transportation,Travel Time,B08134_008E
-488,TravelTimeMode: 45 to 59 Minutes,traveltimemode_45to59,Transportation,Travel Time,B08134_009E
-489,TravelTimeMode: 60 or More Minutes,traveltimemode_60ormore,Transportation,Travel Time,B08134_010E
-490,"TravelTimeMode: Car, Truck, or Van",traveltimemode_cartruckvan,Transportation,Travel Time,B08134_011E
-491,"TravelTimeMode: Car, Truck, or Van Less than 10 Minutes",traveltimemode_cartruckvan_lessthan10,Transportation,Travel Time,B08134_012E
-492,"TravelTimeMode: Car, Truck, or Van 10 to 14 Minutes",traveltimemode_cartruckvan_10to14,Transportation,Travel Time,B08134_013E
-493,"TravelTimeMode: Car, Truck, or Van 15 to 19 Minutes",traveltimemode_cartruckvan_15to19,Transportation,Travel Time,B08134_014E
-494,"TravelTimeMode: Car, Truck, or Van 20 to 24 Minutes",traveltimemode_cartruckvan_20to24,Transportation,Travel Time,B08134_015E
-495,"TravelTimeMode: Car, Truck, or Van 25 to 29 Minutes",traveltimemode_cartruckvan_25to29,Transportation,Travel Time,B08134_016E
-496,"TravelTimeMode: Car, Truck, or Van 30 to 34 Minutes",traveltimemode_cartruckvan_30to34,Transportation,Travel Time,B08134_017E
-497,"TravelTimeMode: Car, Truck, or Van 35 to 44 Minutes",traveltimemode_cartruckvan_35to44,Transportation,Travel Time,B08134_018E
-498,"TravelTimeMode: Car, Truck, or Van 45 to 59 Minutes",traveltimemode_cartruckvan_45to59,Transportation,Travel Time,B08134_019E
-499,"TravelTimeMode: Car, Truck, or Van 60 or More Minutes",traveltimemode_cartruckvan_60ormore,Transportation,Travel Time,B08134_020E
-500,"TravelTimeMode: Car, Truck, or Van (Drove Alone)",traveltimemode_cartruckvan_drovealone,Transportation,Travel Time,B08134_021E
-501,"TravelTimeMode: Car, Truck, or Van (Drove Alone) Less than 10 Minutes",traveltimemode_cartruckvan_drovealone_lessthan10,Transportation,Travel Time,B08134_022E
-502,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 10 to 14 Minutes",traveltimemode_cartruckvan_drovealone_10to14,Transportation,Travel Time,B08134_023E
-503,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 15 to 19 Minutes",traveltimemode_cartruckvan_drovealone_15to19,Transportation,Travel Time,B08134_024E
-504,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 20 to 24 Minutes",traveltimemode_cartruckvan_drovealone_20to24,Transportation,Travel Time,B08134_025E
-505,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 25 to 29 Minutes",traveltimemode_cartruckvan_drovealone_25to29,Transportation,Travel Time,B08134_026E
-506,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 30 to 34 Minutes",traveltimemode_cartruckvan_drovealone_30to34,Transportation,Travel Time,B08134_027E
-507,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 35 to 44 Minutes",traveltimemode_cartruckvan_drovealone_35to44,Transportation,Travel Time,B08134_028E
-508,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 45 to 59 Minutes",traveltimemode_cartruckvan_drovealone_45to59,Transportation,Travel Time,B08134_029E
-509,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 60 or More Minutes",traveltimemode_cartruckvan_drovealone_60ormore,Transportation,Travel Time,B08134_030E
-510,"TravelTimeMode: Car, Truck, or Van (Carpooled)",traveltimemode_cartruckvan_carpooled,Transportation,Travel Time,B08134_031E
-511,"TravelTimeMode: Car, Truck, or Van (Carpooled) Less than 10 Minutes",traveltimemode_cartruckvan_carpooled_lessthan10,Transportation,Travel Time,B08134_032E
-512,"TravelTimeMode: Car, Truck, or Van (Carpooled) 10 to 14 Minutes",traveltimemode_cartruckvan_carpooled_10to14,Transportation,Travel Time,B08134_033E
-513,"TravelTimeMode: Car, Truck, or Van (Carpooled) 15 to 19 Minutes",traveltimemode_cartruckvan_carpooled_15to19,Transportation,Travel Time,B08134_034E
-514,"TravelTimeMode: Car, Truck, or Van (Carpooled) 20 to 24 Minutes",traveltimemode_cartruckvan_carpooled_20to24,Transportation,Travel Time,B08134_035E
-515,"TravelTimeMode: Car, Truck, or Van (Carpooled) 25 to 29 Minutes",traveltimemode_cartruckvan_carpooled_25to29,Transportation,Travel Time,B08134_036E
-516,"TravelTimeMode: Car, Truck, or Van (Carpooled) 30 to 34 Minutes",traveltimemode_cartruckvan_carpooled_30to34,Transportation,Travel Time,B08134_037E
-517,"TravelTimeMode: Car, Truck, or Van (Carpooled) 35 to 44 Minutes",traveltimemode_cartruckvan_carpooled_35to44,Transportation,Travel Time,B08134_038E
-518,"TravelTimeMode: Car, Truck, or Van (Carpooled) 45 to 59 Minutes",traveltimemode_cartruckvan_carpooled_45to59,Transportation,Travel Time,B08134_039E
-519,"TravelTimeMode: Car, Truck, or Van (Carpooled) 60 or More Minutes",traveltimemode_cartruckvan_carpooled_60ormore,Transportation,Travel Time,B08134_040E
-520,TravelTimeMode: Public Transportation Excluding Taxi,traveltimemode_publictransportationexcludingtaxi,Transportation,Travel Time,B08134_061E
-521,TravelTimeMode: Public Transportation Excluding Taxi Less than 10 Minutes,traveltimemode_publictransportationexcludingtaxi_lessthan10,Transportation,Travel Time,B08134_062E
-522,TravelTimeMode: Public Transportation Excluding Taxi 10 to 14 Minutes,traveltimemode_publictransportationexcludingtaxi_10to14,Transportation,Travel Time,B08134_063E
-523,TravelTimeMode: Public Transportation Excluding Taxi 15 to 19 Minutes,traveltimemode_publictransportationexcludingtaxi_15to19,Transportation,Travel Time,B08134_064E
-524,TravelTimeMode: Public Transportation Excluding Taxi 20 to 24 Minutes,traveltimemode_publictransportationexcludingtaxi_20to24,Transportation,Travel Time,B08134_065E
-525,TravelTimeMode: Public Transportation Excluding Taxi 25 to 29 Minutes,traveltimemode_publictransportationexcludingtaxi_25to29,Transportation,Travel Time,B08134_066E
-526,TravelTimeMode: Public Transportation Excluding Taxi 30 to 34 Minutes,traveltimemode_publictransportationexcludingtaxi_30to34,Transportation,Travel Time,B08134_067E
-527,TravelTimeMode: Public Transportation Excluding Taxi 35 to 44 Minutes,traveltimemode_publictransportationexcludingtaxi_35to44,Transportation,Travel Time,B08134_068E
-528,TravelTimeMode: Public Transportation Excluding Taxi 45 to 59 Minutes,traveltimemode_publictransportationexcludingtaxi_45to59,Transportation,Travel Time,B08134_069E
-529,TravelTimeMode: Public Transportation Excluding Taxi 60 or More Minutes,traveltimemode_publictransportationexcludingtaxi_60ormore,Transportation,Travel Time,B08134_070E
-530,TravelTimeMode: Walked,traveltimemode_walked,Transportation,Travel Time,B08134_101E
-531,TravelTimeMode: Walked Less than 10 Minutes,traveltimemode_walked_lessthan10,Transportation,Travel Time,B08134_102E
-532,TravelTimeMode: Walked 10 to 14 Minutes,traveltimemode_walked_10to14,Transportation,Travel Time,B08134_103E
-533,TravelTimeMode: Walked 15 to 19 Minutes,traveltimemode_walked_15to19,Transportation,Travel Time,B08134_104E
-534,TravelTimeMode: Walked 20 to 24 Minutes,traveltimemode_walked_20to24,Transportation,Travel Time,B08134_105E
-535,TravelTimeMode: Walked 25 to 29 Minutes,traveltimemode_walked_25to29,Transportation,Travel Time,B08134_106E
-536,TravelTimeMode: Walked 30 to 34 Minutes,traveltimemode_walked_30to34,Transportation,Travel Time,B08134_107E
-537,TravelTimeMode: Walked 35 to 44 Minutes,traveltimemode_walked_35to44,Transportation,Travel Time,B08134_108E
-538,TravelTimeMode: Walked 45 to 59 Minutes,traveltimemode_walked_45to59,Transportation,Travel Time,B08134_109E
-539,TravelTimeMode: Walked 60 or More Minutes,traveltimemode_walked_60ormore,Transportation,Travel Time,B08134_110E
-540,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other",traveltimemode_taximotorcyclebicycleother,Transportation,Travel Time,B08134_111E
-541,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other Less than 10 Minutes",traveltimemode_taximotorcyclebicycleother_lessthan10,Transportation,Travel Time,B08134_112E
-542,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 10 to 14 Minutes",traveltimemode_taximotorcyclebicycleorother_10to14,Transportation,Travel Time,B08134_113E
-543,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 15 to 19 Minutes",traveltimemode_taximotorcyclebicycleorother_15to19,Transportation,Travel Time,B08134_114E
-544,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 20 to 24 Minutes",traveltimemode_taximotorcyclebicycleorother_20to24,Transportation,Travel Time,B08134_115E
-545,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 25 to 29 Minutes",traveltimemode_taximotorcyclebicycleorother_25to29,Transportation,Travel Time,B08134_116E
-546,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 30 to 34 Minutes",traveltimemode_taximotorcyclebicycleorother_30to34,Transportation,Travel Time,B08134_117E
-547,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 35 to 44 Minutes",traveltimemode_taximotorcyclebicycleorother_35to44,Transportation,Travel Time,B08134_118E
-548,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 45 to 59 Minutes",traveltimemode_taximotorcyclebicycleorother_45to59,Transportation,Travel Time,B08134_119E
-549,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 60 or More Minutes",traveltimemode_taximotorcyclebicycleorother_60ormore,Transportation,Travel Time,B08134_120E
-550,ForeignBorn: Total Series,fb_total_series,Population,Foreign Born,B08511_001E
-551,ForeignBorn: Total Native Born,fb_nativeborn,Population,Foreign Born,B08511_002E
-552,ForeignBorn:Total Foreign Born,fb_foreignborn,Population,Foreign Born,B08511_003E
-553,"ForeignBorn:Foreign Born, Naturalized US Citizen",fb_foreignborn_naturalizeduscitizen,Population,Foreign Born,B08511_004E
-554,"ForeignBorn:Foreign Born, Not a US Citizen",fb_foreignborn_notauscitizen,Population,Foreign Born,B08511_005E
+93,"Americas, Northern America",fb_am_northern,Population,Diversity,B05006_159E
+94,"Total, Means of Transportation to Work by Class of Worker Series",classworker_total_series,Employment,Class of Worker,B08128_001E
+95,Private for Profit Wage and Salary Workers,classworker_privateforprofit,Employment,Class of Worker,B08128_002E
+96,"Private for Profit Wage and Salary Workers, Employee of Private Company Workers",classworker_privateforprofit_employee,Employment,Class of Worker,B08128_003E
+97,"Private for Profit Wage and Salary Workers, Self-Employed in own Incorporated Business ",classworker_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,B08128_004E
+98,Private not for Profit Wage and Salary Workers,classworker_privatenotforprofit,Employment,Class of Worker,B08128_005E
+99,Local Government Workers,classworker_localgovt,Employment,Class of Worker,B08128_006E
+100,State Government Workers,classworker_stategovt,Employment,Class of Worker,B08128_007E
+101,Federal Government Workers,classworker_federalgovt,Employment,Class of Worker,B08128_008E
+102,Self Employed in Own Non-Incorporated Business Workers,classworker_selfemployednonincorporatedbusiness,Employment,Class of Worker,B08128_009E
+103,Unpaid Family Workers,classworker_unpaidfamilyworker,Employment,Class of Worker,B08128_010E
+104,Total Sex by Age by Employment Status for the 16+ Population Series,lfstatus_total_sexbyagebyemploymentstatus16+_series,Employment,Labor Force Status,B23001_001E
+105,Male 16 to 19 Civilian,lfstatus_mciv_16to19,Employment,Labor Force Status,B23001_006E
+106,Male 16 to 19 Civilian Employed,lfstatus_mciv_16to19_employed,Employment,Labor Force Status,B23001_007E
+107,Male 16 to 19 Civilian Unemployed,lfstatus_mciv_16to19_unemployed,Employment,Labor Force Status,B23001_008E
+108,Male 20 and 21 Civilian,lfstatus_mciv_20to21,Employment,Labor Force Status,B23001_013E
+109,Male 20 and 21 Civilian Employed,lfstatus_mciv_20to21_employed,Employment,Labor Force Status,B23001_014E
+110,Male 20 and 21 Civilian Unemployed,lfstatus_mciv_20to21_unemployed,Employment,Labor Force Status,B23001_015E
+111,Male 22 to 24 Civilian,lfstatus_mciv_22to24,Employment,Labor Force Status,B23001_020E
+112,Male 22 to 24 Civilian Employed,lfstatus_mciv_22to24_employed,Employment,Labor Force Status,B23001_021E
+113,Male 22 to 24 Civilian Unemployed,lfstatus_mciv_22to24_unemployed,Employment,Labor Force Status,B23001_022E
+114,Male 25 to 29 Civilian,lfstatus_mciv_25to29,Employment,Labor Force Status,B23001_027E
+115,Male 25 to 29 Civilian Employed,lfstatus_mciv_25to29_employed,Employment,Labor Force Status,B23001_028E
+116,Male 25 to 29 Civilian Unemployed,lfstatus_mciv_25to29_unemployed,Employment,Labor Force Status,B23001_029E
+117,Male 30 to 34 Civilian,lfstatus_mciv_30to34,Employment,Labor Force Status,B23001_034E
+118,Male 30 to 34 Civilian Employed,lfstatus_mciv_30to34_employed,Employment,Labor Force Status,B23001_035E
+119,Male 30 to 34 Civilian Unemployed,lfstatus_mciv_30to34_unemployed,Employment,Labor Force Status,B23001_036E
+120,Male 35 to 44 Civilian,lfstatus_mciv_35to44,Employment,Labor Force Status,B23001_041E
+121,Male 35 to 44 Civilian Employed,lfstatus_mciv_35to44_employed,Employment,Labor Force Status,B23001_042E
+122,Male 35 to 44 Civilian Unemployed,lfstatus_mciv_35to44_unemployed,Employment,Labor Force Status,B23001_043E
+123,Male 45 to 54 Civilian,lfstatus_mciv_45to54,Employment,Labor Force Status,B23001_048E
+124,Male 45 to 54 Civilian Employed,lfstatus_mciv_45to54_employed,Employment,Labor Force Status,B23001_049E
+125,Male 45 to 54 Civilian Unemployed,lfstatus_mciv_45to54_unemployed,Employment,Labor Force Status,B23001_050E
+126,Male 55 to 59 Civilian,lfstatus_mciv_55to59,Employment,Labor Force Status,B23001_055E
+127,Male 55 to 59 Civilian Employed,lfstatus_mciv_55to59_employed,Employment,Labor Force Status,B23001_056E
+128,Male 55 to 59 Civilian Unemployed,lfstatus_mciv_55to59_unemployed,Employment,Labor Force Status,B23001_057E
+129,Male 60 and 61 Civilian,lfstatus_mciv_60to61,Employment,Labor Force Status,B23001_062E
+130,Male 60 and 61 Civilian Employed,lfstatus_mciv_60to61_employed,Employment,Labor Force Status,B23001_063E
+131,Male 60 and 61 Civilian Unemployed,lfstatus_mciv_60to61_unemployed,Employment,Labor Force Status,B23001_064E
+132,Male 62 to 64 Civilian,lfstatus_mciv_62to64,Employment,Labor Force Status,B23001_069E
+133,Male 62 to 64 Civilian Employed,lfstatus_mciv_62to64_employed,Employment,Labor Force Status,B23001_070E
+134,Male 62 to 64 Civilian Unemployed,lfstatus_mciv_62to64_unemployed,Employment,Labor Force Status,B23001_071E
+135,Male 65 to 69 Civilian,lfstatus_mciv_65to69,Employment,Labor Force Status,B23001_074E
+136,Male 65 to 69 Civilian Employed,lfstatus_mciv_65to69_employed,Employment,Labor Force Status,B23001_075E
+137,Male 65 to 69 Civilian Unemployed,lfstatus_mciv_65to69_unemployed,Employment,Labor Force Status,B23001_076E
+138,Male 70 to 74 Civilian,lfstatus_mciv_70to74,Employment,Labor Force Status,B23001_079E
+139,Male 70 to 74 Civilian Employed,lfstatus_mciv_70to74_employed,Employment,Labor Force Status,B23001_080E
+140,Male 70 to 74 Civilian Unemployed,lfstatus_mciv_70to74_unemployed,Employment,Labor Force Status,B23001_081E
+141,Male 75+ Civilian,lfstatus_mciv_75+,Employment,Labor Force Status,B23001_084E
+142,Male 75+ Civilian Employed,lfstatus_mciv_75+_employed,Employment,Labor Force Status,B23001_085E
+143,Male 75+ Civilian Unemployed,lfstatus_mciv_75+_unemployed,Employment,Labor Force Status,B23001_086E
+144,Female 16 to 19 Civilian,lfstatus_fciv_16to19,Employment,Labor Force Status,B23001_092E
+145,Female 16 to 19 Civilian Employed,lfstatus_fciv_16to19_employed,Employment,Labor Force Status,B23001_093E
+146,Female 16 to 19 Civilian Unemployed,lfstatus_fciv_16to19_unemployed,Employment,Labor Force Status,B23001_094E
+147,Female 20 and 21 Civilian,lfstatus_fciv_20to21,Employment,Labor Force Status,B23001_099E
+148,Female 20 and 21 Civilian Employed,lfstatus_fciv_20to21_employed,Employment,Labor Force Status,B23001_100E
+149,Female 20 and 21 Civilian Unemployed,lfstatus_fciv_20to21_unemployed,Employment,Labor Force Status,B23001_101E
+150,Female 22 to 24 Civilian,lfstatus_fciv_22to24,Employment,Labor Force Status,B23001_106E
+151,Female 22 to 24 Civilian Employed,lfstatus_fciv_22to24_employed,Employment,Labor Force Status,B23001_107E
+152,Female 22 to 24 Civilian Unemployed,lfstatus_fciv_22to24_unemployed,Employment,Labor Force Status,B23001_108E
+153,Female 25 to 29 Civilian,lfstatus_fciv_25to29,Employment,Labor Force Status,B23001_113E
+154,Female 25 to 29 Civilian Employed,lfstatus_fciv_25to29_employed,Employment,Labor Force Status,B23001_114E
+155,Female 25 to 29 Civilian Unemployed,lfstatus_fciv_25to29_unemployed,Employment,Labor Force Status,B23001_115E
+156,Female 30 to 34 Civilian,lfstatus_fciv_30to34,Employment,Labor Force Status,B23001_120E
+157,Female 30 to 34 Civilian Employed,lfstatus_fciv_30to34_employed,Employment,Labor Force Status,B23001_121E
+158,Female 30 to 34 Civilian Unemployed,lfstatus_fciv_30to34_unemployed,Employment,Labor Force Status,B23001_122E
+159,Female 35 to 44 Civilian,lfstatus_fciv_35to44,Employment,Labor Force Status,B23001_127E
+160,Female 35 to 44 Civilian Employed,lfstatus_fciv_35to44_employed,Employment,Labor Force Status,B23001_128E
+161,Female 35 to 44 Civilian Unemployed,lfstatus_fciv_35to44_unemployed,Employment,Labor Force Status,B23001_129E
+162,Female 45 to 54 Civilian,lfstatus_fciv_45to54,Employment,Labor Force Status,B23001_134E
+163,Female 45 to 54 Civilian Employed,lfstatus_fciv_45to54_employed,Employment,Labor Force Status,B23001_135E
+164,Female 45 to 54 Civilian Unemployed,lfstatus_fciv_45to54_unemployed,Employment,Labor Force Status,B23001_136E
+165,Female 55 to 59 Civilian,lfstatus_fciv_55to59,Employment,Labor Force Status,B23001_141E
+166,Female 55 to 59 Civilian Employed,lfstatus_fciv_55to59_employed,Employment,Labor Force Status,B23001_142E
+167,Female 55 to 59 Civilian Unemployed,lfstatus_fciv_55to59_unemployed,Employment,Labor Force Status,B23001_143E
+168,Female 60 and 61 Civilian,lfstatus_fciv_60to61,Employment,Labor Force Status,B23001_148E
+169,Female 60 and 61 Civilian Employed,lfstatus_fciv_60to61_employed,Employment,Labor Force Status,B23001_149E
+170,Female 60 and 61 Civilian Unemployed,lfstatus_fciv_60to61_unemployed,Employment,Labor Force Status,B23001_150E
+171,Female 62 to 64 Civilian,lfstatus_fciv_62to64,Employment,Labor Force Status,B23001_155E
+172,Female 62 to 64 Civilian Employed,lfstatus_fciv_62to64_employed,Employment,Labor Force Status,B23001_156E
+173,Female 62 to 64 Civilian Unemployed,lfstatus_fciv_62to64_unemployed,Employment,Labor Force Status,B23001_157E
+174,Female 65 to 69 Civilian,lfstatus_fciv_65to69,Employment,Labor Force Status,B23001_160E
+175,Female 65 to 69 Civilian Employed,lfstatus_fciv_65to69_employed,Employment,Labor Force Status,B23001_161E
+176,Female 65 to 69 Civilian Unemployed,lfstatus_fciv_65to69_unemployed,Employment,Labor Force Status,B23001_162E
+177,Female 70 to 74 Civilian,lfstatus_fciv_70to74,Employment,Labor Force Status,B23001_165E
+178,Female 70 to 74 Civilian Employed,lfstatus_fciv_70to74_employed,Employment,Labor Force Status,B23001_166E
+179,Female 70 to 74 Civilian Unemployed,lfstatus_fciv_70to74_unemployed,Employment,Labor Force Status,B23001_167E
+180,Female 75+ Civilian,lfstatus_fciv_75+,Employment,Labor Force Status,B23001_170E
+181,Female 75+ Civilian Employed,lfstatus_fciv_75+_employed,Employment,Labor Force Status,B23001_171E
+182,Female 75+ Civilian Unemployed,lfstatus_fciv_75+_unemployed,Employment,Labor Force Status,B23001_172E
+183,Per Capita Personal Income in the Past 12 Months in Most Recent Year Dollars,percapita_income,Employment,Income,B19301_001E
+184,Total Geographic Mobility in the Past Year by Age Series,geo_total_series,Geographic Mobility,Moved,B07001_001E
+185,Geographic Mobility Past Year Age 1 to 4 Total,geo_1to4_total,Geographic Mobility,Moved,B07001_002E
+186,Geographic Mobility Past Year Age 5 to 17 Total,geo_5to17_total,Geographic Mobility,Moved,B07001_003E
+187,Geographic Mobility Past Year Age 18 to 19 Total,geo_18to19_total,Geographic Mobility,Moved,B07001_004E
+188,Geographic Mobility Past Year Age 20 to 24 Total,geo_20to24_total,Geographic Mobility,Moved,B07001_005E
+189,Geographic Mobility Past Year Age 25 to 29 Total,geo_25to29_total,Geographic Mobility,Moved,B07001_006E
+190,Geographic Mobility Past Year Age 30 to 34 Total,geo_30to34_total,Geographic Mobility,Moved,B07001_007E
+191,Geographic Mobility Past Year Age 35 to 39 Total,geo_35to39_total,Geographic Mobility,Moved,B07001_008E
+192,Geographic Mobility Past Year Age 40 to 44 Total,geo_40to44_total,Geographic Mobility,Moved,B07001_009E
+193,Geographic Mobility Past Year Age 45 to 49 Total,geo_45to49_total,Geographic Mobility,Moved,B07001_010E
+194,Geographic Mobility Past Year Age 50 to 54 Total,geo_50to54_total,Geographic Mobility,Moved,B07001_011E
+195,Geographic Mobility Past Year Age 55 to 59 Total,geo_55to59_total,Geographic Mobility,Moved,B07001_012E
+196,Geographic Mobility Past Year Age 60 to 64 Total,geo_60to64_total,Geographic Mobility,Moved,B07001_013E
+197,Geographic Mobility Past Year Age 65 to 69 Total,geo_65to69_total,Geographic Mobility,Moved,B07001_014E
+198,Geographic Mobility Past Year Age 70 to74 Total,geo_70to74_total,Geographic Mobility,Moved,B07001_015E
+199,Geographic Mobility Past Year Age 75+ Total,geo_75+_total,Geographic Mobility,Moved,B07001_016E
+200,Geographic Mobility Total Same House One Year Ago,geo_samehouse_total,Geographic Mobility,Moved,B07001_017E
+201,Geo Mobility 55 to 59 Same House One Year Ago,geo_55to59_samehouse,Geographic Mobility,Moved,B07001_028E
+202,Geo Mobility 60 to 64 Same House One Year Ago,geo_60to64_samehouse,Geographic Mobility,Moved,B07001_029E
+203,Geo Mobility 65 to 69 Same House One Year Ago,geo_65to69_samehouse,Geographic Mobility,Moved,B07001_030E
+204,Geo Mobility 70 to 74 Same House One Year Ago,geo_70to74_samehouse,Geographic Mobility,Moved,B07001_031E
+205,Geo Mobility 75+ Same House One Year Ago,geo_75+_samehouse,Geographic Mobility,Moved,B07001_032E
+206,Geographic Mobility Total Moved Within Same County,geo_movedsamecounty_total,Geographic Mobility,Moved,B07001_033E
+207,Geo Mobility 55 to 59 Moved Within Same County,geo_55to59_movedsamecounty,Geographic Mobility,Moved,B07001_044E
+208,Geo Mobility 60 to 64 Moved Within Same County,geo_60to64_movedsamecounty,Geographic Mobility,Moved,B07001_045E
+209,Geo Mobility 65 to 69 Moved Within Same County,geo_65to69_movedsamecounty,Geographic Mobility,Moved,B07001_046E
+210,Geo Mobility 70 to 74 Moved Within Same County,geo_70to74_movedsamecounty,Geographic Mobility,Moved,B07001_047E
+211,Geo Mobility 75+ Moved Within Same County,geo_75+_movedsamecounty,Geographic Mobility,Moved,B07001_048E
+212,Geographic Mobility Moved from Different County Within Same State,geo_moveddifferentcountysamestate_total,Geographic Mobility,Moved,B07001_049E
+213,Geo Mobility 55 to 59 Moved from Different County in Same State,geo_55to59_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_060E
+214,Geo Mobility 60 to 64 Moved from Different County in Same State,geo_60to64_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_061E
+215,Geo Mobility 65 to 69 Moved from Different County in Same State,geo_65to69_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_062E
+216,Geo Mobility 70 to 74 Moved from Different County in Same State,geo_70to74_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_063E
+217,Geo Mobility 75+ Moved from Different County in Same State,geo_75+_moveddifferentcountysamestate,Geographic Mobility,Moved,B07001_064E
+218,Geographic Mobility Moved From Different State,geo_moveddifferentstate_total,Geographic Mobility,Moved,B07001_065E
+219,Geo Mobility 55 to 59 Moved from Different State,geo_55to59_moveddifferentstate,Geographic Mobility,Moved,B07001_076E
+220,Geo Mobility 60 to 64 Moved from Different State,geo_60to64_moveddifferentstate,Geographic Mobility,Moved,B07001_077E
+221,Geo Mobility 65 to 69 Moved from Different State,geo_65to69_moveddifferentstate,Geographic Mobility,Moved,B07001_078E
+222,Geo Mobility 70 to 74 Moved from Different State,geo_70to74_moveddifferentstate,Geographic Mobility,Moved,B07001_079E
+223,Geo Mobility 75+ Moved from Different State,geo_75+_moveddifferentstate,Geographic Mobility,Moved,B07001_080E
+224,Geographic Mobility Moved from Abroad,geo_movedabroad_total,Geographic Mobility,Moved,B07001_081E
+225,Geo Mobility 55 to 59 Moved from Abroad,geo_55to59_movedabroad,Geographic Mobility,Moved,B07001_092E
+226,Geo Mobility 60 to 64 Moved from Abroad,geo_60to64_movedabroad,Geographic Mobility,Moved,B07001_093E
+227,Geo Mobility 65 to 69 Moved from Abroad,geo_65to69_movedabroad,Geographic Mobility,Moved,B07001_094E
+228,Geo Mobility 70 to 74 Moved from Abroad,geo_70to74_movedabroad,Geographic Mobility,Moved,B07001_095E
+229,Geo Mobility 75+ Moved from Abroad,geo_75+_movedabroad,Geographic Mobility,Moved,B07001_096E
+230,Vehicles per Household by Tenure Total Series,vehicles_tenurebyvehicles_total_series,Transportation,Vehicles,B25044_001E
+231,Vehicles per Household Total Owner Occupied,vehicles_ownerocc_total,Transportation,Vehicles,B25044_002E
+232,Vehicles per Household Owner Occupied No Vehicles,vehicles_ownerocc_novehicle,Transportation,Vehicles,B25044_003E
+233,Vehicles per Household Owner Occupied 1 Vehicle,vehicles_ownerocc_1vehicle,Transportation,Vehicles,B25044_004E
+234,Vehicles per Household Owner Occupied 2 Vehicles,vehicles_ownerocc_2vehicles,Transportation,Vehicles,B25044_005E
+235,Vehicles per Household Owner Occupied 3 Vehicles,vehicles_ownerocc_3vehicles,Transportation,Vehicles,B25044_006E
+236,Vehicles per Household Owner Occupied 4 Vehicles,vehicles_ownerocc_4vehicles,Transportation,Vehicles,B25044_007E
+237,Vehicles per Household Owner Occupied 5 Vehicles,vehicles_ownerocc_5+vehicles,Transportation,Vehicles,B25044_008E
+238,Vehicles per Household Total Renter Occupied,vehicles_renterocc_total,Transportation,Vehicles,B25044_009E
+239,Vehicles per Household Renter Occupied No Vehicles,vehicles_renterocc_novehicle,Transportation,Vehicles,B25044_010E
+240,Vehicles per Household Renter Occupied 1 Vehicle,vehicles_renterocc_1vehicle,Transportation,Vehicles,B25044_011E
+241,Vehicles per Household Renter Occupied 2 Vehicles,vehicles_renterocc_2vehicles,Transportation,Vehicles,B25044_012E
+242,Vehicles per Household Renter Occupied 3 Vehicles,vehicles_renterocc_3vehicles,Transportation,Vehicles,B25044_013E
+243,Vehicles per Household Renter Occupied 4 Vehicles,vehicles_renterocc_4vehicles,Transportation,Vehicles,B25044_014E
+244,Vehicles per Household Renter Occupied 5 Vehicles,vehicles_renterocc_5+vehicles,Transportation,Vehicles,B25044_015E
+245,Industry Employment Sex by Industry Civilian Population Total Series,industry_sexbyindustrycivilianpop_total_series,Employment,Industry Employment,C24030_001E
+246,Industry Employment Total Male,industry_sexbyindustrycivilianpop_totalmale,Employment,Industry Employment,C24030_002E
+247,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining",industry_m_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,C24030_003E
+248,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_m_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,C24030_004E
+249,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_m_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,C24030_005E
+250,Industry Employment Male Construction,industry_m_construction,Employment,Industry Employment,C24030_006E
+251,Industry Employment Male Manufacturing,industry_m_manufacturing,Employment,Industry Employment,C24030_007E
+252,Industry Employment Male Wholesale Trade,industry_m_wholesaletrade,Employment,Industry Employment,C24030_008E
+253,Industry Employment Male Retail Trade,industry_m_retailtrade,Employment,Industry Employment,C24030_009E
+254,"Industry Employment Male Transportation, Warehousing, and Utilities",industry_m_transportation_warehousing_utilities,Employment,Industry Employment,C24030_010E
+255,"Industry Employment Male Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_m_transut_transportation_warehousing,Employment,Industry Employment,C24030_011E
+256,"Industry Employment Male Transportation, Warehousing, and Utilities: Utilities",industry_m_transut_utilities,Employment,Industry Employment,C24030_012E
+257,Industry Employment Male Information,industry_m_information,Employment,Industry Employment,C24030_013E
+258,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing",industry_m_finance_insurance_realestate_rental,Employment,Industry Employment,C24030_014E
+259,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_m_finrent_finance_insurance,Employment,Industry Employment,C24030_015E
+260,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_m_finrent_realestate_rental,Employment,Industry Employment,C24030_016E
+261,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management",industry_m_professional_scientific_managementadmin_waste,Employment,Industry Employment,C24030_017E
+262,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_m_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,C24030_018E
+263,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_m_profwaste_managementcompaniesenterprises,Employment,Industry Employment,C24030_019E
+264,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_m_adminandsupportandwaste,Employment,Industry Employment,C24030_020E
+265,"Industry Employment Male Educational, Healthcare, and Social Assistance",industry_m_educational_healthcare_socialassistance,Employment,Industry Employment,C24030_021E
+266,"Industry Employment Male Educational, Healthcare, and Social Assistance: Educational",industry_m_edsocial_educational,Employment,Industry Employment,C24030_022E
+267,"Industry Employment Male Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_m_edsocial_healthcare_socialassistance,Employment,Industry Employment,C24030_023E
+268,"Industry Employment Male Entertainment and Recreation, Accommodation and Food",industry_m_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,C24030_024E
+269,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_m_artsaccom_arts_entertainmentrec,Employment,Industry Employment,C24030_025E
+270,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_m_artsaccom_accommodation_food,Employment,Industry Employment,C24030_026E
+271,Industry Employment Male Other Services Not Public Administration,industry_m_otherservices_notpublicadmin,Employment,Industry Employment,C24030_027E
+272,Industry Employment Male Public Administration,industry_m_publicadmin,Employment,Industry Employment,C24030_028E
+273,Industry Employment Total Female,industry_sexbyindustrycivilianpop_totalfemale,Employment,Industry Employment,C24030_029E
+274,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining",industry_f_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,C24030_030E
+275,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_f_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,C24030_031E
+276,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_f_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,C24030_032E
+277,Industry Employment Female Construction,industry_f_construction,Employment,Industry Employment,C24030_033E
+278,Industry Employment Female Manufacturing,industry_f_manufacturing,Employment,Industry Employment,C24030_034E
+279,Industry Employment Female Wholesale Trade,industry_f_wholesaletrade,Employment,Industry Employment,C24030_035E
+280,Industry Employment Female Retail Trade,industry_f_retailtrade,Employment,Industry Employment,C24030_036E
+281,"Industry Employment Female Transportation, Warehousing, and Utilities",industry_f_transportation_warehousing_utilities,Employment,Industry Employment,C24030_037E
+282,"Industry Employment Female Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_f_transut_transportation_warehousing,Employment,Industry Employment,C24030_038E
+283,"Industry Employment Female Transportation, Warehousing, and Utilities: Utilities",industry_f_transut_utilities,Employment,Industry Employment,C24030_039E
+284,Industry Employment Female Information,industry_f_information,Employment,Industry Employment,C24030_040E
+285,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing",industry_f_finance_insurance_realestate_rental,Employment,Industry Employment,C24030_041E
+286,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_f_finrent_finance_insurance,Employment,Industry Employment,C24030_042E
+287,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_f_finrent_realestate_rental,Employment,Industry Employment,C24030_043E
+288,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management",industry_f_professional_scientific_managementadmin_waste,Employment,Industry Employment,C24030_044E
+289,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_f_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,C24030_045E
+290,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_f_profwaste_managementcompaniesenterprises,Employment,Industry Employment,C24030_046E
+291,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_f_adminandsupportandwaste,Employment,Industry Employment,C24030_047E
+292,"Industry Employment Female Educational, Healthcare, and Social Assistance",industry_f_educational_healthcare_socialassistance,Employment,Industry Employment,C24030_048E
+293,"Industry Employment Female Educational, Healthcare, and Social Assistance: Educational",industry_f_edsocial_educational,Employment,Industry Employment,C24030_049E
+294,"Industry Employment Female Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_f_edsocial_healthcare_socialassistance,Employment,Industry Employment,C24030_050E
+295,"Industry Employment Female Entertainment and Recreation, Accommodation and Food",industry_f_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,C24030_051E
+296,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_f_artsaccom_arts_entertainmentrec,Employment,Industry Employment,C24030_052E
+297,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_f_artsaccom_accommodation_food,Employment,Industry Employment,C24030_053E
+298,Industry Employment Female Other Services Not Public Administration,industry_f_otherservices_notpublicadmin,Employment,Industry Employment,C24030_054E
+299,Industry Employment Female Public Administration,industry_f_publicadmin,Employment,Industry Employment,C24030_055E
+300,Occupational Employment by Sex Total Series,occupation_sexbyoccupationcivilianpop_total_series,Employment,Occupational Employment,C24010_001E
+301,Occupational Employment Total Male,occupation_sexbyoccupationcivilianpop_totalmale,Employment,Occupational Employment,C24010_002E
+302,"Occupational Employment Male Management, Professional, and Related: Management Occupations",occupation_m_management,Employment,Occupational Employment,C24010_005E
+303,"Occupational Employment Male Management, Professional, and Related: Business and Financial Operations Occupations",occupation_m_businessandfinancial,Employment,Occupational Employment,C24010_006E
+304,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_m_computerandmathematical,Employment,Occupational Employment,C24010_008E
+305,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_m_architectureandengineering,Employment,Occupational Employment,C24010_009E
+306,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_m_lifephysicalsocialscience,Employment,Occupational Employment,C24010_010E
+307,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_m_communityandsocialservices,Employment,Occupational Employment,C24010_012E
+308,"Occupational Employment Male Management, Professional, and Related: Legal Occupations",occupation_m_legal,Employment,Occupational Employment,C24010_013E
+309,"Occupational Employment Male Management, Professional, and Related: Education, Training, and Library Occupations",occupation_m_educationtrainingandlibrary,Employment,Occupational Employment,C24010_014E
+310,"Occupational Employment Male Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_m_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,C24010_015E
+311,"Occupational Employment Male Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_m_healthcarepractitionersandtechnical,Employment,Occupational Employment,C24010_016E
+312,Occupational Employment Male Service Occupations: Healthcare Support Occupations,occupation_m_healthcaresupport,Employment,Occupational Employment,C24010_020E
+313,Occupational Employment Male Service Occupations: Protective Service Occupations,occupation_m_protectiveservice,Employment,Occupational Employment,C24010_021E
+314,Occupational Employment Male Service Occupations: Food Preparations and Serving Related Occupations,occupation_m_foodprepandserving,Employment,Occupational Employment,C24010_023E
+315,Occupational Employment Male Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_m_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,C24010_025E
+316,Occupational Employment Male Service Occupations: Personal Care and Service Occupations,occupation_m_personalcareandservice,Employment,Occupational Employment,C24010_026E
+317,Occupational Employment Male Sales and Office Occupations: Sales and Related Occupations,occupation_m_salesandrelated,Employment,Occupational Employment,C24010_028E
+318,Occupational Employment Male Sales and Office Occupations: Office and Administrative Support Occupations,occupation_m_officeandadmin,Employment,Occupational Employment,C24010_029E
+319,"Occupational Employment Male Farming, Fishing, and Forestry Occupations",occupation_m_farmingfishingandforestry,Employment,Occupational Employment,C24010_031E
+320,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_m_constructionandextraction,Employment,Occupational Employment,C24010_032E
+321,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_m_installationmaintenanceandrepair,Employment,Occupational Employment,C24010_033E
+322,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_m_production,Employment,Occupational Employment,C24010_035E
+323,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Transportation Occupations",occupation_m_transportation,Employment,Occupational Employment,C24010_036E
+324,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Material Moving Occupations",occupation_m_materialmoving,Employment,Occupational Employment,C24010_037E
+325,Occupational Employment Total Female,occupation_sexbyoccupationcivilianpop_totalfemale,Employment,Occupational Employment,C24010_038E
+326,"Occupational Employment Female Management, Professional, and Related: Management Occupations",occupation_f_management,Employment,Occupational Employment,C24010_041E
+327,"Occupational Employment Female Management, Professional, and Related: Business and Financial Operations Occupations",occupation_f_businessandfinancial,Employment,Occupational Employment,C24010_042E
+328,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_f_computerandmathematical,Employment,Occupational Employment,C24010_044E
+329,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_f_architectureandengineering,Employment,Occupational Employment,C24010_045E
+330,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_f_lifephysicalsocialscience,Employment,Occupational Employment,C24010_046E
+331,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_f_communityandsocialservices,Employment,Occupational Employment,C24010_048E
+332,"Occupational Employment Female Management, Professional, and Related: Legal Occupations",occupation_f_legal,Employment,Occupational Employment,C24010_049E
+333,"Occupational Employment Female Management, Professional, and Related: Education, Training, and Library Occupations",occupation_f_educationtrainingandlibrary,Employment,Occupational Employment,C24010_050E
+334,"Occupational Employment Female Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_f_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,C24010_051E
+335,"Occupational Employment Female Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_f_healthcarepractitionersandtechnical,Employment,Occupational Employment,C24010_052E
+336,Occupational Employment Female Service Occupations: Healthcare Support Occupations,occupation_f_healthcaresupport,Employment,Occupational Employment,C24010_056E
+337,Occupational Employment Female Service Occupations: Protective Service Occupations,occupation_f_protectiveservice,Employment,Occupational Employment,C24010_057E
+338,Occupational Employment Female Service Occupations: Food Preparations and Serving Related Occupations,occupation_f_foodprepandserving,Employment,Occupational Employment,C24010_060E
+339,Occupational Employment Female Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_f_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,C24010_061E
+340,Occupational Employment Female Service Occupations: Personal Care and Service Occupations,occupation_f_personalcareandservice,Employment,Occupational Employment,C24010_062E
+341,Occupational Employment Female Sales and Office Occupations: Sales and Related Occupations,occupation_f_salesandrelated,Employment,Occupational Employment,C24010_064E
+342,Occupational Employment Female Sales and Office Occupations: Office and Administrative Support Occupations,occupation_f_officeandadmin,Employment,Occupational Employment,C24010_065E
+343,"Occupational Employment Female Farming, Fishing, and Forestry Occupations",occupation_f_farmingfishingandforestry,Employment,Occupational Employment,C24010_067E
+344,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_f_constructionandextraction,Employment,Occupational Employment,C24010_068E
+345,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_f_installationmaintenanceandrepair,Employment,Occupational Employment,C24010_069E
+346,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_f_production,Employment,Occupational Employment,C24010_071E
+347,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Transportation Occupations",occupation_f_transportation,Employment,Occupational Employment,C24010_072E
+348,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Material Moving Occupations",occupation_f_materialmoving,Employment,Occupational Employment,C24010_073E
+349,Language Spoken at Home by Ability to Speak English for the Population 5+,language_languagebyabilitytospeakenglish_total5+_series,Diversity,Language,B16004_001E
+350,Language Spoken at Home by Ability to Speak English Total 5 to 17,language_total_5to17,Diversity,Language,B16004_002E
+351,Language Spoken at Home Speaks Only English 5 to 17,language_speakonlyenglish_5to17,Diversity,Language,B16004_003E
+352,Language Spoken at Home Speaks Spanish 5 to 17,language_speakspanish_5to17,Diversity,Language,B16004_004E
+353,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 5 to 17",language_speakspanish_speakenglishverywell_5to17,Diversity,Language,B16004_005E
+354,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 5 to 17",language_speakspanish_speakenglishwell_5to17,Diversity,Language,B16004_006E
+355,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 5 to 17",language_speakspanish_speakenglishnotwell_5to17,Diversity,Language,B16004_007E
+356,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 5 to 17",language_speakspanish_speakenglishnotatall_5to17,Diversity,Language,B16004_008E
+357,Language Spoken at Home Speaks Other Indo-European Language 5 to 17,language_speakotherindoeuro_5to17,Diversity,Language,B16004_009E
+358,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 5 to 17",language_speakotherindoeuro_speakenglishverywell_5to17,Diversity,Language,B16004_010E
+359,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 5 to 17",language_speakotherindoeuro_speakenglishwell_5to17,Diversity,Language,B16004_011E
+360,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 5 to 17",language_speakotherindoeuro_speakenglishnotwell_5to17,Diversity,Language,B16004_012E
+361,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 5 to 17",language_speakotherindoeuro_speakenglishnotatall_5to17,Diversity,Language,B16004_013E
+362,Language Spoken at Home Speaks Asian or Pacific Island 5 to 17,language_speakasianpacificisland_5to17,Diversity,Language,B16004_014E
+363,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 5 to 17",language_speakasianpacificisland_speakenglishverywell_5to17,Diversity,Language,B16004_015E
+364,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 5 to 17",language_speakasianpacificisland_speakenglishwell_5to17,Diversity,Language,B16004_016E
+365,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 5 to 17",language_speakasianpacificisland_speakenglishnotwell_5to17,Diversity,Language,B16004_017E
+366,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 5 to 17",language_speakasianpacificisland_speakenglishnotatall_5to17,Diversity,Language,B16004_018E
+367,Language Spoken at Home Speaks Other Language 5 to 17,language_speakother_5to17,Diversity,Language,B16004_019E
+368,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 5 to 17",language_speakother_speakenglishverywell_5to17,Diversity,Language,B16004_020E
+369,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 5 to 17",language_speakother_speakenglishwell_5to17,Diversity,Language,B16004_021E
+370,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 5 to 17",language_speakother_speakenglishnotwell_5to17,Diversity,Language,B16004_022E
+371,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 5 to 17",language_speakother_speakenglishnotatall_5to17,Diversity,Language,B16004_023E
+372,Language Spoken at Home by Ability to Speak English Total 18 to 64,language_total_18to64,Diversity,Language,B16004_024E
+373,Language Spoken at Home Speaks Only English 18 to 64,language_speakonlyenglish_18to64,Diversity,Language,B16004_025E
+374,Language Spoken at Home Speaks Spanish 18 to 64,language_speakspanish_18to64,Diversity,Language,B16004_026E
+375,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 18 to 64",language_speakspanish_speakenglishverywell_18to64,Diversity,Language,B16004_027E
+376,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 18 to 64",language_speakspanish_speakenglishwell_18to64,Diversity,Language,B16004_028E
+377,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 18 to 64",language_speakspanish_speakenglishnotwell_18to64,Diversity,Language,B16004_029E
+378,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 18 to 64",language_speakspanish_speakenglishnotatall_18to64,Diversity,Language,B16004_030E
+379,Language Spoken at Home Speaks Other Indo-European Language 18 to 64,language_speakotherindoeuro_18to64,Diversity,Language,B16004_031E
+380,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 18 to 64",language_speakotherindoeuro_speakenglishverywell_18to64,Diversity,Language,B16004_032E
+381,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 18 to 64",language_speakotherindoeuro_speakenglishwell_18to64,Diversity,Language,B16004_033E
+382,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 18 to 64",language_speakotherindoeuro_speakenglishnotwell_18to64,Diversity,Language,B16004_034E
+383,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 18 to 64",language_speakotherindoeuro_speakenglishnotatall_18to64,Diversity,Language,B16004_035E
+384,Language Spoken at Home Speaks Asian or Pacific Island 18 to 64,language_speakasianpacificisland_18to64,Diversity,Language,B16004_036E
+385,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 18 to 64",language_speakasianpacificisland_speakenglishverywell_18to64,Diversity,Language,B16004_037E
+386,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 18 to 64",language_speakasianpacificisland_speakenglishwell_18to64,Diversity,Language,B16004_038E
+387,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 18 to 64",language_speakasianpacificisland_speakenglishnotwell_18to64,Diversity,Language,B16004_039E
+388,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 18 to 64",language_speakasianpacificisland_speakenglishnotatall_18to64,Diversity,Language,B16004_040E
+389,Language Spoken at Home Speaks Other Language 18 to 64,language_speakother_18to64,Diversity,Language,B16004_041E
+390,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 18 to 64",language_speakother_speakenglishverywell_18to64,Diversity,Language,B16004_042E
+391,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 18 to 64",language_speakother_speakenglishwell_18to64,Diversity,Language,B16004_043E
+392,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 18 to 64",language_speakother_speakenglishnotwell_18to64,Diversity,Language,B16004_044E
+393,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 18 to 64",language_speakother_speakenglishnotatall_18to64,Diversity,Language,B16004_045E
+394,Language Spoken at Home by Ability to Speak English Total 65+,language_total_65+,Diversity,Language,B16004_046E
+395,Language Spoken at Home Speaks Only English 65+,language_speakonlyenglish_65+,Diversity,Language,B16004_047E
+396,Language Spoken at Home Speaks Spanish 65+,language_speakspanish_65+,Diversity,Language,B16004_048E
+397,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 65+",language_speakspanish_speakenglishverywell_65+,Diversity,Language,B16004_049E
+398,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 65+",language_speakspanish_speakenglishwell_65+,Diversity,Language,B16004_050E
+399,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 65+",language_speakspanish_speakenglishnotwell_65+,Diversity,Language,B16004_051E
+400,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 65+",language_speakspanish_speakenglishnotatall_65+,Diversity,Language,B16004_052E
+401,Language Spoken at Home Speaks Other Indo-European Language 65+,language_speakotherindoeuro_65+,Diversity,Language,B16004_053E
+402,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 65+",language_speakotherindoeuro_speakenglishverywell_65+,Diversity,Language,B16004_054E
+403,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 65+",language_speakotherindoeuro_speakenglishwell_65+,Diversity,Language,B16004_055E
+404,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 65+",language_speakotherindoeuro_speakenglishnotwell_65+,Diversity,Language,B16004_056E
+405,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 65+",language_speakotherindoeuro_speakenglishnotatall_65+,Diversity,Language,B16004_057E
+406,Language Spoken at Home Speaks Asian or Pacific Island 65+,language_speakasianpacificisland_65+,Diversity,Language,B16004_058E
+407,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 65+",language_speakasianpacificisland_speakenglishverywell_65+,Diversity,Language,B16004_059E
+408,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 65+",language_speakasianpacificisland_speakenglishwell_65+,Diversity,Language,B16004_060E
+409,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 65+",language_speakasianpacificisland_speakenglishnotwell_65+,Diversity,Language,B16004_061E
+410,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 65+",language_speakasianpacificisland_speakenglishnotatall_65+,Diversity,Language,B16004_062E
+411,Language Spoken at Home Speaks Other Language 65+,language_speakother_65+,Diversity,Language,B16004_063E
+412,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 65+",language_speakother_speakenglishverywell_65+,Diversity,Language,B16004_064E
+413,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 65+",language_speakother_speakenglishwell_65+,Diversity,Language,B16004_065E
+414,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 65+",language_speakother_speakenglishnotwell_65+,Diversity,Language,B16004_066E
+415,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 65+",language_speakother_speakenglishnotatall_65+,Diversity,Language,B16004_067E
+416,Veteran: Veteran Status by Sex by Age for the Civilian Population 18+,veteran_total_series,Population,Veteran Status,B21001_001E
+417,Veteran: Total Veteran,veteran_total_veteran,Population,Veteran Status,B21001_002E
+418,Veteran: Total Nonveteran,veteran_total_nonveteran,Population,Veteran Status,B21001_003E
+419,Veteran: Male,veteran_male,Population,Veteran Status,B21001_004E
+420,Veteran: Male Veteran,veteran_m_veteran,Population,Veteran Status,B21001_005E
+421,Veteran: Male Nonveteran,veteran_m_nonveteran,Population,Veteran Status,B21001_006E
+422,Veteran: Male 18 to 34,veteran_m18to34,Population,Veteran Status,B21001_007E
+423,Veteran: Male 18 to 34 Veteran,veteran_m18to34_veteran,Population,Veteran Status,B21001_008E
+424,Veteran: Male 18 to 34 Nonveteran,veteran_m18to34_nonveteran,Population,Veteran Status,B21001_009E
+425,Veteran: Male 35 to 54,veteran_m35to54,Population,Veteran Status,B21001_010E
+426,Veteran: Male 35 to 54 Veteran,veteran_m35to54_veteran,Population,Veteran Status,B21001_011E
+427,Veteran: Male 35 to 54 Nonveteran,veteran_m35to54_nonveteran,Population,Veteran Status,B21001_012E
+428,Veteran: Male 55 to 64,veteran_m55to64,Population,Veteran Status,B21001_013E
+429,Veteran: Male 55 to 64 Veteran,veteran_m55to64_veteran,Population,Veteran Status,B21001_014E
+430,Veteran: Male 55 to 64 Nonveteran,veteran_m55to64_nonveteran,Population,Veteran Status,B21001_015E
+431,Veteran: Male 65 to 74,veteran_m65to74,Population,Veteran Status,B21001_016E
+432,Veteran: Male 65 to 74 Veteran,veteran_m65to74_veteran,Population,Veteran Status,B21001_017E
+433,Veteran: Male 65 to 74 Nonveteran,veteran_m65to74_nonveteran,Population,Veteran Status,B21001_018E
+434,Veteran: Male 75+ ,veteran_m75+,Population,Veteran Status,B21001_019E
+435,Veteran: Male 75+ Veteran,veteran_m75+_veteran,Population,Veteran Status,B21001_020E
+436,Veteran: Male 75+ Nonveteran,veteran_m75+_nonveteran,Population,Veteran Status,B21001_021E
+437,Veteran: Female,veteran_female,Population,Veteran Status,B21001_022E
+438,Veteran: Female Veteran,veteran_f_veteran,Population,Veteran Status,B21001_023E
+439,Veteran: Female Nonveteran,veteran_f_nonveteran,Population,Veteran Status,B21001_024E
+440,Veteran: Female 18 to 34,veteran_f18to34,Population,Veteran Status,B21001_025E
+441,Veteran: Female 18 to 34 Veteran,veteran_f18to34_veteran,Population,Veteran Status,B21001_026E
+442,Veteran: Female 18 to 34 Nonveteran,veteran_f18to34_nonveteran,Population,Veteran Status,B21001_027E
+443,Veteran: Female 35 to 54,veteran_f35to54,Population,Veteran Status,B21001_028E
+444,Veteran: Female 35 to 54 Veteran,veteran_f35to54_veteran,Population,Veteran Status,B21001_029E
+445,Veteran: Female 35 to 54 Nonveteran,veteran_f35to54_nonveteran,Population,Veteran Status,B21001_030E
+446,Veteran: Female 55 to 64,veteran_f55to64,Population,Veteran Status,B21001_031E
+447,Veteran: Female 55 to 64 Veteran,veteran_f55to64_veteran,Population,Veteran Status,B21001_032E
+448,Veteran: Female 55 to 64 Nonveteran,veteran_f55to64_nonveteran,Population,Veteran Status,B21001_033E
+449,Veteran: Female 65 to 74,veteran_f65to74,Population,Veteran Status,B21001_034E
+450,Veteran: Female 65 to 74 Veteran,veteran_f65to74_veteran,Population,Veteran Status,B21001_035E
+451,Veteran: Female 65 to 74 Nonveteran,veteran_f65to74_nonveteran,Population,Veteran Status,B21001_036E
+452,Veteran: Female 75+ ,veteran_f75+,Population,Veteran Status,B21001_037E
+453,Veteran: Female 75+ Veteran,veteran_f75+_veteran,Population,Veteran Status,B21001_038E
+454,Veteran: Female 75+ Nonveteran,veteran_f75+_nonveteran,Population,Veteran Status,B21001_039E
+455,TravelTimeMode: Means of Transportation to Work by Travel Time to Work Series Total,traveltimemode_series_total,Transportation,Travel Time,C08134_001E
+456,TravelTimeMode: Less than 10 Minutes,traveltimemode_lessthan10,Transportation,Travel Time,C08134_002E
+457,TravelTimeMode: 10 to 14 Minutes,traveltimemode_10to14,Transportation,Travel Time,C08134_003E
+458,TravelTimeMode: 15 to 19 Minutes,traveltimemode_15to19,Transportation,Travel Time,C08134_004E
+459,TravelTimeMode: 20 to 24 Minutes,traveltimemode_20to24,Transportation,Travel Time,C08134_005E
+460,TravelTimeMode: 25 to 29 Minutes,traveltimemode_25to29,Transportation,Travel Time,C08134_006E
+461,TravelTimeMode: 30 to 34 Minutes,traveltimemode_30to34,Transportation,Travel Time,C08134_007E
+462,TravelTimeMode: 35 to 44 Minutes,traveltimemode_35to44,Transportation,Travel Time,C08134_008E
+463,TravelTimeMode: 45 to 59 Minutes,traveltimemode_45to59,Transportation,Travel Time,C08134_009E
+464,TravelTimeMode: 60 or More Minutes,traveltimemode_60ormore,Transportation,Travel Time,C08134_010E
+475,"TravelTimeMode: Car, Truck, or Van (Drove Alone)",traveltimemode_cartruckvan_drovealone,Transportation,Travel Time,C08134_011E
+476,"TravelTimeMode: Car, Truck, or Van (Drove Alone) Less than 10 Minutes",traveltimemode_cartruckvan_drovealone_lessthan10,Transportation,Travel Time,C08134_012E
+477,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 10 to 14 Minutes",traveltimemode_cartruckvan_drovealone_10to14,Transportation,Travel Time,C08134_013E
+478,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 15 to 19 Minutes",traveltimemode_cartruckvan_drovealone_15to19,Transportation,Travel Time,C08134_014E
+479,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 20 to 24 Minutes",traveltimemode_cartruckvan_drovealone_20to24,Transportation,Travel Time,C08134_015E
+480,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 25 to 29 Minutes",traveltimemode_cartruckvan_drovealone_25to29,Transportation,Travel Time,C08134_016E
+481,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 30 to 34 Minutes",traveltimemode_cartruckvan_drovealone_30to34,Transportation,Travel Time,C08134_017E
+482,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 35 to 44 Minutes",traveltimemode_cartruckvan_drovealone_35to44,Transportation,Travel Time,C08134_018E
+483,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 45 to 59 Minutes",traveltimemode_cartruckvan_drovealone_45to59,Transportation,Travel Time,C08134_019E
+484,"TravelTimeMode: Car, Truck, or Van (Drove Alone) 60 or More Minutes",traveltimemode_cartruckvan_drovealone_60ormore,Transportation,Travel Time,C08134_020E
+485,"TravelTimeMode: Car, Truck, or Van (Carpooled)",traveltimemode_cartruckvan_carpooled,Transportation,Travel Time,C08134_021E
+486,"TravelTimeMode: Car, Truck, or Van (Carpooled) Less than 10 Minutes",traveltimemode_cartruckvan_carpooled_lessthan10,Transportation,Travel Time,C08134_022E
+487,"TravelTimeMode: Car, Truck, or Van (Carpooled) 10 to 14 Minutes",traveltimemode_cartruckvan_carpooled_10to14,Transportation,Travel Time,C08134_023E
+488,"TravelTimeMode: Car, Truck, or Van (Carpooled) 15 to 19 Minutes",traveltimemode_cartruckvan_carpooled_15to19,Transportation,Travel Time,C08134_024E
+489,"TravelTimeMode: Car, Truck, or Van (Carpooled) 20 to 24 Minutes",traveltimemode_cartruckvan_carpooled_20to24,Transportation,Travel Time,C08134_025E
+490,"TravelTimeMode: Car, Truck, or Van (Carpooled) 25 to 29 Minutes",traveltimemode_cartruckvan_carpooled_25to29,Transportation,Travel Time,C08134_026E
+491,"TravelTimeMode: Car, Truck, or Van (Carpooled) 30 to 34 Minutes",traveltimemode_cartruckvan_carpooled_30to34,Transportation,Travel Time,C08134_027E
+492,"TravelTimeMode: Car, Truck, or Van (Carpooled) 35 to 44 Minutes",traveltimemode_cartruckvan_carpooled_35to44,Transportation,Travel Time,C08134_028E
+493,"TravelTimeMode: Car, Truck, or Van (Carpooled) 45 to 59 Minutes",traveltimemode_cartruckvan_carpooled_45to59,Transportation,Travel Time,C08134_029E
+494,"TravelTimeMode: Car, Truck, or Van (Carpooled) 60 or More Minutes",traveltimemode_cartruckvan_carpooled_60ormore,Transportation,Travel Time,C08134_030E
+495,TravelTimeMode: Public Transportation Excluding Taxi,traveltimemode_publictransportationexcludingtaxi,Transportation,Travel Time,C08134_031E
+496,TravelTimeMode: Public Transportation Excluding Taxi Less than 10 Minutes,traveltimemode_publictransportationexcludingtaxi_lessthan10,Transportation,Travel Time,C08134_032E
+497,TravelTimeMode: Public Transportation Excluding Taxi 10 to 14 Minutes,traveltimemode_publictransportationexcludingtaxi_10to14,Transportation,Travel Time,C08134_033E
+498,TravelTimeMode: Public Transportation Excluding Taxi 15 to 19 Minutes,traveltimemode_publictransportationexcludingtaxi_15to19,Transportation,Travel Time,C08134_034E
+499,TravelTimeMode: Public Transportation Excluding Taxi 20 to 24 Minutes,traveltimemode_publictransportationexcludingtaxi_20to24,Transportation,Travel Time,C08134_035E
+500,TravelTimeMode: Public Transportation Excluding Taxi 25 to 29 Minutes,traveltimemode_publictransportationexcludingtaxi_25to29,Transportation,Travel Time,C08134_036E
+501,TravelTimeMode: Public Transportation Excluding Taxi 30 to 34 Minutes,traveltimemode_publictransportationexcludingtaxi_30to34,Transportation,Travel Time,C08134_037E
+502,TravelTimeMode: Public Transportation Excluding Taxi 35 to 44 Minutes,traveltimemode_publictransportationexcludingtaxi_35to44,Transportation,Travel Time,C08134_038E
+503,TravelTimeMode: Public Transportation Excluding Taxi 45 to 59 Minutes,traveltimemode_publictransportationexcludingtaxi_45to59,Transportation,Travel Time,C08134_039E
+504,TravelTimeMode: Public Transportation Excluding Taxi 60 or More Minutes,traveltimemode_publictransportationexcludingtaxi_60ormore,Transportation,Travel Time,C08134_040E
+515,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked or Other",traveltimemode_taximotorcyclebicyclewalkedother,Transportation,Travel Time,C08134_041E
+516,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked, or Other Less than 10 Minutes",traveltimemode_taximotorcyclebicyclewalkedother_lessthan10,Transportation,Travel Time,C08134_042E
+517,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked or Other 10 to 14 Minutes",traveltimemode_taximotorcyclebicyclewalkedorother_10to14,Transportation,Travel Time,C08134_043E
+518,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked or Other 15 to 19 Minutes",traveltimemode_taximotorcyclebicyclewalkedorother_15to19,Transportation,Travel Time,C08134_044E
+519,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked or Other 20 to 24 Minutes",traveltimemode_taximotorcyclebicyclewalkedorother_20to24,Transportation,Travel Time,C08134_045E
+520,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked or Other 25 to 29 Minutes",traveltimemode_taximotorcyclebicyclewalkedorother_25to29,Transportation,Travel Time,C08134_046E
+521,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked or Other 30 to 34 Minutes",traveltimemode_taximotorcyclebicyclewalkedorother_30to34,Transportation,Travel Time,C08134_047E
+522,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked or Other 35 to 44 Minutes",traveltimemode_taximotorcyclebicyclewalkedorother_35to44,Transportation,Travel Time,C08134_048E
+523,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked or Other 45 to 59 Minutes",traveltimemode_taximotorcyclebicyclewalkedorother_45to59,Transportation,Travel Time,C08134_049E
+524,"TravelTimeMode: Taxi, Motorcycle, Bicycle, Walked or Other 60 or More Minutes",traveltimemode_taximotorcyclebicyclewalkedorother_60ormore,Transportation,Travel Time,C08134_050E
+525,ForeignBorn: Total Series,fb_total_series,Population,Foreign Born,B08511_001E
+526,ForeignBorn: Total Native Born,fb_nativeborn,Population,Foreign Born,B08511_002E
+527,ForeignBorn:Total Foreign Born,fb_foreignborn,Population,Foreign Born,B08511_003E
+528,"ForeignBorn:Foreign Born, Naturalized US Citizen",fb_foreignborn_naturalizeduscitizen,Population,Foreign Born,B08511_004E
+529,"ForeignBorn:Foreign Born, Not a US Citizen",fb_foreignborn_notauscitizen,Population,Foreign Born,B08511_005E
+530,Total Educational Attainment by Sex for the Population 25+ Series,attainment_totalbysex_over25_series,Population,Educational Attainment,B15002_001E
+531,Ed:Male,attainment_m,Population,Educational Attainment,B15002_002E
+532,Ed:Male No Schooling,attainment_m_noschooling,Population,Educational Attainment,B15002_003E
+533,Ed:Male Nursery School to 4th Grade,attainment_m_nurseryschoolto4thgrade,Population,Educational Attainment,B15002_004E
+534,Ed:Male 5th to 6th Grade,attainment_m_5thto6thgrade,Population,Educational Attainment,B15002_005E
+535,Ed:Male 7th to 8th Grade,attainment_m_7thto8thgrade,Population,Educational Attainment,B15002_006E
+536,Ed:Male 9th Grade,attainment_m_9thgrade,Population,Educational Attainment,B15002_007E
+537,Ed:Male 10th Grade,attainment_m_10thgrade,Population,Educational Attainment,B15002_008E
+538,Ed:Male 11th Grade,attainment_m_11thgrade,Population,Educational Attainment,B15002_009E
+539,Ed:Male 12th Grade No Diploma,attainment_m_12thgradenodiploma,Population,Educational Attainment,B15002_010E
+540,Ed:Male High School Diploma or Equivalent,attainment_m_highschooldiplomaorequivalent,Population,Educational Attainment,B15002_011E
+541,Ed:Male Some College Less than 1 Year,attainment_m_somecollegelessthan1year,Population,Educational Attainment,B15002_012E
+542,Ed:Male Some College 1 or More Years No Degree,attainment_m_somecollege1ormoreyearsnodegree,Population,Educational Attainment,B15002_013E
+543,Ed:Male Associate's Degree,attainment_m_associatesdegree,Population,Educational Attainment,B15002_014E
+544,Ed:Male Bachelor's Degree,attainment_m_bachelorsdegree,Population,Educational Attainment,B15002_015E
+545,Ed:Male Master's Degree,attainment_m_mastersdegree,Population,Educational Attainment,B15002_016E
+546,Ed:Male Professional School Degree,attainment_m_professionalschooldegree,Population,Educational Attainment,B15002_017E
+547,Ed:Male Doctorate Degree,attainment_m_doctoratedegree,Population,Educational Attainment,B15002_018E
+548,Ed:Female,attainment_f,Population,Educational Attainment,B15002_019E
+549,Ed:Female No Schooling,attainment_f_noschooling,Population,Educational Attainment,B15002_020E
+550,Ed:Female Nursery School to 4th Grade,attainment_f_nurseryschoolto4thgrade,Population,Educational Attainment,B15002_021E
+551,Ed:Female 5th to 6th Grade,attainment_f_5thto6thgrade,Population,Educational Attainment,B15002_022E
+552,Ed:Female 7th to 8th Grade,attainment_f_7thto8thgrade,Population,Educational Attainment,B15002_023E
+553,Ed:Female 9th Grade,attainment_f_9thgrade,Population,Educational Attainment,B15002_024E
+554,Ed:Female 10th Grade,attainment_f_10thgrade,Population,Educational Attainment,B15002_025E
+555,Ed:Female 11th Grade,attainment_f_11thgrade,Population,Educational Attainment,B15002_026E
+556,Ed:Female 12th Grade No Diploma,attainment_f_12thgradenodiploma,Population,Educational Attainment,B15002_027E
+557,Ed:Female High School Diploma or Equivalent,attainment_f_highschooldiplomaorequivalent,Population,Educational Attainment,B15002_028E
+558,Ed:Female Some College Less than 1 Year,attainment_f_somecollegelessthan1year,Population,Educational Attainment,B15002_029E
+559,Ed:Female Some College 1 or More Years No Degree,attainment_f_somecollege1ormoreyearsnodegree,Population,Educational Attainment,B15002_030E
+560,Ed:Female Associate's Degree,attainment_f_associatesdegree,Population,Educational Attainment,B15002_031E
+561,Ed:Female Bachelor's Degree,attainment_f_bachelorsdegree,Population,Educational Attainment,B15002_032E
+562,Ed:Female Master's Degree,attainment_f_mastersdegree,Population,Educational Attainment,B15002_033E
+563,Ed:Female Professional School Degree,attainment_f_professionalschooldegree,Population,Educational Attainment,B15002_034E
+564,Ed:Female Doctorate Degree,attainment_f_doctoratedegree,Population,Educational Attainment,B15002_035E

@@ -1188,8 +1188,8 @@
 1187,TravelTimeMode: Walked 35 to 44 Minutes,traveltimemode_walked_35to44,Transportation,Travel Time,B08134_108E
 1188,TravelTimeMode: Walked 45 to 59 Minutes,traveltimemode_walked_45to59,Transportation,Travel Time,B08134_109E
 1189,TravelTimeMode: Walked 60 or More Minutes,traveltimemode_walked_60ormore,Transportation,Travel Time,B08134_110E
-1190,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other",traveltimemode_taximotorcyclebicycleother,Transportation,Travel Time,B08134_111E
-1191,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other Less than 10 Minutes",traveltimemode_taximotorcyclebicycleother_lessthan10,Transportation,Travel Time,B08134_112E
+1190,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other",traveltimemode_taximotorcyclebicycleorother,Transportation,Travel Time,B08134_111E
+1191,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other Less than 10 Minutes",traveltimemode_taximotorcyclebicycleorother_lessthan10,Transportation,Travel Time,B08134_112E
 1192,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 10 to 14 Minutes",traveltimemode_taximotorcyclebicycleorother_10to14,Transportation,Travel Time,B08134_113E
 1193,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 15 to 19 Minutes",traveltimemode_taximotorcyclebicycleorother_15to19,Transportation,Travel Time,B08134_114E
 1194,"TravelTimeMode: Taxi, Motorcycle, Bicycle, or Other 20 to 24 Minutes",traveltimemode_taximotorcyclebicycleorother_20to24,Transportation,Travel Time,B08134_115E
