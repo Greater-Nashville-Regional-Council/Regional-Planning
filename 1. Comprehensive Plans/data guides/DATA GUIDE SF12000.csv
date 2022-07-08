@@ -1,0 +1,89 @@
+﻿ID,,Column Name,Category,Sub Category,SF1 Variable
+1,,pop,Population,Population,P001001
+2,,agebysex_total_series,Population,Sex by Age,P012001
+3,,age_total_male,Population,Sex by Age,P012002
+4,,age_m_u5,Population,Sex by Age,P012003
+5,,age_m_5to9,Population,Sex by Age,P012004
+6,,age_m_10to14,Population,Sex by Age,P012005
+7,,age_m_15to17,Population,Sex by Age,P012006
+8,,age_m_18to19,Population,Sex by Age,P012007
+9,,age_m_20,Population,Sex by Age,P012008
+10,,age_m_21,Population,Sex by Age,P012009
+11,,age_m_22to24,Population,Sex by Age,P012010
+12,,age_m_25to29,Population,Sex by Age,P012011
+13,,age_m_30to34,Population,Sex by Age,P012012
+14,,age_m_35to39,Population,Sex by Age,P012013
+15,,age_m_40to44,Population,Sex by Age,P012014
+16,,age_m_45to49,Population,Sex by Age,P012015
+17,,age_m_50to54,Population,Sex by Age,P012016
+18,,age_m_55to59,Population,Sex by Age,P012017
+19,,age_m_60to61,Population,Sex by Age,P012018
+20,,age_m_62to64,Population,Sex by Age,P012019
+21,,age_m_65to66,Population,Sex by Age,P012020
+22,,age_m_67to69,Population,Sex by Age,P012021
+23,,age_m_70to74,Population,Sex by Age,P012022
+24,,age_m_75to79,Population,Sex by Age,P012023
+25,,age_m_80to84,Population,Sex by Age,P012024
+26,,age_m_85+,Population,Sex by Age,P012025
+27,,age_total_female,Population,Sex by Age,P012026
+28,,age_f_u5,Population,Sex by Age,P012027
+29,,age_f_5to9,Population,Sex by Age,P012028
+30,,age_f_10to14,Population,Sex by Age,P012029
+31,,age_f_15to17,Population,Sex by Age,P012030
+32,,age_f_18to19,Population,Sex by Age,P012031
+33,,age_f_20,Population,Sex by Age,P012032
+34,,age_f_21,Population,Sex by Age,P012033
+35,,age_f_22to24,Population,Sex by Age,P012034
+36,,age_f_25to29,Population,Sex by Age,P012035
+37,,age_f_30to34,Population,Sex by Age,P012036
+38,,age_f_35to39,Population,Sex by Age,P012037
+39,,age_f_40to44,Population,Sex by Age,P012038
+40,,age_f_45to49,Population,Sex by Age,P012039
+41,,age_f_50to54,Population,Sex by Age,P012040
+42,,age_f_55to59,Population,Sex by Age,P012041
+43,,age_f_60to61,Population,Sex by Age,P012042
+44,,age_f_62to64,Population,Sex by Age,P012043
+45,,age_f_65to66,Population,Sex by Age,P012044
+46,,age_f_67to69,Population,Sex by Age,P012045
+47,,age_f_70to74,Population,Sex by Age,P012046
+48,,age_f_75to79,Population,Sex by Age,P012047
+49,,age_f_80to84,Population,Sex by Age,P012048
+50,,age_f_85+,Population,Sex by Age,P012049
+51,,raceeth_total_series,Population,Race and Ethnicity,P003001
+52,,raceeth_total_oneracealone,Population,Race and Ethnicity,P003002
+53,,raceeth_white_alone,Population,Race and Ethnicity,P003003
+54,,raceeth_blackafricanamerican_alone,Population,Race and Ethnicity,P003004
+55,,raceeth_americanindianalaskanative_alone,Population,Race and Ethnicity,P003005
+56,,raceeth_asian_alone,Population,Race and Ethnicity,P003006
+57,,raceeth_nativehawaiianotherpacificislander_alone,Population,Race and Ethnicity,P003007
+58,,raceeth_someotherrace_alone,Population,Race and Ethnicity,P003008
+59,,raceeth_twoormoreraces_alone,Population,Race and Ethnicity,P003009
+60,,raceeth_whitealone_nothispanicorlatino,Population,Race and Ethnicity,P004005
+61,,raceeth_hispanicorlatino,Population,Race and Ethnicity,P004002
+62,,hhsize_avg,Population,Household,P017001
+63,,units_allhousing,Housing,Housing,H001001
+64,,occupancy_total_series,Housing,Occupancy,H003001
+65,,occupancy_occupiedunits,Housing,Occupancy,H003002
+66,,occupancy_vacantunits,Housing,Occupancy,H003003
+67,,tenure_total_series,Housing,Tenure,H004001
+68,,tenure_owneroccunits,Housing,Tenure,H004002
+69,,tenure_renteroccunits,Housing,Tenure,H004003
+70,,hhtype_total_series,Housing,Household Type,P018001
+71,,hhtype_oneperson,Housing,Household Type,P018002
+72,,hhtype_oneperson_male,Housing,Household Type,P018003
+73,,hhtype_oneperson_female,Housing,Household Type,P018004
+74,,hhtype_twoormore,Housing,Household Type,P018005
+75,,hhtype_twoormore_family,Housing,Household Type,P018006
+76,,hhtype_twoormore_family_marriedcouplefam,Housing,Household Type,P018007
+77,,hhtype_twoormore_family_marriedcouplefam_ownchildrenunder18,Housing,Household Type,P018008
+78,,hhtype_twoormore_family_marriedcouplefam_noownchildrenunder18,Housing,Household Type,P018009
+79,,hhtype_twoormore_family_otherfam,Housing,Household Type,P018010
+80,,hhtype_twoormore_family_otherfam_malenospouse,Housing,Household Type,P018011
+81,,hhtype_twoormore_family_otherfam_malenospouse_ownchildrenunder18,Housing,Household Type,P018012
+82,,hhtype_twoormore_family_otherfam_malenospouse_noownchildrenunder18,Housing,Household Type,P018013
+83,,hhtype_twoormore_family_otherfam_femalenospouse,Housing,Household Type,P018014
+84,,hhtype_twoormore_family_otherfam_femalenospouse_ownchildrenunder18,Housing,Household Type,P018015
+85,,hhtype_twoormore_family_otherfam_femalenospouse_noownchildrenunder18,Housing,Household Type,P018016
+86,,hhtype_twoormore_nonfamily,Housing,Household Type,P018017
+87,,hhtype_twoormore_nonfamily_male,Housing,Household Type,P018018
+88,,hhtype_twoormore_nonfamily_female,Housing,Household Type,P018019
