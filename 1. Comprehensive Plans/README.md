@@ -9,12 +9,11 @@
 
 This is a template for recreating the data pull and calculations used for Comprehensive Plans.  
 
-## Data Prep  
+## Data Sourcing    
 
 Data is sourced to represent three different time frames. 2000, 2010 or 2006-2010, and 2016-2020 or 2020. The data from 2000 is made up from two sources: the SF1 product, standard population and housing numbers usually provided by the Decennial Census efforts; and the SF3 product, a very robust database relative to other Decennial products. The 2010 data is taken from either the 2010 SF1 product, again providing standard population and housing numbers, as well as from the 2006 - 2010 American Community Survey 5-Year Estimates. While these are both "2010 data", there is a caveat not to consider them equally as the SF1 presents data *on* 2010 and the ACS presents a smoothed average representing the time period between 2006 and 2010. Finally, 2020 data is taken from either then 2020 redistricting Decennial Census data, giving less population and housing numbers than the SF1 table, or the 2016-2020 ACS 5-Year Estimates. Data sourcing decisions are made based on prioritizing true counts from Decennial Census products and availability, keeping in mind the difference between a 1-year point in time count and a smoothed average.
 
 ### 2000  
-
 
 From the *2000 Decennial SF1*  
 + Variable P001001: Total Population  
@@ -64,7 +63,8 @@ From the *2010 Decennial SF1*
 + H4: Tenure **Note some change in variables between 2000 and 2010**  
 + P18: Household Type **Note some change in variables between 2000 and 2010**  
 
-From the *2010 American Community Survey 5-Year Estimates*  
+From the *2010 American Community Survey 5-Year Estimates*
+**
 +
 
 From the *American Community Survey 5-Year Estimates*  
