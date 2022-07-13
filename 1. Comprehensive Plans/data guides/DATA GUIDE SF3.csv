@@ -32,555 +32,544 @@
 31,Gross Rent 50 Percent or More of Household Income,housingcost_%rentercost50+,Housing,Cost Burden,H069010
 32,Median Value for Owner Occupied Units,housingcost_medvalue_ownerocc,Housing,Home Value,H076001
 33,Median Gross Rent Renter Occupied,housingcost_mediangrossrent_renteroccupied,Housing,Home Value,H063001
-34,Total Year Structure Built Series,structures_total_yearbuilt_series,Housing,Year Structure Built,H034001
-35,Structures Built 1999 to 2000,structures_built1999to2000,Housing,Year Structure Built,H034002
-36,Structures Built 1995 to 1998,structures_built1995to1998,Housing,Year Structure Built,H034003
-37,Structures Built 1990 to 1994,structures_built1990to1994,Housing,Year Structure Built,H034004
-38,Structures Built 1980 to 1989,structures_built1980to1989,Housing,Year Structure Built,H034005
-39,Structures Built 1970 to 1979,structures_built1970to1979,Housing,Year Structure Built,H034006
-40,Structures Built 1960 to 1969,structures_built1960to1969,Housing,Year Structure Built,H034007
-41,Structures Built 1950 to 1959,structures_built1950to1959,Housing,Year Structure Built,H034008
-42,Structures Built 1940 to 1949,structures_built1940to1949,Housing,Year Structure Built,H034009
-43,Structures Built 1939 or Earlier,structures_built1939orearlier,Housing,Year Structure Built,H034010
-44,Hold,structures_medianyearbuilt,Housing,Year Structure Built,H035001
-45,Total Means of Transportation to Work Series,commute_total_meansoftransportationtowork_series,Transportation,Commute,P030001
-46,Car Truck or Van Commute,commute_cartruckvan,Transportation,Commute,P030002
-47,Car Truck or Van Drove Alone Commute,commute_cartruckvan_drovealone,Transportation,Commute,P030003
-48,Car Truck or Van Carpooled Commute,commute_cartruckvan_carpooled,Transportation,Commute,P030004
-49,Public Transportation Excluding Taxicab Commute,commute_publictransportation,Transportation,Commute,P030005
-50,Public Transportation Bus Commute,commute_publictransportation_bus,Transportation,Commute,P030006
-51,Public Transportation Subway or Elevated Rail Commute,commute_publictransportation_subwayorelevatedrail,Transportation,Commute,P030008
-52,Public Transportation Long Distance Train or Commuter Rail Commute,commute_publictransportation_longdistancetrainorcommuterrail,Transportation,Commute,P030009
-53,Public Transportation Light Rail Streetcar or Trolley Commute,commute_publictransportation_lightrailstreetcarortrolley,Transportation,Commute,P030007
-54,Public Transportation Ferryboat Commute,commute_publictransportation_ferryboat,Transportation,Commute,P030010
-55,Bicycle Commute,commute_bicycle,Transportation,Commute,P030013
-56,Walked Commute,commute_walk,Transportation,Commute,P030014
-57,Taxi Cab Commute,commute_taxicab,Transportation,Commute,P030011
-58,Motorcycle Commute,commute_motorcycle,Transportation,Commute,P030012
-59,Commute by Other Means,commute_othermeans,Transportation,Commute,P030015
-60,Commute Worked from Home,commute_workedfromhome,Transportation,Commute,P030016
-61,Vehicles per Household by Tenure Total Series,vehicles_tenurebyvehicles_total_series,Transportation,Vehicles,H044001
-62,Vehicles per Household Owner Occupied No Vehicles,vehicles_ownerocc_novehicle,Transportation,Vehicles,H044003
-63,Vehicles per Household Owner Occupied 1 Vehicle,vehicles_ownerocc_1vehicle,Transportation,Vehicles,H044004
-64,Vehicles per Household Owner Occupied 2 Vehicles,vehicles_ownerocc_2vehicles,Transportation,Vehicles,H044005
-65,Vehicles per Household Owner Occupied 3 Vehicles,vehicles_ownerocc_3vehicles,Transportation,Vehicles,H044006
-66,Vehicles per Household Owner Occupied 4 Vehicles,vehicles_ownerocc_4vehicles,Transportation,Vehicles,H044007
-67,Vehicles per Household Owner Occupied 5 Vehicles,vehicles_ownerocc_5+vehicles,Transportation,Vehicles,H044008
-68,Vehicles per Household Renter Occupied No Vehicles,vehicles_renterocc_novehicle,Transportation,Vehicles,H044010
-69,Vehicles per Household Renter Occupied 1 Vehicle,vehicles_renterocc_1vehicle,Transportation,Vehicles,H044011
-70,Vehicles per Household Renter Occupied 2 Vehicles,vehicles_renterocc_2vehicles,Transportation,Vehicles,H044012
-71,Vehicles per Household Renter Occupied 3 Vehicles,vehicles_renterocc_3vehicles,Transportation,Vehicles,H044013
-72,Vehicles per Household Renter Occupied 4 Vehicles,vehicles_renterocc_4vehicles,Transportation,Vehicles,H044014
-73,Vehicles per Household Renter Occupied 5 Vehicles,vehicles_renterocc_5+vehicles,Transportation,Vehicles,H044015
-74,Total Foreign Born Place of Birth Series,foreignborn_total,Population,Diversity,PCT019001
-75,Europe,fb_europe,Population,Diversity,PCT019002
-76,"Europe, Northern Europe",fb_eur_northern,Population,Diversity,PCT019003
-77,"Europe, Northern Europe, Ireland",fb_eur_n_ireland,Population,Diversity,PCT019005
-78,"Europe, Northern Europe, UK",fb_eur_n_uk,Population,Diversity,PCT019004
-79,"Europe, Northern Europe, Other",fb_eur_n_other,Population,Diversity,PCT019007
-80,"Europe, Western Europe ",fb_eur_western,Population,Diversity,PCT019008
-81,"Europe, Western Europe, Austria",fb_eur_w_austria,Population,Diversity,PCT019009
-82,"Europe, Western Europe, France",fb_eur_w_france,Population,Diversity,PCT019010
-83,"Europe, Western Europe, Germany",fb_eur_w_germany,Population,Diversity,PCT019011
-84,"Europe, Western Europe, Netherlands",fb_eur_w_netherlands,Population,Diversity,PCT019012
-85,"Europe, Western Europe, Other",fb_eur_w_other,Population,Diversity,PCT019013
-86,"Europe, Southern Europe",fb_eur_southern,Population,Diversity,PCT019014
-87,"Europe, Southern Europe, Greece",fb_eur_s_greece,Population,Diversity,PCT019015
-88,"Europe, Southern Europe, Italy",fb_eur_s_italy,Population,Diversity,PCT019016
-89,"Europe, Southern Europe, Portugal",fb_eur_s_portugal,Population,Diversity,PCT019017
-90,"Europe, Southern Europe, Spain",fb_eur_s_spain,Population,Diversity,PCT019018
-91,"Europe, Southern Europe, Other",fb_eur_s_other,Population,Diversity,PCT019019
-92,"Europe, Eastern Europe",fb_eur_eastern,Population,Diversity,PCT019020
-93,"Europe, Eastern Europe, Belarus",fb_eur_e_belarus,Population,Diversity,PCT019025
-94,"Europe, Eastern Europe, Bosnia and Herzegovina",fb_eur_e_bosniaandherzegovina,Population,Diversity,PCT019028
-95,"Europe, Eastern Europe, Czechoslovakia (Czech Republic and Slovakia)",fb_eur_e_czechoslovakia,Population,Diversity,PCT019021
-96,"Europe, Eastern Europe, Hungary",fb_eur_e_hungary,Population,Diversity,PCT019022
-97,"Europe, Eastern Europe, Poland",fb_eur_e_poland,Population,Diversity,PCT019023
-98,"Europe, Eastern Europe, Romania",fb_eur_e_romania,Population,Diversity,PCT019024
-99,"Europe, Eastern Europe, Russia",fb_eur_e_russia,Population,Diversity,PCT019026
-100,"Europe, Eastern Europe, Ukraine",fb_eur_e_ukraine,Population,Diversity,PCT019027
-101,"Europe, Eastern Europe, Other",fb_eur_e_other,Population,Diversity,PCT019030
-102,"Europe, n.e.c.",fb_eur_nec,Population,Diversity,PCT019031
-103,Asia,fb_asia,Population,Diversity,PCT019032
-104,"Asia, Eastern Asia",fb_as_eastern,Population,Diversity,PCT019033
-105,"Asia, Eastern Asia,China",fb_as_e_china,Population,Diversity,PCT019034
-106,"Asia, Eastern Asia,China Excluding Hong Kong and Taiwan",fb_as_e_chinanohongkongortaiwan,Population,Diversity,PCT019035
-107,"Asia, Eastern Asia,Hong Kong",fb_as_e_hongkong,Population,Diversity,PCT019036
-108,"Asia, Eastern Asia,Taiwan",fb_as_e_taiwan,Population,Diversity,PCT019037
-109,"Asia, Eastern Asia,Japan",fb_as_e_japan,Population,Diversity,PCT019038
-110,"Asia, Eastern Asia,Korea",fb_as_e_korea,Population,Diversity,PCT019039
-111,"Asia, Eastern Asia,Other",fb_as_e_other,Population,Diversity,PCT019040
-112,"Asia, South Central Asia",fb_as_southcentral,Population,Diversity,PCT019041
-113,"Asia, South Central Asia,Afghanistan",fb_as_sc_afghanistan,Population,Diversity,PCT019042
-114,"Asia, South Central Asia,Bangladesh",fb_as_sc_bangladesh,Population,Diversity,PCT019043
-115,"Asia, South Central Asia,India",fb_as_sc_india,Population,Diversity,PCT019044
-116,"Asia, South Central Asia,Iran",fb_as_sc_iran,Population,Diversity,PCT019045
-117,"Asia, South Central Asia,Pakistan",fb_as_sc_pakistan,Population,Diversity,PCT019046
-118,"Asia, South Central Asia,Other",fb_as_sc_other,Population,Diversity,PCT019047
-119,"Asia, South Eastern Asia",fb_as_southeastern,Population,Diversity,PCT019048
-120,"Asia, South Eastern Asia,Cambodia",fb_as_se_cambodia,Population,Diversity,PCT019049
-121,"Asia, South Eastern Asia,Indonesia",fb_as_se_indonesia,Population,Diversity,PCT019050
-122,"Asia, South Eastern Asia,Laos",fb_as_se_laos,Population,Diversity,PCT019051
-123,"Asia, South Eastern Asia,Malaysia",fb_as_se_malaysia,Population,Diversity,PCT019052
-124,"Asia, South Eastern Asia,Philippines",fb_as_se_philippines,Population,Diversity,PCT019053
-125,"Asia, South Eastern Asia,Thailand",fb_as_se_thailand,Population,Diversity,PCT019054
-126,"Asia, South Eastern Asia,Vietnam",fb_as_se_vietnam,Population,Diversity,PCT019055
-127,"Asia, South Eastern Asia,Other",fb_as_se_other,Population,Diversity,PCT019056
-128,"Asia, Western Asia",fb_as_western,Population,Diversity,PCT019057
-129,"Asia, Western Asia,Armenia",fb_as_w_armenia,Population,Diversity,PCT019064
-130,"Asia, Western Asia,Iraq",fb_as_w_iraq,Population,Diversity,PCT019058
-131,"Asia, Western Asia,Israel",fb_as_w_israel,Population,Diversity,PCT019059
-132,"Asia, Western Asia,Jordan",fb_as_w_jordan,Population,Diversity,PCT019060
-133,"Asia, Western Asia,Lebanon",fb_as_w_lebanon,Population,Diversity,PCT019061
-134,"Asia, Western Asia,Syria",fb_as_w_syria,Population,Diversity,PCT019062
-135,"Asia, Western Asia,Turkey",fb_as_w_turkey,Population,Diversity,PCT019063
-136,"Asia, Western Asia,Other",fb_as_w_other,Population,Diversity,PCT019065
-137,"Asia, n.e.c.",fb_as_nec,Population,Diversity,PCT019066
-138,Africa,fb_africa,Population,Diversity,PCT019067
-139,"Africa, Eastern Africa",fb_af_eastern,Population,Diversity,PCT019068
-140,"Africa, Eastern Africa,Ethiopia",fb_af_e_ethiopia,Population,Diversity,PCT019069
-141,"Africa, Eastern Africa,Other",fb_af_e_other,Population,Diversity,PCT019070
-142,"Africa, Middle Africa",fb_af_middle,Population,Diversity,PCT019071
-143,"Africa, Northern Africa",fb_af_northern,Population,Diversity,PCT019072
-144,"Africa, Northern Africa,Egypt",fb_af_n_egypt,Population,Diversity,PCT019073
-145,"Africa, Northern Africa,Other",fb_af_n_other,Population,Diversity,PCT019074
-146,"Africa, Southern Africa",fb_af_southern,Population,Diversity,PCT019075
-147,"Africa, Southern Africa, South Africa",fb_af_s_southafrica,Population,Diversity,PCT019076
-148,"Africa, Southern Africa, Other",fb_af_s_other,Population,Diversity,PCT019077
-149,"Africa, Western Africa",fb_af_western,Population,Diversity,PCT019078
-150,"Africa, Western Africa,Ghana",fb_af_w_ghana,Population,Diversity,PCT019079
-151,"Africa, Western Africa,Nigeria",fb_af_w_nigeria,Population,Diversity,PCT019080
-152,"Africa, Western Africa,Sierra Leone",fb_af_w_sierraleone,Population,Diversity,PCT019081
-153,"Africa, Western Africa,Other",fb_af_w_other,Population,Diversity,PCT019082
-154,"Africa, n.e.c.",fb_af_nec,Population,Diversity,PCT019083
-155,Oceania,fb_oceania,Population,Diversity,PCT019084
-156,"Oceania, Australia and New Zealand Subregion",fb_oc_australianewzealandsubregion,Population,Diversity,PCT019085
-157,"Oceania, Australia and New Zealand Subregion, Australia",fb_oc_australianewzealandsubregion_australia,Population,Diversity,PCT019086
-158,"Oceania, Australia and New Zealand Subregion, Other",fb_oc_australianewzealandsubregion_other,Population,Diversity,PCT019087
-159,"Oceania, Micronesia",fb_oc_micronesia,Population,Diversity,PCT019089
-160,"Oceania, n.e.c.",fb_oc_nec,Population,Diversity,PCT019091
-161,Americas,fb_americas,Population,Diversity,PCT019092
-162,"Americas, Latin America",fb_am_latinamerica,Population,Diversity,PCT019093
-163,"Americas, Latin America, Caribbean",fb_am_la_caribbean,Population,Diversity,PCT019094
-164,"Americas, Latin America, Caribbean, Barbados",fb_am_la_cbb_barbados,Population,Diversity,PCT019095
-165,"Americas, Latin America, Caribbean, Cuba",fb_am_la_cbb_cuba,Population,Diversity,PCT019096
-166,"Americas, Latin America, Caribbean, Dominican Republic",fb_am_la_cbb_dominicanrepublic,Population,Diversity,PCT019097
-167,"Americas, Latin America, Caribbean, Haiti",fb_am_la_cbb_haiti,Population,Diversity,PCT019098
-168,"Americas, Latin America, Caribbean, Jamaica",fb_am_la_cbb_jamaica,Population,Diversity,PCT019099
-169,"Americas, Latin America, Caribbean, Trinidad and Tobago",fb_am_la_cbb_trinidadandtobago,Population,Diversity,PCT019100
-170,"Americas, Latin America, Caribbean, Other",fb_am_la_cbb_other,Population,Diversity,PCT019101
-171,"Americas, Latin America, Central America",fb_am_la_centralamerica,Population,Diversity,PCT019102
-172,"Americas, Latin America, Central America,Costa Rica",fb_am_la_centr_costarica,Population,Diversity,PCT019105
-173,"Americas, Latin America, Central America,El Salvador",fb_am_la_centr_elsalvador,Population,Diversity,PCT019106
-174,"Americas, Latin America, Central America,Guatemala",fb_am_la_centr_guatemala,Population,Diversity,PCT019107
-175,"Americas, Latin America, Central America,Honduras",fb_am_la_centr_honduras,Population,Diversity,PCT019108
-176,"Americas, Latin America, Central America,Mexico",fb_am_la_centr_mexico,Population,Diversity,PCT019103
-177,"Americas, Latin America, Central America,Nicaragua",fb_am_la_centr_nicaragua,Population,Diversity,PCT019109
-178,"Americas, Latin America, Central America,Panama",fb_am_la_centr_panama,Population,Diversity,PCT019110
-179,"Americas, Latin America, Central America,Other",fb_am_la_centr_other,Population,Diversity,PCT019111
-180,"Americas, Latin America, South America",fb_am_la_southamerica,Population,Diversity,PCT019112
-181,"Americas, Latin America, South America, Argentina",fb_am_la_s_argentina,Population,Diversity,PCT019113
-182,"Americas, Latin America, South America,Bolivia",fb_am_la_s_bolivia,Population,Diversity,PCT019114
-183,"Americas, Latin America, South America,Brazil",fb_am_la_s_brazil,Population,Diversity,PCT019115
-184,"Americas, Latin America, South America,Chile",fb_am_la_s_chile,Population,Diversity,PCT019116
-185,"Americas, Latin America, South America,Columbia",fb_am_la_s_columbia,Population,Diversity,PCT019117
-186,"Americas, Latin America, South America,Ecuador",fb_am_la_s_ecuador,Population,Diversity,PCT019118
-187,"Americas, Latin America, South America,Guyana",fb_am_la_s_guyana,Population,Diversity,PCT019119
-188,"Americas, Latin America, South America,Peru",fb_am_la_s_peru,Population,Diversity,PCT019120
-189,"Americas, Latin America, South America,Venezuela",fb_am_la_s_venezuela,Population,Diversity,PCT019121
-190,"Americas, Latin America, South America,Other",fb_am_la_s_other,Population,Diversity,PCT019122
-191,"Americas, Northern America",fb_am_northern,Population,Diversity,PCT019123
-192,"Americas, Northern America, Canada",fb_am_n_canada,Population,Diversity,PCT019124
-193,"Americas, Northern America, Other",fb_am_n_other,Population,Diversity,PCT019125
-194,Total Educational Attainment by Sex for the Population 25+ Series,attainment_totalbysex_over25_series,Population,Educational Attainment,P037001
-195,Ed:Male,attainment_m,Population,Educational Attainment,P037002
-196,Ed:Male No Schooling,attainment_m_noschooling,Population,Educational Attainment,P037003
-197,Ed:Male Nursery School to 4th Grade,attainment_m_nurseryschoolto4thgrade,Population,Educational Attainment,P037004
-198,Ed:Male 5th to 6th Grade,attainment_m_5thto6thgrade,Population,Educational Attainment,P037005
-199,Ed:Male 7th to 8th Grade,attainment_m_7thto8thgrade,Population,Educational Attainment,P037006
-200,Ed:Male 9th Grade,attainment_m_9thgrade,Population,Educational Attainment,P037007
-201,Ed:Male 10th Grade,attainment_m_10thgrade,Population,Educational Attainment,P037008
-202,Ed:Male 11th Grade,attainment_m_11thgrade,Population,Educational Attainment,P037009
-203,Ed:Male 12th Grade No Diploma,attainment_m_12thgradenodiploma,Population,Educational Attainment,P037010
-204,Ed:Male High School Diploma or Equivalent,attainment_m_highschooldiplomaorequivalent,Population,Educational Attainment,P037011
-205,Ed:Male Some College Less than 1 Year,attainment_m_somecollegelessthan1year,Population,Educational Attainment,P037012
-206,Ed:Male Some College 1 or More Years No Degree,attainment_m_somecollege1ormoreyearsnodegree,Population,Educational Attainment,P037013
-207,Ed:Male Associate's Degree,attainment_m_associatesdegree,Population,Educational Attainment,P037014
-208,Ed:Male Bachelor's Degree,attainment_m_bachelorsdegree,Population,Educational Attainment,P037015
-209,Ed:Male Master's Degree,attainment_m_mastersdegree,Population,Educational Attainment,P037016
-210,Ed:Male Professional School Degree,attainment_m_professionalschooldegree,Population,Educational Attainment,P037017
-211,Ed:Male Doctorate Degree,attainment_m_doctoratedegree,Population,Educational Attainment,P037018
-212,Ed:Female,attainment_f,Population,Educational Attainment,P037019
-213,Ed:Female No Schooling,attainment_f_noschooling,Population,Educational Attainment,P037020
-214,Ed:Female Nursery School to 4th Grade,attainment_f_nurseryschoolto4thgrade,Population,Educational Attainment,P037021
-215,Ed:Female 5th to 6th Grade,attainment_f_5thto6thgrade,Population,Educational Attainment,P037022
-216,Ed:Female 7th to 8th Grade,attainment_f_7thto8thgrade,Population,Educational Attainment,P037023
-217,Ed:Female 9th Grade,attainment_f_9thgrade,Population,Educational Attainment,P037024
-218,Ed:Female 10th Grade,attainment_f_10thgrade,Population,Educational Attainment,P037025
-219,Ed:Female 11th Grade,attainment_f_11thgrade,Population,Educational Attainment,P037026
-220,Ed:Female 12th Grade No Diploma,attainment_f_12thgradenodiploma,Population,Educational Attainment,P037027
-221,Ed:Female High School Diploma or Equivalent,attainment_f_highschooldiplomaorequivalent,Population,Educational Attainment,P037028
-222,Ed:Female Some College Less than 1 Year,attainment_f_somecollegelessthan1year,Population,Educational Attainment,P037029
-223,Ed:Female Some College 1 or More Years No Degree,attainment_f_somecollege1ormoreyearsnodegree,Population,Educational Attainment,P037030
-224,Ed:Female Associate's Degree,attainment_f_associatesdegree,Population,Educational Attainment,P037031
-225,Ed:Female Bachelor's Degree,attainment_f_bachelorsdegree,Population,Educational Attainment,P037032
-226,Ed:Female Master's Degree,attainment_f_mastersdegree,Population,Educational Attainment,P037033
-227,Ed:Female Professional School Degree,attainment_f_professionalschooldegree,Population,Educational Attainment,P037034
-228,Ed:Female Doctorate Degree,attainment_f_doctoratedegree,Population,Educational Attainment,P037035
-229,Total Class of Worker by Sex by Industry Series,classworker_totalbysexandindustry_series,Employment,Class of Worker,P051001
-230,Male Industry1 Private for Profit,classworker_m_ind1_privateforprofit,Employment,Class of Worker,P051004
-231,Male Industry1 Private for Profit Employee,classworker_m_ind1_privateforprofit_employee,Employment,Class of Worker,P051005
-232,Male Industry1 Private for Profit Self Employed Incorporated Business,classworker_m_ind1_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051006
-233,Male Industry1 Private Not for Profit,classworker_m_ind1_privatenotforprofit,Employment,Class of Worker,P051007
-234,Male Industry1 Local Government,classworker_m_ind1_localgovt,Employment,Class of Worker,P051008
-235,Male Industry1 State Government,classworker_m_ind1_stategovt,Employment,Class of Worker,P051009
-236,Male Industry1 Federal Government,classworker_m_ind1_federalgovt,Employment,Class of Worker,P051010
-237,Male Industry1 Self Employed Non-Incorporated Business,classworker_m_ind1_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051011
-238,Male Industry1 Unpaid Family Worker,classworker_m_ind1_unpaidfamilyworker,Employment,Class of Worker,P051012
-239,Male Industry2 Private for Profit,classworker_m_ind2_privateforprofit,Employment,Class of Worker,P051015
-240,Male Industry2 Private for Profit Employee,classworker_m_ind2_privateforprofit_employee,Employment,Class of Worker,P051016
-241,Male Industry2 Private for Profit Self Employed Incorporated Business,classworker_m_ind2_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051017
-242,Male Industry2 Private Not for Profit,classworker_m_ind2_privatenotforprofit,Employment,Class of Worker,P051018
-243,Male Industry2 Local Government,classworker_m_ind2_localgovt,Employment,Class of Worker,P051019
-244,Male Industry2 State Government,classworker_m_ind2_stategovt,Employment,Class of Worker,P051020
-245,Male Industry2 Federal Government,classworker_m_ind2_federalgovt,Employment,Class of Worker,P051021
-246,Male Industry2 Self Employed Non-Incorporated Business,classworker_m_ind2_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051022
-247,Male Industry2 Unpaid Family Worker,classworker_m_ind2_unpaidfamilyworker,Employment,Class of Worker,P051023
-248,Male Industry3 Private for Profit,classworker_m_ind3_privateforprofit,Employment,Class of Worker,P051025
-249,Male Industry3 Private for Profit Employee,classworker_m_ind3_privateforprofit_employee,Employment,Class of Worker,P051026
-250,Male Industry3 Private for Profit Self Employed Incorporated Business,classworker_m_ind3_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051027
-251,Male Industry3 Private Not for Profit,classworker_m_ind3_privatenotforprofit,Employment,Class of Worker,P051028
-252,Male Industry3 Local Government,classworker_m_ind3_localgovt,Employment,Class of Worker,P051029
-253,Male Industry3 State Government,classworker_m_ind3_stategovt,Employment,Class of Worker,P051030
-254,Male Industry3 Federal Government,classworker_m_ind3_federalgovt,Employment,Class of Worker,P051031
-255,Male Industry3 Self Employed Non-Incorporated Business,classworker_m_ind3_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051032
-256,Male Industry3 Unpaid Family Worker,classworker_m_ind3_unpaidfamilyworker,Employment,Class of Worker,P051033
-257,Female Industry1 Private for Profit,classworker_f_ind1_privateforprofit,Employment,Class of Worker,P051036
-258,Female Industry1 Private for Profit Employee,classworker_f_ind1_privateforprofit_employee,Employment,Class of Worker,P051037
-259,Female Industry1 Private for Profit Self Employed Incorporated Business,classworker_f_ind1_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051038
-260,Female Industry1 Private Not for Profit,classworker_f_ind1_privatenotforprofit,Employment,Class of Worker,P051039
-261,Female Industry1 Local Government,classworker_f_ind1_localgovt,Employment,Class of Worker,P051040
-262,Female Industry1 State Government,classworker_f_ind1_stategovt,Employment,Class of Worker,P051041
-263,Female Industry1 Federal Government,classworker_f_ind1_federalgovt,Employment,Class of Worker,P051042
-264,Female Industry1 Self Employed Non-Incorporated Business,classworker_f_ind1_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051043
-265,Female Industry1 Unpaid Family Worker,classworker_f_ind1_unpaidfamilyworker,Employment,Class of Worker,P051044
-266,Female Industry2 Private for Profit,classworker_f_ind2_privateforprofit,Employment,Class of Worker,P051047
-267,Female Industry2 Private for Profit Employee,classworker_f_ind2_privateforprofit_employee,Employment,Class of Worker,P051048
-268,Female Industry2 Private for Profit Self Employed Incorporated Business,classworker_f_ind2_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051049
-269,Female Industry2 Private Not for Profit,classworker_f_ind2_privatenotforprofit,Employment,Class of Worker,P051050
-270,Female Industry2 Local Government,classworker_f_ind2_localgovt,Employment,Class of Worker,P051051
-271,Female Industry2 State Government,classworker_f_ind2_stategovt,Employment,Class of Worker,P051052
-272,Female Industry2 Federal Government,classworker_f_ind2_federalgovt,Employment,Class of Worker,P051053
-273,Female Industry2 Self Employed Non-Incorporated Business,classworker_f_ind2_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051054
-274,Female Industry2 Unpaid Family Worker,classworker_f_ind2_unpaidfamilyworker,Employment,Class of Worker,P051055
-275,Female Industry3 Private for Profit,classworker_f_ind3_privateforprofit,Employment,Class of Worker,P051057
-276,Female Industry3 Private for Profit Employee,classworker_f_ind3_privateforprofit_employee,Employment,Class of Worker,P051058
-277,Female Industry3 Private for Profit Self Employed Incorporated Business,classworker_f_ind3_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051059
-278,Female Industry3 Private Not for Profit,classworker_f_ind3_privatenotforprofit,Employment,Class of Worker,P051060
-279,Female Industry3 Local Government,classworker_f_ind3_localgovt,Employment,Class of Worker,P051061
-280,Female Industry3 State Government,classworker_f_ind3_stategovt,Employment,Class of Worker,P051062
-281,Female Industry3 Federal Government,classworker_f_ind3_federalgovt,Employment,Class of Worker,P051063
-282,Female Industry3 Self Employed Non-Incorporated Business,classworker_f_ind3_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051064
-283,Female Industry3 Unpaid Family Worker,classworker_f_ind3_unpaidfamilyworker,Employment,Class of Worker,P051065
-284,Total Sex by Age by Employment Status for the 16+ Population Series,lfstatus_total_sexbyagebyemploymentstatus16+_series,Employment,Labor Force Status,PCT035001
-285,Male 16 to 19 Civilian,lfstatus_mciv_16to19,Employment,Labor Force Status,PCT035006
-286,Male 16 to 19 Civilian Employed,lfstatus_mciv_16to19_employed,Employment,Labor Force Status,PCT035007
-287,Male 16 to 19 Civilian Unemployed,lfstatus_mciv_16to19_unemployed,Employment,Labor Force Status,PCT035008
-288,Male 20 and 21 Civilian,lfstatus_mciv_20to21,Employment,Labor Force Status,PCT035013
-289,Male 20 and 21 Civilian Employed,lfstatus_mciv_20to21_employed,Employment,Labor Force Status,PCT035014
-290,Male 20 and 21 Civilian Unemployed,lfstatus_mciv_20to21_unemployed,Employment,Labor Force Status,PCT035015
-291,Male 22 to 24 Civilian,lfstatus_mciv_22to24,Employment,Labor Force Status,PCT035020
-292,Male 22 to 24 Civilian Employed,lfstatus_mciv_22to24_employed,Employment,Labor Force Status,PCT035021
-293,Male 22 to 24 Civilian Unemployed,lfstatus_mciv_22to24_unemployed,Employment,Labor Force Status,PCT035022
-294,Male 25 to 29 Civilian,lfstatus_mciv_25to29,Employment,Labor Force Status,PCT035027
-295,Male 25 to 29 Civilian Employed,lfstatus_mciv_25to29_employed,Employment,Labor Force Status,PCT035028
-296,Male 25 to 29 Civilian Unemployed,lfstatus_mciv_25to29_unemployed,Employment,Labor Force Status,PCT035029
-297,Male 30 to 34 Civilian,lfstatus_mciv_30to34,Employment,Labor Force Status,PCT035034
-298,Male 30 to 34 Civilian Employed,lfstatus_mciv_30to34_employed,Employment,Labor Force Status,PCT035035
-299,Male 30 to 34 Civilian Unemployed,lfstatus_mciv_30to34_unemployed,Employment,Labor Force Status,PCT035036
-300,Male 35 to 44 Civilian,lfstatus_mciv_35to44,Employment,Labor Force Status,PCT035041
-301,Male 35 to 44 Civilian Employed,lfstatus_mciv_35to44_employed,Employment,Labor Force Status,PCT035042
-302,Male 35 to 44 Civilian Unemployed,lfstatus_mciv_35to44_unemployed,Employment,Labor Force Status,PCT035043
-303,Male 45 to 54 Civilian,lfstatus_mciv_45to54,Employment,Labor Force Status,PCT035048
-304,Male 45 to 54 Civilian Employed,lfstatus_mciv_45to54_employed,Employment,Labor Force Status,PCT035049
-305,Male 45 to 54 Civilian Unemployed,lfstatus_mciv_45to54_unemployed,Employment,Labor Force Status,PCT035050
-306,Male 55 to 59 Civilian,lfstatus_mciv_55to59,Employment,Labor Force Status,PCT035055
-307,Male 55 to 59 Civilian Employed,lfstatus_mciv_55to59_employed,Employment,Labor Force Status,PCT035056
-308,Male 55 to 59 Civilian Unemployed,lfstatus_mciv_55to59_unemployed,Employment,Labor Force Status,PCT035057
-309,Male 60 and 61 Civilian,lfstatus_mciv_60to61,Employment,Labor Force Status,PCT035062
-310,Male 60 and 61 Civilian Employed,lfstatus_mciv_60to61_employed,Employment,Labor Force Status,PCT035063
-311,Male 60 and 61 Civilian Unemployed,lfstatus_mciv_60to61_unemployed,Employment,Labor Force Status,PCT035064
-312,Male 62 to 64 Civilian,lfstatus_mciv_62to64,Employment,Labor Force Status,PCT035069
-313,Male 62 to 64 Civilian Employed,lfstatus_mciv_62to64_employed,Employment,Labor Force Status,PCT035070
-314,Male 62 to 64 Civilian Unemployed,lfstatus_mciv_62to64_unemployed,Employment,Labor Force Status,PCT035071
-315,Male 65 to 69 Civilian,lfstatus_mciv_65to69,Employment,Labor Force Status,PCT035076
-316,Male 65 to 69 Civilian Employed,lfstatus_mciv_65to69_employed,Employment,Labor Force Status,PCT035077
-317,Male 65 to 69 Civilian Unemployed,lfstatus_mciv_65to69_unemployed,Employment,Labor Force Status,PCT035078
-318,Male 70 to 74 Civilian,lfstatus_mciv_70to74,Employment,Labor Force Status,PCT035083
-319,Male 70 to 74 Civilian Employed,lfstatus_mciv_70to74_employed,Employment,Labor Force Status,PCT035084
-320,Male 70 to 74 Civilian Unemployed,lfstatus_mciv_70to74_unemployed,Employment,Labor Force Status,PCT035085
-321,Male 75+ Civilian,lfstatus_mciv_75+,Employment,Labor Force Status,PCT035090
-322,Male 75+ Civilian Employed,lfstatus_mciv_75+_employed,Employment,Labor Force Status,PCT035091
-323,Male 75+ Civilian Unemployed,lfstatus_mciv_75+_unemployed,Employment,Labor Force Status,PCT035092
-324,Female 16 to 19 Civilian,lfstatus_fciv_16to19,Employment,Labor Force Status,PCT035098
-325,Female 16 to 19 Civilian Employed,lfstatus_fciv_16to19_employed,Employment,Labor Force Status,PCT035099
-326,Female 16 to 19 Civilian Unemployed,lfstatus_fciv_16to19_unemployed,Employment,Labor Force Status,PCT035100
-327,Female 20 and 21 Civilian,lfstatus_fciv_20to21,Employment,Labor Force Status,PCT035105
-328,Female 20 and 21 Civilian Employed,lfstatus_fciv_20to21_employed,Employment,Labor Force Status,PCT035106
-329,Female 20 and 21 Civilian Unemployed,lfstatus_fciv_20to21_unemployed,Employment,Labor Force Status,PCT035107
-330,Female 22 to 24 Civilian,lfstatus_fciv_22to24,Employment,Labor Force Status,PCT035112
-331,Female 22 to 24 Civilian Employed,lfstatus_fciv_22to24_employed,Employment,Labor Force Status,PCT035113
-332,Female 22 to 24 Civilian Unemployed,lfstatus_fciv_22to24_unemployed,Employment,Labor Force Status,PCT035114
-333,Female 25 to 29 Civilian,lfstatus_fciv_25to29,Employment,Labor Force Status,PCT035119
-334,Female 25 to 29 Civilian Employed,lfstatus_fciv_25to29_employed,Employment,Labor Force Status,PCT035120
-335,Female 25 to 29 Civilian Unemployed,lfstatus_fciv_25to29_unemployed,Employment,Labor Force Status,PCT035121
-336,Female 30 to 34 Civilian,lfstatus_fciv_30to34,Employment,Labor Force Status,PCT035126
-337,Female 30 to 34 Civilian Employed,lfstatus_fciv_30to34_employed,Employment,Labor Force Status,PCT035127
-338,Female 30 to 34 Civilian Unemployed,lfstatus_fciv_30to34_unemployed,Employment,Labor Force Status,PCT035128
-339,Female 35 to 44 Civilian,lfstatus_fciv_35to44,Employment,Labor Force Status,PCT035133
-340,Female 35 to 44 Civilian Employed,lfstatus_fciv_35to44_employed,Employment,Labor Force Status,PCT035134
-341,Female 35 to 44 Civilian Unemployed,lfstatus_fciv_35to44_unemployed,Employment,Labor Force Status,PCT035135
-342,Female 45 to 54 Civilian,lfstatus_fciv_45to54,Employment,Labor Force Status,PCT035140
-343,Female 45 to 54 Civilian Employed,lfstatus_fciv_45to54_employed,Employment,Labor Force Status,PCT035141
-344,Female 45 to 54 Civilian Unemployed,lfstatus_fciv_45to54_unemployed,Employment,Labor Force Status,PCT035142
-345,Female 55 to 59 Civilian,lfstatus_fciv_55to59,Employment,Labor Force Status,PCT035147
-346,Female 55 to 59 Civilian Employed,lfstatus_fciv_55to59_employed,Employment,Labor Force Status,PCT035148
-347,Female 55 to 59 Civilian Unemployed,lfstatus_fciv_55to59_unemployed,Employment,Labor Force Status,PCT035149
-348,Female 60 and 61 Civilian,lfstatus_fciv_60to61,Employment,Labor Force Status,PCT035154
-349,Female 60 and 61 Civilian Employed,lfstatus_fciv_60to61_employed,Employment,Labor Force Status,PCT035155
-350,Female 60 and 61 Civilian Unemployed,lfstatus_fciv_60to61_unemployed,Employment,Labor Force Status,PCT035156
-351,Female 62 to 64 Civilian,lfstatus_fciv_62to64,Employment,Labor Force Status,PCT035161
-352,Female 62 to 64 Civilian Employed,lfstatus_fciv_62to64_employed,Employment,Labor Force Status,PCT035162
-353,Female 62 to 64 Civilian Unemployed,lfstatus_fciv_62to64_unemployed,Employment,Labor Force Status,PCT035163
-354,Female 65 to 69 Civilian,lfstatus_fciv_65to69,Employment,Labor Force Status,PCT035168
-355,Female 65 to 69 Civilian Employed,lfstatus_fciv_65to69_employed,Employment,Labor Force Status,PCT035169
-356,Female 65 to 69 Civilian Unemployed,lfstatus_fciv_65to69_unemployed,Employment,Labor Force Status,PCT035170
-357,Female 70 to 74 Civilian,lfstatus_fciv_70to74,Employment,Labor Force Status,PCT035175
-358,Female 70 to 74 Civilian Employed,lfstatus_fciv_70to74_employed,Employment,Labor Force Status,PCT035176
-359,Female 70 to 74 Civilian Unemployed,lfstatus_fciv_70to74_unemployed,Employment,Labor Force Status,PCT035177
-360,Female 75+ Civilian,lfstatus_fciv_75+,Employment,Labor Force Status,PCT035182
-361,Female 75+ Civilian Employed,lfstatus_fciv_75+_employed,Employment,Labor Force Status,PCT035183
-362,Female 75+ Civilian Unemployed,lfstatus_fciv_75+_unemployed,Employment,Labor Force Status,PCT035184
-363,Per Capita Personal Income in the Past 12 Months in Most Recent Year Dollars,percapita_income,Employment,Income,P082001
-364,Industry Employment Sex by Industry Civilian Population Total Series,industry_sexbyindustrycivilianpop_total_series,Employment,Industry Employment,P049001
-365,Industry Employment Total Male,industry_sexbyindustrycivilianpop_totalmale,Employment,Industry Employment,P049002
-366,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining",industry_m_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,P049003
-367,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_m_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,P049004
-368,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_m_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,P049005
-369,Industry Employment Male Construction,industry_m_construction,Employment,Industry Employment,P049006
-370,Industry Employment Male Manufacturing,industry_m_manufacturing,Employment,Industry Employment,P049007
-371,Industry Employment Male Wholesale Trade,industry_m_wholesaletrade,Employment,Industry Employment,P049008
-372,Industry Employment Male Retail Trade,industry_m_retailtrade,Employment,Industry Employment,P049009
-373,"Industry Employment Male Transportation, Warehousing, and Utilities",industry_m_transportation_warehousing_utilities,Employment,Industry Employment,P049010
-374,"Industry Employment Male Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_m_transut_transportation_warehousing,Employment,Industry Employment,P049011
-375,"Industry Employment Male Transportation, Warehousing, and Utilities: Utilities",industry_m_transut_utilities,Employment,Industry Employment,P049012
-376,Industry Employment Male Information,industry_m_information,Employment,Industry Employment,P049013
-377,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing",industry_m_finance_insurance_realestate_rental,Employment,Industry Employment,P049014
-378,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_m_finrent_finance_insurance,Employment,Industry Employment,P049015
-379,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_m_finrent_realestate_rental,Employment,Industry Employment,P049016
-380,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management",industry_m_professional_scientific_managementadmin_waste,Employment,Industry Employment,P049017
-381,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_m_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,P049018
-382,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_m_profwaste_managementcompaniesenterprises,Employment,Industry Employment,P049019
-383,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_m_adminandsupportandwaste,Employment,Industry Employment,P049020
-384,"Industry Employment Male Educational, Healthcare, and Social Assistance",industry_m_educational_healthcare_socialassistance,Employment,Industry Employment,P049021
-385,"Industry Employment Male Educational, Healthcare, and Social Assistance: Educational",industry_m_edsocial_educational,Employment,Industry Employment,P049022
-386,"Industry Employment Male Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_m_edsocial_healthcare_socialassistance,Employment,Industry Employment,P049023
-387,"Industry Employment Male Entertainment and Recreation, Accommodation and Food",industry_m_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,P049024
-388,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_m_artsaccom_arts_entertainmentrec,Employment,Industry Employment,P049025
-389,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_m_artsaccom_accommodation_food,Employment,Industry Employment,P049026
-390,Industry Employment Male Other Services Not Public Administration,industry_m_otherservices_notpublicadmin,Employment,Industry Employment,P049027
-391,Industry Employment Male Public Administration,industry_m_publicadmin,Employment,Industry Employment,P049028
-392,Industry Employment Total Female,industry_sexbyindustrycivilianpop_totalfemale,Employment,Industry Employment,P049029
-393,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining",industry_f_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,P049030
-394,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_f_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,P049031
-395,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_f_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,P049032
-396,Industry Employment Female Construction,industry_f_construction,Employment,Industry Employment,P049033
-397,Industry Employment Female Manufacturing,industry_f_manufacturing,Employment,Industry Employment,P049034
-398,Industry Employment Female Wholesale Trade,industry_f_wholesaletrade,Employment,Industry Employment,P049035
-399,Industry Employment Female Retail Trade,industry_f_retailtrade,Employment,Industry Employment,P049036
-400,"Industry Employment Female Transportation, Warehousing, and Utilities",industry_f_transportation_warehousing_utilities,Employment,Industry Employment,P049037
-401,"Industry Employment Female Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_f_transut_transportation_warehousing,Employment,Industry Employment,P049038
-402,"Industry Employment Female Transportation, Warehousing, and Utilities: Utilities",industry_f_transut_utilities,Employment,Industry Employment,P049039
-403,Industry Employment Female Information,industry_f_information,Employment,Industry Employment,P049040
-404,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing",industry_f_finance_insurance_realestate_rental,Employment,Industry Employment,P049041
-405,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_f_finrent_finance_insurance,Employment,Industry Employment,P049042
-406,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_f_finrent_realestate_rental,Employment,Industry Employment,P049043
-407,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management",industry_f_professional_scientific_managementadmin_waste,Employment,Industry Employment,P049044
-408,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_f_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,P049045
-409,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_f_profwaste_managementcompaniesenterprises,Employment,Industry Employment,P049046
-410,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_f_adminandsupportandwaste,Employment,Industry Employment,P049047
-411,"Industry Employment Female Educational, Healthcare, and Social Assistance",industry_f_educational_healthcare_socialassistance,Employment,Industry Employment,P049048
-412,"Industry Employment Female Educational, Healthcare, and Social Assistance: Educational",industry_f_edsocial_educational,Employment,Industry Employment,P049049
-413,"Industry Employment Female Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_f_edsocial_healthcare_socialassistance,Employment,Industry Employment,P049050
-414,"Industry Employment Female Entertainment and Recreation, Accommodation and Food",industry_f_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,P049051
-415,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_f_artsaccom_arts_entertainmentrec,Employment,Industry Employment,P049052
-416,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_f_artsaccom_accommodation_food,Employment,Industry Employment,P049053
-417,Industry Employment Female Other Services Not Public Administration,industry_f_otherservices_notpublicadmin,Employment,Industry Employment,P049054
-418,Industry Employment Female Public Administration,industry_f_publicadmin,Employment,Industry Employment,P049055
-419,Occupational Employment by Sex Total Series,occupation_sexbyoccupationcivilianpop_total_series,Employment,Occupational Employment,P050001
-420,Occupational Employment Total Male,occupation_sexbyoccupationcivilianpop_totalmale,Employment,Occupational Employment,P050002
-421,"Occupational Employment Male Management, Professional, and Related: Management Occupations Except Farmers and Farm Managers",occupation_m_management,Employment,Occupational Employment,P050005
-422,"Occupational Employment Male Management, Professional, and Related: Farmers and Farm Managers",occupation_m_farmersandfarmmanagers,Employment,Occupational Employment,P050006
-423,"Occupational Employment Male Management, Professional, and Related: Business and Financial Operations Occupations",occupation_m_businessandfinancial,Employment,Occupational Employment,P050007
-424,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_m_computerandmathematical,Employment,Occupational Employment,P050011
-425,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_m_architectureandengineering,Employment,Occupational Employment,P050012
-426,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_m_lifephysicalsocialscience,Employment,Occupational Employment,P050015
-427,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_m_communityandsocialservices,Employment,Occupational Employment,P050016
-428,"Occupational Employment Male Management, Professional, and Related: Legal Occupations",occupation_m_legal,Employment,Occupational Employment,P050027
-429,"Occupational Employment Male Management, Professional, and Related: Education, Training, and Library Occupations",occupation_m_educationtrainingandlibrary,Employment,Occupational Employment,P050018
-430,"Occupational Employment Male Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_m_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,P050019
-431,"Occupational Employment Male Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_m_healthcarepractitionersandtechnical,Employment,Occupational Employment,P050020
-432,Occupational Employment Male Service Occupations: Healthcare Support Occupations,occupation_m_healthcaresupport,Employment,Occupational Employment,P050024
-433,Occupational Employment Male Service Occupations: Protective Service Occupations,occupation_m_protectiveservice,Employment,Occupational Employment,P050025
-434,Occupational Employment Male Service Occupations: Food Preparations and Serving Related Occupations,occupation_m_foodprepandserving,Employment,Occupational Employment,P050028
-435,Occupational Employment Male Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_m_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,P050029
-436,Occupational Employment Male Service Occupations: Personal Care and Service Occupations,occupation_m_personalcareandservice,Employment,Occupational Employment,P050030
-437,Occupational Employment Male Sales and Office Occupations: Sales and Related Occupations,occupation_m_salesandrelated,Employment,Occupational Employment,P050032
-438,Occupational Employment Male Sales and Office Occupations: Office and Administrative Support Occupations,occupation_m_officeandadmin,Employment,Occupational Employment,P050033
-439,"Occupational Employment Male Farming, Fishing, and Forestry Occupations",occupation_m_farmingfishingandforestry,Employment,Occupational Employment,P050034
-440,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_m_constructionandextraction,Employment,Occupational Employment,P050036
-441,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_m_installationmaintenanceandrepair,Employment,Occupational Employment,P050040
-442,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_m_production,Employment,Occupational Employment,P050042
-443,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Transportation and Material Moving Occupations",occupation_m_transportationandmaterialmoving,Employment,Occupational Employment,P050043
-444,Occupational Employment Total Female,occupation_sexbyoccupationcivilianpop_totalfemale,Employment,Occupational Employment,P050049
-445,"Occupational Employment Female Management, Professional, and Related: Management Occupations Except Farmers and Farm Managers",occupation_f_management,Employment,Occupational Employment,P050052
-446,"Occupational Employment Female Management, Professional, and Related: Farmers and Farm Managers",occupation_f_farmersandfarmmanagers,Employment,Occupational Employment,P050053
-447,"Occupational Employment Female Management, Professional, and Related: Business and Financial Operations Occupations",occupation_f_businessandfinancial,Employment,Occupational Employment,P050054
-448,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_f_computerandmathematical,Employment,Occupational Employment,P050058
-449,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_f_architectureandengineering,Employment,Occupational Employment,P050059
-450,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_f_lifephysicalsocialscience,Employment,Occupational Employment,P050062
-451,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_f_communityandsocialservices,Employment,Occupational Employment,P050063
-452,"Occupational Employment Female Management, Professional, and Related: Legal Occupations",occupation_f_legal,Employment,Occupational Employment,P050064
-453,"Occupational Employment Female Management, Professional, and Related: Education, Training, and Library Occupations",occupation_f_educationtrainingandlibrary,Employment,Occupational Employment,P050065
-454,"Occupational Employment Female Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_f_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,P050066
-455,"Occupational Employment Female Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_f_healthcarepractitionersandtechnical,Employment,Occupational Employment,P050067
-456,Occupational Employment Female Service Occupations: Healthcare Support Occupations,occupation_f_healthcaresupport,Employment,Occupational Employment,P050071
-457,Occupational Employment Female Service Occupations: Protective Service Occupations,occupation_f_protectiveservice,Employment,Occupational Employment,P050072
-458,Occupational Employment Female Service Occupations: Food Preparations and Serving Related Occupations,occupation_f_foodprepandserving,Employment,Occupational Employment,P050075
-459,Occupational Employment Female Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_f_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,P050076
-460,Occupational Employment Female Service Occupations: Personal Care and Service Occupations,occupation_f_personalcareandservice,Employment,Occupational Employment,P050077
-461,Occupational Employment Female Sales and Office Occupations: Sales and Related Occupations,occupation_f_salesandrelated,Employment,Occupational Employment,P050079
-462,Occupational Employment Female Sales and Office Occupations: Office and Administrative Support Occupations,occupation_f_officeandadmin,Employment,Occupational Employment,P050080
-463,"Occupational Employment Female Farming, Fishing, and Forestry Occupations",occupation_f_farmingfishingandforestry,Employment,Occupational Employment,P050081
-464,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_f_constructionandextraction,Employment,Occupational Employment,P050083
-465,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_f_installationmaintenanceandrepair,Employment,Occupational Employment,P050087
-466,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_f_production,Employment,Occupational Employment,P050089
-467,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Transportation and Material Moving Occupations",occupation_f_transportationandmaterialmoving,Employment,Occupational Employment,P050090
-468,Veteran: Total Veteran,veteran_total_series,Population,Veteran Status,P039001
-469,Veteran:Total Male,veteran_total_m,Population,Veteran Status,P039002
-470,Veteran: Male 18 to 64,veteran_m18to64,Population,Veteran Status,P039003
-471,Veteran: Male 18 to 64 In Armed Forces,veteran_m18to64_armedforces,Population,Veteran Status,P039004
-472,Veteran: Male 18 to 64 Civilian,veteran_m18to64_civilian,Population,Veteran Status,P039005
-473,Veteran: Male 18 to 64 Civilian Veteran,veteran_m18to64_civilian_veteran,Population,Veteran Status,P039006
-474,Veteran: Male 18 to 64 Civilian Nonveteran,veteran_m18to64_civilian_nonveteran,Population,Veteran Status,P039007
-475,Veteran: Male 65 and Older,veteran_m65andolder,Population,Veteran Status,P039008
-476,Veteran: Male 65 and Older In Armed Forces,veteran_m65andolder_armedforces,Population,Veteran Status,P039009
-477,Veteran: Male 65 and Older Civilian,veteran_m65andolder_civilian,Population,Veteran Status,P039010
-478,Veteran: Male 65 and Older Civilian Veteran,veteran_m65andolder_civilian_veteran,Population,Veteran Status,P039011
-479,Veteran: Male 65 and Older Civilian Nonveteran,veteran_m65andolder_civilian_nonveteran,Population,Veteran Status,P039012
-480,Veteran:Total Female,veteran_total_f,Population,Veteran Status,P039013
-481,Veteran: Female 18 to 64,veteran_f18to64,Population,Veteran Status,P039014
-482,Veteran: Female 18 to 64 In Armed Forces,veteran_f18to64_armedforces,Population,Veteran Status,P039015
-483,Veteran: Female 18 to 64 Civilian,veteran_f18to64_civilian,Population,Veteran Status,P039016
-484,Veteran: Female 18 to 64 Civilian Veteran,veteran_f18to64_civilian_veteran,Population,Veteran Status,P039017
-485,Veteran: Female 18 to 64 Civilian Nonveteran,veteran_f18to64_civilian_nonveteran,Population,Veteran Status,P039018
-486,Veteran: Female 65 and Older,veteran_f65andolder,Population,Veteran Status,P039019
-487,Veteran: Female 65 and Older In Armed Forces,veteran_f65andolder_armedforces,Population,Veteran Status,P039020
-488,Veteran: Female 65 and Older Civilian,veteran_f65andolder_civilian,Population,Veteran Status,P039021
-489,Veteran: Female 65 and Older Civilian Veteran,veteran_f65andolder_civilian_veteran,Population,Veteran Status,P039022
-490,Veteran: Female 65 and Older Civilian Nonveteran,veteran_f65andolder_civilian_nonveteran,Population,Veteran Status,P039023
-491,Language Spoken at Home by Ability to Speak English for the Population 5+,language_languagebyabilitytospeakenglish_total5+_series,Population,Language,P019001
-492,Language Spoken at Home by Ability to Speak English Total 5 to 17,language_total_5to17,Population,Language,P019002
-493,Language Spoken at Home Speaks Only English 5 to 17,language_speakonlyenglish_5to17,Population,Language,P019003
-494,Language Spoken at Home Speaks Spanish 5 to 17,language_speakspanish_5to17,Population,Language,P019004
-495,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 5 to 17",language_speakspanish_speakenglishverywell_5to17,Population,Language,P019005
-496,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 5 to 17",language_speakspanish_speakenglishwell_5to17,Population,Language,P019006
-497,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 5 to 17",language_speakspanish_speakenglishnotwell_5to17,Population,Language,P019007
-498,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 5 to 17",language_speakspanish_speakenglishnotatall_5to17,Population,Language,P019008
-499,Language Spoken at Home Speaks Other Indo-European Language 5 to 17,language_speakotherindoeuro_5to17,Population,Language,P019009
-500,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 5 to 17",language_speakotherindoeuro_speakenglishverywell_5to17,Population,Language,P019010
-501,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 5 to 17",language_speakotherindoeuro_speakenglishwell_5to17,Population,Language,P019011
-502,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 5 to 17",language_speakotherindoeuro_speakenglishnotwell_5to17,Population,Language,P019012
-503,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 5 to 17",language_speakotherindoeuro_speakenglishnotatall_5to17,Population,Language,P019013
-504,Language Spoken at Home Speaks Asian or Pacific Island 5 to 17,language_speakasianpacificisland_5to17,Population,Language,P019014
-505,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 5 to 17",language_speakasianpacificisland_speakenglishverywell_5to17,Population,Language,P019015
-506,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 5 to 17",language_speakasianpacificisland_speakenglishwell_5to17,Population,Language,P019016
-507,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 5 to 17",language_speakasianpacificisland_speakenglishnotwell_5to17,Population,Language,P019017
-508,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 5 to 17",language_speakasianpacificisland_speakenglishnotatall_5to17,Population,Language,P019018
-509,Language Spoken at Home Speaks Other Language 5 to 17,language_speakother_5to17,Population,Language,P019019
-510,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 5 to 17",language_speakother_speakenglishverywell_5to17,Population,Language,P019020
-511,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 5 to 17",language_speakother_speakenglishwell_5to17,Population,Language,P019021
-512,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 5 to 17",language_speakother_speakenglishnotwell_5to17,Population,Language,P019022
-513,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 5 to 17",language_speakother_speakenglishnotatall_5to17,Population,Language,P019023
-514,Language Spoken at Home by Ability to Speak English Total 18 to 64,language_total_18to64,Population,Language,P019024
-515,Language Spoken at Home Speaks Only English 18 to 64,language_speakonlyenglish_18to64,Population,Language,P019025
-516,Language Spoken at Home Speaks Spanish 18 to 64,language_speakspanish_18to64,Population,Language,P019026
-517,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 18 to 64",language_speakspanish_speakenglishverywell_18to64,Population,Language,P019027
-518,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 18 to 64",language_speakspanish_speakenglishwell_18to64,Population,Language,P019028
-519,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 18 to 64",language_speakspanish_speakenglishnotwell_18to64,Population,Language,P019029
-520,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 18 to 64",language_speakspanish_speakenglishnotatall_18to64,Population,Language,P019030
-521,Language Spoken at Home Speaks Other Indo-European Language 18 to 64,language_speakotherindoeuro_18to64,Population,Language,P019031
-522,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 18 to 64",language_speakotherindoeuro_speakenglishverywell_18to64,Population,Language,P019032
-523,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 18 to 64",language_speakotherindoeuro_speakenglishwell_18to64,Population,Language,P019033
-524,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 18 to 64",language_speakotherindoeuro_speakenglishnotwell_18to64,Population,Language,P019034
-525,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 18 to 64",language_speakotherindoeuro_speakenglishnotatall_18to64,Population,Language,P019035
-526,Language Spoken at Home Speaks Asian or Pacific Island 18 to 64,language_speakasianpacificisland_18to64,Population,Language,P019036
-527,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 18 to 64",language_speakasianpacificisland_speakenglishverywell_18to64,Population,Language,P019037
-528,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 18 to 64",language_speakasianpacificisland_speakenglishwell_18to64,Population,Language,P019038
-529,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 18 to 64",language_speakasianpacificisland_speakenglishnotwell_18to64,Population,Language,P019039
-530,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 18 to 64",language_speakasianpacificisland_speakenglishnotatall_18to64,Population,Language,P019040
-531,Language Spoken at Home Speaks Other Language 18 to 64,language_speakother_18to64,Population,Language,P019041
-532,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 18 to 64",language_speakother_speakenglishverywell_18to64,Population,Language,P019042
-533,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 18 to 64",language_speakother_speakenglishwell_18to64,Population,Language,P019043
-534,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 18 to 64",language_speakother_speakenglishnotwell_18to64,Population,Language,P019044
-535,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 18 to 64",language_speakother_speakenglishnotatall_18to64,Population,Language,P019045
-536,Language Spoken at Home by Ability to Speak English Total 65+,language_total_65+,Population,Language,P019046
-537,Language Spoken at Home Speaks Only English 65+,language_speakonlyenglish_65+,Population,Language,P019047
-538,Language Spoken at Home Speaks Spanish 65+,language_speakspanish_65+,Population,Language,P019048
-539,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 65+",language_speakspanish_speakenglishverywell_65+,Population,Language,P019049
-540,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 65+",language_speakspanish_speakenglishwell_65+,Population,Language,P019050
-541,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 65+",language_speakspanish_speakenglishnotwell_65+,Population,Language,P019051
-542,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 65+",language_speakspanish_speakenglishnotatall_65+,Population,Language,P019052
-543,Language Spoken at Home Speaks Other Indo-European Language 65+,language_speakotherindoeuro_65+,Population,Language,P019053
-544,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 65+",language_speakotherindoeuro_speakenglishverywell_65+,Population,Language,P019054
-545,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 65+",language_speakotherindoeuro_speakenglishwell_65+,Population,Language,P019055
-546,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 65+",language_speakotherindoeuro_speakenglishnotwell_65+,Population,Language,P019056
-547,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 65+",language_speakotherindoeuro_speakenglishnotatall_65+,Population,Language,P019057
-548,Language Spoken at Home Speaks Asian or Pacific Island 65+,language_speakasianpacificisland_65+,Population,Language,P019058
-549,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 65+",language_speakasianpacificisland_speakenglishverywell_65+,Population,Language,P019059
-550,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 65+",language_speakasianpacificisland_speakenglishwell_65+,Population,Language,P019060
-551,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 65+",language_speakasianpacificisland_speakenglishnotwell_65+,Population,Language,P019061
-552,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 65+",language_speakasianpacificisland_speakenglishnotatall_65+,Population,Language,P019062
-553,Language Spoken at Home Speaks Other Language 65+,language_speakother_65+,Population,Language,P019063
-554,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 65+",language_speakother_speakenglishverywell_65+,Population,Language,P019064
-555,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 65+",language_speakother_speakenglishwell_65+,Population,Language,P019065
-556,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 65+",language_speakother_speakenglishnotwell_65+,Population,Language,P019066
-557,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 65+",language_speakother_speakenglishnotatall_65+,Population,Language,P019067
-558,Disability: Total Disabilities Tallied for the Civilian Noninstitutionalized Population 5 Years and Over with Disabilities,disability_totaldisabilities,Population,Disability,P041001
-559,Household Income Total Series,hhincome_total_series,Households,Household Income,P052001
-560,"Household Income Less than $10,000",hhincome_lessthan10000,Households,Household Income,P052002
-561,"Household Income 10,000 to 14,999",hhincome_10to14999,Households,Household Income,P052003
-562,"Household Income 15,000 to 19,999",hhincome_15to19999,Households,Household Income,P052004
-563,"Household Income 20,000 to 24,999",hhincome_20to24999,Households,Household Income,P052005
-564,"Household Income 25,000 to 29,999",hhincome_25to29999,Households,Household Income,P052006
-565,"Household Income 30,000 to 34,999",hhincome_30to34999,Households,Household Income,P052007
-566,"Household Income 35,000 to 39,999",hhincome_35to39999,Households,Household Income,P052008
-567,"Household Income 40,000 to 44,999",hhincome_40to44999,Households,Household Income,P052009
-568,"Household Income 45,000 to 49,999",hhincome_45to49999,Households,Household Income,P052010
-569,"Household Income 50,000 to 59,999",hhincome_50to59999,Households,Household Income,P052011
-570,"Household Income 60,000 to 74,999",hhincome_60to74999,Households,Household Income,P052012
-571,"Household Income 75,000 to 99,999",hhincome_75to99999,Households,Household Income,P052013
-572,"Household Income 100,000 to 124,999",hhincome_100to124999,Households,Household Income,P052014
-573,"Household Income 125,000 to 149,999",hhincome125to149999,Households,Household Income,P052015
-574,"Household Income 150,000 to 199,999",hhincome150to199999,Households,Household Income,P052016
-575,"Household Income 200,000 or More",hhincome200ormore,Households,Household Income,P052017
-576,Total Geographic Mobility in the Past 5 Years Series,geo_movedbetween1995and2000_total_series,Geographic Mobility,Moved,P024001
-577,Geographic Mobility in the Past 5 Years Didn't Move,geo_1995to2000_didntmove,Geographic Mobility,Moved,P024002
-578,Geographic Mobility in the Past 5 Years Moved,geo_1995to2000_moved,Geographic Mobility,Moved,P024003
-579,Geographic Mobility in the Past 5 Years Moved from Same County,geo_1995to2000_movedsamecounty,Geographic Mobility,Moved,P024005
-580,Geographic Mobility in the Past 5 Years Moved from Different County Same State,geo_1995to2000_moveddifferentcountysamestate,Geographic Mobility,Moved,P024007
-581,Geographic Mobility in the Past 5 Years Moved from Different State,geo_1995to2000_moveddifferentstate,Geographic Mobility,Moved,P024008
-582,Geographic Mobility in the Past 5 Years Moved from Abroad,geo_1995to2000_movedfromabroad,Geographic Mobility,Moved,P024018
-583,Foreign Born: Foreign Born Citizenship Status Total Series,fb_foreignborn_citizenship_total_series,Population,Foreign Born Population,P021013
-584,"Foreign Born: Foreign Born, Naturalized Citizen",fb_foreignborn_naturalizeduscitizen,Population,Foreign Born Population,P021014
-585,"Foreign Born: Foreign Born, Not a Citizen",fb_foreignborn_notauscitizen,Population,Foreign Born Population,P021015
+34,Total Means of Transportation to Work Series,commute_total_meansoftransportationtowork_series,Transportation,Commute,P030001
+35,Car Truck or Van Commute,commute_cartruckvan,Transportation,Commute,P030002
+36,Car Truck or Van Drove Alone Commute,commute_cartruckvan_drovealone,Transportation,Commute,P030003
+37,Car Truck or Van Carpooled Commute,commute_cartruckvan_carpooled,Transportation,Commute,P030004
+38,Public Transportation Excluding Taxicab Commute,commute_publictransportation,Transportation,Commute,P030005
+39,Public Transportation Bus Commute,commute_publictransportation_bus,Transportation,Commute,P030006
+40,Public Transportation Subway or Elevated Rail Commute,commute_publictransportation_subwayorelevatedrail,Transportation,Commute,P030008
+41,Public Transportation Long Distance Train or Commuter Rail Commute,commute_publictransportation_longdistancetrainorcommuterrail,Transportation,Commute,P030009
+42,Public Transportation Light Rail Streetcar or Trolley Commute,commute_publictransportation_lightrailstreetcarortrolley,Transportation,Commute,P030007
+43,Public Transportation Ferryboat Commute,commute_publictransportation_ferryboat,Transportation,Commute,P030010
+44,Bicycle Commute,commute_bicycle,Transportation,Commute,P030013
+45,Walked Commute,commute_walk,Transportation,Commute,P030014
+46,Taxi Cab Commute,commute_taxicab,Transportation,Commute,P030011
+47,Motorcycle Commute,commute_motorcycle,Transportation,Commute,P030012
+48,Commute by Other Means,commute_othermeans,Transportation,Commute,P030015
+49,Commute Worked from Home,commute_workedfromhome,Transportation,Commute,P030016
+50,Vehicles per Household by Tenure Total Series,vehicles_tenurebyvehicles_total_series,Transportation,Vehicles,H044001
+51,Vehicles per Household Owner Occupied No Vehicles,vehicles_ownerocc_novehicle,Transportation,Vehicles,H044003
+52,Vehicles per Household Owner Occupied 1 Vehicle,vehicles_ownerocc_1vehicle,Transportation,Vehicles,H044004
+53,Vehicles per Household Owner Occupied 2 Vehicles,vehicles_ownerocc_2vehicles,Transportation,Vehicles,H044005
+54,Vehicles per Household Owner Occupied 3 Vehicles,vehicles_ownerocc_3vehicles,Transportation,Vehicles,H044006
+55,Vehicles per Household Owner Occupied 4 Vehicles,vehicles_ownerocc_4vehicles,Transportation,Vehicles,H044007
+56,Vehicles per Household Owner Occupied 5 Vehicles,vehicles_ownerocc_5+vehicles,Transportation,Vehicles,H044008
+57,Vehicles per Household Renter Occupied No Vehicles,vehicles_renterocc_novehicle,Transportation,Vehicles,H044010
+58,Vehicles per Household Renter Occupied 1 Vehicle,vehicles_renterocc_1vehicle,Transportation,Vehicles,H044011
+59,Vehicles per Household Renter Occupied 2 Vehicles,vehicles_renterocc_2vehicles,Transportation,Vehicles,H044012
+60,Vehicles per Household Renter Occupied 3 Vehicles,vehicles_renterocc_3vehicles,Transportation,Vehicles,H044013
+61,Vehicles per Household Renter Occupied 4 Vehicles,vehicles_renterocc_4vehicles,Transportation,Vehicles,H044014
+62,Vehicles per Household Renter Occupied 5 Vehicles,vehicles_renterocc_5+vehicles,Transportation,Vehicles,H044015
+63,Total Foreign Born Place of Birth Series,foreignborn_total,Population,Diversity,PCT019001
+64,Europe,fb_europe,Population,Diversity,PCT019002
+65,"Europe, Northern Europe",fb_eur_northern,Population,Diversity,PCT019003
+66,"Europe, Northern Europe, Ireland",fb_eur_n_ireland,Population,Diversity,PCT019005
+67,"Europe, Northern Europe, UK",fb_eur_n_uk,Population,Diversity,PCT019004
+68,"Europe, Northern Europe, Other",fb_eur_n_other,Population,Diversity,PCT019007
+69,"Europe, Western Europe ",fb_eur_western,Population,Diversity,PCT019008
+70,"Europe, Western Europe, Austria",fb_eur_w_austria,Population,Diversity,PCT019009
+71,"Europe, Western Europe, France",fb_eur_w_france,Population,Diversity,PCT019010
+72,"Europe, Western Europe, Germany",fb_eur_w_germany,Population,Diversity,PCT019011
+73,"Europe, Western Europe, Netherlands",fb_eur_w_netherlands,Population,Diversity,PCT019012
+74,"Europe, Western Europe, Other",fb_eur_w_other,Population,Diversity,PCT019013
+75,"Europe, Southern Europe",fb_eur_southern,Population,Diversity,PCT019014
+76,"Europe, Southern Europe, Greece",fb_eur_s_greece,Population,Diversity,PCT019015
+77,"Europe, Southern Europe, Italy",fb_eur_s_italy,Population,Diversity,PCT019016
+78,"Europe, Southern Europe, Portugal",fb_eur_s_portugal,Population,Diversity,PCT019017
+79,"Europe, Southern Europe, Spain",fb_eur_s_spain,Population,Diversity,PCT019018
+80,"Europe, Southern Europe, Other",fb_eur_s_other,Population,Diversity,PCT019019
+81,"Europe, Eastern Europe",fb_eur_eastern,Population,Diversity,PCT019020
+82,"Europe, Eastern Europe, Belarus",fb_eur_e_belarus,Population,Diversity,PCT019025
+83,"Europe, Eastern Europe, Bosnia and Herzegovina",fb_eur_e_bosniaandherzegovina,Population,Diversity,PCT019028
+84,"Europe, Eastern Europe, Czechoslovakia (Czech Republic and Slovakia)",fb_eur_e_czechoslovakia,Population,Diversity,PCT019021
+85,"Europe, Eastern Europe, Hungary",fb_eur_e_hungary,Population,Diversity,PCT019022
+86,"Europe, Eastern Europe, Poland",fb_eur_e_poland,Population,Diversity,PCT019023
+87,"Europe, Eastern Europe, Romania",fb_eur_e_romania,Population,Diversity,PCT019024
+88,"Europe, Eastern Europe, Russia",fb_eur_e_russia,Population,Diversity,PCT019026
+89,"Europe, Eastern Europe, Ukraine",fb_eur_e_ukraine,Population,Diversity,PCT019027
+90,"Europe, Eastern Europe, Other",fb_eur_e_other,Population,Diversity,PCT019030
+91,"Europe, n.e.c.",fb_eur_nec,Population,Diversity,PCT019031
+92,Asia,fb_asia,Population,Diversity,PCT019032
+93,"Asia, Eastern Asia",fb_as_eastern,Population,Diversity,PCT019033
+94,"Asia, Eastern Asia,China",fb_as_e_china,Population,Diversity,PCT019034
+95,"Asia, Eastern Asia,China Excluding Hong Kong and Taiwan",fb_as_e_chinanohongkongortaiwan,Population,Diversity,PCT019035
+96,"Asia, Eastern Asia,Hong Kong",fb_as_e_hongkong,Population,Diversity,PCT019036
+97,"Asia, Eastern Asia,Taiwan",fb_as_e_taiwan,Population,Diversity,PCT019037
+98,"Asia, Eastern Asia,Japan",fb_as_e_japan,Population,Diversity,PCT019038
+99,"Asia, Eastern Asia,Korea",fb_as_e_korea,Population,Diversity,PCT019039
+100,"Asia, Eastern Asia,Other",fb_as_e_other,Population,Diversity,PCT019040
+101,"Asia, South Central Asia",fb_as_southcentral,Population,Diversity,PCT019041
+102,"Asia, South Central Asia,Afghanistan",fb_as_sc_afghanistan,Population,Diversity,PCT019042
+103,"Asia, South Central Asia,Bangladesh",fb_as_sc_bangladesh,Population,Diversity,PCT019043
+104,"Asia, South Central Asia,India",fb_as_sc_india,Population,Diversity,PCT019044
+105,"Asia, South Central Asia,Iran",fb_as_sc_iran,Population,Diversity,PCT019045
+106,"Asia, South Central Asia,Pakistan",fb_as_sc_pakistan,Population,Diversity,PCT019046
+107,"Asia, South Central Asia,Other",fb_as_sc_other,Population,Diversity,PCT019047
+108,"Asia, South Eastern Asia",fb_as_southeastern,Population,Diversity,PCT019048
+109,"Asia, South Eastern Asia,Cambodia",fb_as_se_cambodia,Population,Diversity,PCT019049
+110,"Asia, South Eastern Asia,Indonesia",fb_as_se_indonesia,Population,Diversity,PCT019050
+111,"Asia, South Eastern Asia,Laos",fb_as_se_laos,Population,Diversity,PCT019051
+112,"Asia, South Eastern Asia,Malaysia",fb_as_se_malaysia,Population,Diversity,PCT019052
+113,"Asia, South Eastern Asia,Philippines",fb_as_se_philippines,Population,Diversity,PCT019053
+114,"Asia, South Eastern Asia,Thailand",fb_as_se_thailand,Population,Diversity,PCT019054
+115,"Asia, South Eastern Asia,Vietnam",fb_as_se_vietnam,Population,Diversity,PCT019055
+116,"Asia, South Eastern Asia,Other",fb_as_se_other,Population,Diversity,PCT019056
+117,"Asia, Western Asia",fb_as_western,Population,Diversity,PCT019057
+118,"Asia, Western Asia,Armenia",fb_as_w_armenia,Population,Diversity,PCT019064
+119,"Asia, Western Asia,Iraq",fb_as_w_iraq,Population,Diversity,PCT019058
+120,"Asia, Western Asia,Israel",fb_as_w_israel,Population,Diversity,PCT019059
+121,"Asia, Western Asia,Jordan",fb_as_w_jordan,Population,Diversity,PCT019060
+122,"Asia, Western Asia,Lebanon",fb_as_w_lebanon,Population,Diversity,PCT019061
+123,"Asia, Western Asia,Syria",fb_as_w_syria,Population,Diversity,PCT019062
+124,"Asia, Western Asia,Turkey",fb_as_w_turkey,Population,Diversity,PCT019063
+125,"Asia, Western Asia,Other",fb_as_w_other,Population,Diversity,PCT019065
+126,"Asia, n.e.c.",fb_as_nec,Population,Diversity,PCT019066
+127,Africa,fb_africa,Population,Diversity,PCT019067
+128,"Africa, Eastern Africa",fb_af_eastern,Population,Diversity,PCT019068
+129,"Africa, Eastern Africa,Ethiopia",fb_af_e_ethiopia,Population,Diversity,PCT019069
+130,"Africa, Eastern Africa,Other",fb_af_e_other,Population,Diversity,PCT019070
+131,"Africa, Middle Africa",fb_af_middle,Population,Diversity,PCT019071
+132,"Africa, Northern Africa",fb_af_northern,Population,Diversity,PCT019072
+133,"Africa, Northern Africa,Egypt",fb_af_n_egypt,Population,Diversity,PCT019073
+134,"Africa, Northern Africa,Other",fb_af_n_other,Population,Diversity,PCT019074
+135,"Africa, Southern Africa",fb_af_southern,Population,Diversity,PCT019075
+136,"Africa, Southern Africa, South Africa",fb_af_s_southafrica,Population,Diversity,PCT019076
+137,"Africa, Southern Africa, Other",fb_af_s_other,Population,Diversity,PCT019077
+138,"Africa, Western Africa",fb_af_western,Population,Diversity,PCT019078
+139,"Africa, Western Africa,Ghana",fb_af_w_ghana,Population,Diversity,PCT019079
+140,"Africa, Western Africa,Nigeria",fb_af_w_nigeria,Population,Diversity,PCT019080
+141,"Africa, Western Africa,Sierra Leone",fb_af_w_sierraleone,Population,Diversity,PCT019081
+142,"Africa, Western Africa,Other",fb_af_w_other,Population,Diversity,PCT019082
+143,"Africa, n.e.c.",fb_af_nec,Population,Diversity,PCT019083
+144,Oceania,fb_oceania,Population,Diversity,PCT019084
+145,"Oceania, Australia and New Zealand Subregion",fb_oc_australianewzealandsubregion,Population,Diversity,PCT019085
+146,"Oceania, Australia and New Zealand Subregion, Australia",fb_oc_australianewzealandsubregion_australia,Population,Diversity,PCT019086
+147,"Oceania, Australia and New Zealand Subregion, Other",fb_oc_australianewzealandsubregion_other,Population,Diversity,PCT019087
+148,"Oceania, Micronesia",fb_oc_micronesia,Population,Diversity,PCT019089
+149,"Oceania, n.e.c.",fb_oc_nec,Population,Diversity,PCT019091
+150,Americas,fb_americas,Population,Diversity,PCT019092
+151,"Americas, Latin America",fb_am_latinamerica,Population,Diversity,PCT019093
+152,"Americas, Latin America, Caribbean",fb_am_la_caribbean,Population,Diversity,PCT019094
+153,"Americas, Latin America, Caribbean, Barbados",fb_am_la_cbb_barbados,Population,Diversity,PCT019095
+154,"Americas, Latin America, Caribbean, Cuba",fb_am_la_cbb_cuba,Population,Diversity,PCT019096
+155,"Americas, Latin America, Caribbean, Dominican Republic",fb_am_la_cbb_dominicanrepublic,Population,Diversity,PCT019097
+156,"Americas, Latin America, Caribbean, Haiti",fb_am_la_cbb_haiti,Population,Diversity,PCT019098
+157,"Americas, Latin America, Caribbean, Jamaica",fb_am_la_cbb_jamaica,Population,Diversity,PCT019099
+158,"Americas, Latin America, Caribbean, Trinidad and Tobago",fb_am_la_cbb_trinidadandtobago,Population,Diversity,PCT019100
+159,"Americas, Latin America, Caribbean, Other",fb_am_la_cbb_other,Population,Diversity,PCT019101
+160,"Americas, Latin America, Central America",fb_am_la_centralamerica,Population,Diversity,PCT019102
+161,"Americas, Latin America, Central America,Costa Rica",fb_am_la_centr_costarica,Population,Diversity,PCT019105
+162,"Americas, Latin America, Central America,El Salvador",fb_am_la_centr_elsalvador,Population,Diversity,PCT019106
+163,"Americas, Latin America, Central America,Guatemala",fb_am_la_centr_guatemala,Population,Diversity,PCT019107
+164,"Americas, Latin America, Central America,Honduras",fb_am_la_centr_honduras,Population,Diversity,PCT019108
+165,"Americas, Latin America, Central America,Mexico",fb_am_la_centr_mexico,Population,Diversity,PCT019103
+166,"Americas, Latin America, Central America,Nicaragua",fb_am_la_centr_nicaragua,Population,Diversity,PCT019109
+167,"Americas, Latin America, Central America,Panama",fb_am_la_centr_panama,Population,Diversity,PCT019110
+168,"Americas, Latin America, Central America,Other",fb_am_la_centr_other,Population,Diversity,PCT019111
+169,"Americas, Latin America, South America",fb_am_la_southamerica,Population,Diversity,PCT019112
+170,"Americas, Latin America, South America, Argentina",fb_am_la_s_argentina,Population,Diversity,PCT019113
+171,"Americas, Latin America, South America,Bolivia",fb_am_la_s_bolivia,Population,Diversity,PCT019114
+172,"Americas, Latin America, South America,Brazil",fb_am_la_s_brazil,Population,Diversity,PCT019115
+173,"Americas, Latin America, South America,Chile",fb_am_la_s_chile,Population,Diversity,PCT019116
+174,"Americas, Latin America, South America,Columbia",fb_am_la_s_columbia,Population,Diversity,PCT019117
+175,"Americas, Latin America, South America,Ecuador",fb_am_la_s_ecuador,Population,Diversity,PCT019118
+176,"Americas, Latin America, South America,Guyana",fb_am_la_s_guyana,Population,Diversity,PCT019119
+177,"Americas, Latin America, South America,Peru",fb_am_la_s_peru,Population,Diversity,PCT019120
+178,"Americas, Latin America, South America,Venezuela",fb_am_la_s_venezuela,Population,Diversity,PCT019121
+179,"Americas, Latin America, South America,Other",fb_am_la_s_other,Population,Diversity,PCT019122
+180,"Americas, Northern America",fb_am_northern,Population,Diversity,PCT019123
+181,"Americas, Northern America, Canada",fb_am_n_canada,Population,Diversity,PCT019124
+182,"Americas, Northern America, Other",fb_am_n_other,Population,Diversity,PCT019125
+183,Total Educational Attainment by Sex for the Population 25+ Series,attainment_totalbysex_over25_series,Population,Educational Attainment,P037001
+184,Ed:Male,attainment_m,Population,Educational Attainment,P037002
+185,Ed:Male No Schooling,attainment_m_noschooling,Population,Educational Attainment,P037003
+186,Ed:Male Nursery School to 4th Grade,attainment_m_nurseryschoolto4thgrade,Population,Educational Attainment,P037004
+187,Ed:Male 5th to 6th Grade,attainment_m_5thto6thgrade,Population,Educational Attainment,P037005
+188,Ed:Male 7th to 8th Grade,attainment_m_7thto8thgrade,Population,Educational Attainment,P037006
+189,Ed:Male 9th Grade,attainment_m_9thgrade,Population,Educational Attainment,P037007
+190,Ed:Male 10th Grade,attainment_m_10thgrade,Population,Educational Attainment,P037008
+191,Ed:Male 11th Grade,attainment_m_11thgrade,Population,Educational Attainment,P037009
+192,Ed:Male 12th Grade No Diploma,attainment_m_12thgradenodiploma,Population,Educational Attainment,P037010
+193,Ed:Male High School Diploma or Equivalent,attainment_m_highschooldiplomaorequivalent,Population,Educational Attainment,P037011
+194,Ed:Male Some College Less than 1 Year,attainment_m_somecollegelessthan1year,Population,Educational Attainment,P037012
+195,Ed:Male Some College 1 or More Years No Degree,attainment_m_somecollege1ormoreyearsnodegree,Population,Educational Attainment,P037013
+196,Ed:Male Associate's Degree,attainment_m_associatesdegree,Population,Educational Attainment,P037014
+197,Ed:Male Bachelor's Degree,attainment_m_bachelorsdegree,Population,Educational Attainment,P037015
+198,Ed:Male Master's Degree,attainment_m_mastersdegree,Population,Educational Attainment,P037016
+199,Ed:Male Professional School Degree,attainment_m_professionalschooldegree,Population,Educational Attainment,P037017
+200,Ed:Male Doctorate Degree,attainment_m_doctoratedegree,Population,Educational Attainment,P037018
+201,Ed:Female,attainment_f,Population,Educational Attainment,P037019
+202,Ed:Female No Schooling,attainment_f_noschooling,Population,Educational Attainment,P037020
+203,Ed:Female Nursery School to 4th Grade,attainment_f_nurseryschoolto4thgrade,Population,Educational Attainment,P037021
+204,Ed:Female 5th to 6th Grade,attainment_f_5thto6thgrade,Population,Educational Attainment,P037022
+205,Ed:Female 7th to 8th Grade,attainment_f_7thto8thgrade,Population,Educational Attainment,P037023
+206,Ed:Female 9th Grade,attainment_f_9thgrade,Population,Educational Attainment,P037024
+207,Ed:Female 10th Grade,attainment_f_10thgrade,Population,Educational Attainment,P037025
+208,Ed:Female 11th Grade,attainment_f_11thgrade,Population,Educational Attainment,P037026
+209,Ed:Female 12th Grade No Diploma,attainment_f_12thgradenodiploma,Population,Educational Attainment,P037027
+210,Ed:Female High School Diploma or Equivalent,attainment_f_highschooldiplomaorequivalent,Population,Educational Attainment,P037028
+211,Ed:Female Some College Less than 1 Year,attainment_f_somecollegelessthan1year,Population,Educational Attainment,P037029
+212,Ed:Female Some College 1 or More Years No Degree,attainment_f_somecollege1ormoreyearsnodegree,Population,Educational Attainment,P037030
+213,Ed:Female Associate's Degree,attainment_f_associatesdegree,Population,Educational Attainment,P037031
+214,Ed:Female Bachelor's Degree,attainment_f_bachelorsdegree,Population,Educational Attainment,P037032
+215,Ed:Female Master's Degree,attainment_f_mastersdegree,Population,Educational Attainment,P037033
+216,Ed:Female Professional School Degree,attainment_f_professionalschooldegree,Population,Educational Attainment,P037034
+217,Ed:Female Doctorate Degree,attainment_f_doctoratedegree,Population,Educational Attainment,P037035
+218,Total Class of Worker by Sex by Industry Series,classworker_totalbysexandindustry_series,Employment,Class of Worker,P051001
+219,Male Industry1 Private for Profit,classworker_m_ind1_privateforprofit,Employment,Class of Worker,P051004
+220,Male Industry1 Private for Profit Employee,classworker_m_ind1_privateforprofit_employee,Employment,Class of Worker,P051005
+221,Male Industry1 Private for Profit Self Employed Incorporated Business,classworker_m_ind1_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051006
+222,Male Industry1 Private Not for Profit,classworker_m_ind1_privatenotforprofit,Employment,Class of Worker,P051007
+223,Male Industry1 Local Government,classworker_m_ind1_localgovt,Employment,Class of Worker,P051008
+224,Male Industry1 State Government,classworker_m_ind1_stategovt,Employment,Class of Worker,P051009
+225,Male Industry1 Federal Government,classworker_m_ind1_federalgovt,Employment,Class of Worker,P051010
+226,Male Industry1 Self Employed Non-Incorporated Business,classworker_m_ind1_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051011
+227,Male Industry1 Unpaid Family Worker,classworker_m_ind1_unpaidfamilyworker,Employment,Class of Worker,P051012
+228,Male Industry2 Private for Profit,classworker_m_ind2_privateforprofit,Employment,Class of Worker,P051015
+229,Male Industry2 Private for Profit Employee,classworker_m_ind2_privateforprofit_employee,Employment,Class of Worker,P051016
+230,Male Industry2 Private for Profit Self Employed Incorporated Business,classworker_m_ind2_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051017
+231,Male Industry2 Private Not for Profit,classworker_m_ind2_privatenotforprofit,Employment,Class of Worker,P051018
+232,Male Industry2 Local Government,classworker_m_ind2_localgovt,Employment,Class of Worker,P051019
+233,Male Industry2 State Government,classworker_m_ind2_stategovt,Employment,Class of Worker,P051020
+234,Male Industry2 Federal Government,classworker_m_ind2_federalgovt,Employment,Class of Worker,P051021
+235,Male Industry2 Self Employed Non-Incorporated Business,classworker_m_ind2_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051022
+236,Male Industry2 Unpaid Family Worker,classworker_m_ind2_unpaidfamilyworker,Employment,Class of Worker,P051023
+237,Male Industry3 Private for Profit,classworker_m_ind3_privateforprofit,Employment,Class of Worker,P051025
+238,Male Industry3 Private for Profit Employee,classworker_m_ind3_privateforprofit_employee,Employment,Class of Worker,P051026
+239,Male Industry3 Private for Profit Self Employed Incorporated Business,classworker_m_ind3_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051027
+240,Male Industry3 Private Not for Profit,classworker_m_ind3_privatenotforprofit,Employment,Class of Worker,P051028
+241,Male Industry3 Local Government,classworker_m_ind3_localgovt,Employment,Class of Worker,P051029
+242,Male Industry3 State Government,classworker_m_ind3_stategovt,Employment,Class of Worker,P051030
+243,Male Industry3 Federal Government,classworker_m_ind3_federalgovt,Employment,Class of Worker,P051031
+244,Male Industry3 Self Employed Non-Incorporated Business,classworker_m_ind3_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051032
+245,Male Industry3 Unpaid Family Worker,classworker_m_ind3_unpaidfamilyworker,Employment,Class of Worker,P051033
+246,Female Industry1 Private for Profit,classworker_f_ind1_privateforprofit,Employment,Class of Worker,P051036
+247,Female Industry1 Private for Profit Employee,classworker_f_ind1_privateforprofit_employee,Employment,Class of Worker,P051037
+248,Female Industry1 Private for Profit Self Employed Incorporated Business,classworker_f_ind1_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051038
+249,Female Industry1 Private Not for Profit,classworker_f_ind1_privatenotforprofit,Employment,Class of Worker,P051039
+250,Female Industry1 Local Government,classworker_f_ind1_localgovt,Employment,Class of Worker,P051040
+251,Female Industry1 State Government,classworker_f_ind1_stategovt,Employment,Class of Worker,P051041
+252,Female Industry1 Federal Government,classworker_f_ind1_federalgovt,Employment,Class of Worker,P051042
+253,Female Industry1 Self Employed Non-Incorporated Business,classworker_f_ind1_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051043
+254,Female Industry1 Unpaid Family Worker,classworker_f_ind1_unpaidfamilyworker,Employment,Class of Worker,P051044
+255,Female Industry2 Private for Profit,classworker_f_ind2_privateforprofit,Employment,Class of Worker,P051047
+256,Female Industry2 Private for Profit Employee,classworker_f_ind2_privateforprofit_employee,Employment,Class of Worker,P051048
+257,Female Industry2 Private for Profit Self Employed Incorporated Business,classworker_f_ind2_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051049
+258,Female Industry2 Private Not for Profit,classworker_f_ind2_privatenotforprofit,Employment,Class of Worker,P051050
+259,Female Industry2 Local Government,classworker_f_ind2_localgovt,Employment,Class of Worker,P051051
+260,Female Industry2 State Government,classworker_f_ind2_stategovt,Employment,Class of Worker,P051052
+261,Female Industry2 Federal Government,classworker_f_ind2_federalgovt,Employment,Class of Worker,P051053
+262,Female Industry2 Self Employed Non-Incorporated Business,classworker_f_ind2_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051054
+263,Female Industry2 Unpaid Family Worker,classworker_f_ind2_unpaidfamilyworker,Employment,Class of Worker,P051055
+264,Female Industry3 Private for Profit,classworker_f_ind3_privateforprofit,Employment,Class of Worker,P051057
+265,Female Industry3 Private for Profit Employee,classworker_f_ind3_privateforprofit_employee,Employment,Class of Worker,P051058
+266,Female Industry3 Private for Profit Self Employed Incorporated Business,classworker_f_ind3_privateforprofit_selfemployedincorporatedbusiness,Employment,Class of Worker,P051059
+267,Female Industry3 Private Not for Profit,classworker_f_ind3_privatenotforprofit,Employment,Class of Worker,P051060
+268,Female Industry3 Local Government,classworker_f_ind3_localgovt,Employment,Class of Worker,P051061
+269,Female Industry3 State Government,classworker_f_ind3_stategovt,Employment,Class of Worker,P051062
+270,Female Industry3 Federal Government,classworker_f_ind3_federalgovt,Employment,Class of Worker,P051063
+271,Female Industry3 Self Employed Non-Incorporated Business,classworker_f_ind3_selfemployednonincorporatedbusiness,Employment,Class of Worker,P051064
+272,Female Industry3 Unpaid Family Worker,classworker_f_ind3_unpaidfamilyworker,Employment,Class of Worker,P051065
+273,Total Sex by Age by Employment Status for the 16+ Population Series,lfstatus_total_sexbyagebyemploymentstatus16+_series,Employment,Labor Force Status,PCT035001
+274,Male 16 to 19 Civilian,lfstatus_mciv_16to19,Employment,Labor Force Status,PCT035006
+275,Male 16 to 19 Civilian Employed,lfstatus_mciv_16to19_employed,Employment,Labor Force Status,PCT035007
+276,Male 16 to 19 Civilian Unemployed,lfstatus_mciv_16to19_unemployed,Employment,Labor Force Status,PCT035008
+277,Male 20 and 21 Civilian,lfstatus_mciv_20to21,Employment,Labor Force Status,PCT035013
+278,Male 20 and 21 Civilian Employed,lfstatus_mciv_20to21_employed,Employment,Labor Force Status,PCT035014
+279,Male 20 and 21 Civilian Unemployed,lfstatus_mciv_20to21_unemployed,Employment,Labor Force Status,PCT035015
+280,Male 22 to 24 Civilian,lfstatus_mciv_22to24,Employment,Labor Force Status,PCT035020
+281,Male 22 to 24 Civilian Employed,lfstatus_mciv_22to24_employed,Employment,Labor Force Status,PCT035021
+282,Male 22 to 24 Civilian Unemployed,lfstatus_mciv_22to24_unemployed,Employment,Labor Force Status,PCT035022
+283,Male 25 to 29 Civilian,lfstatus_mciv_25to29,Employment,Labor Force Status,PCT035027
+284,Male 25 to 29 Civilian Employed,lfstatus_mciv_25to29_employed,Employment,Labor Force Status,PCT035028
+285,Male 25 to 29 Civilian Unemployed,lfstatus_mciv_25to29_unemployed,Employment,Labor Force Status,PCT035029
+286,Male 30 to 34 Civilian,lfstatus_mciv_30to34,Employment,Labor Force Status,PCT035034
+287,Male 30 to 34 Civilian Employed,lfstatus_mciv_30to34_employed,Employment,Labor Force Status,PCT035035
+288,Male 30 to 34 Civilian Unemployed,lfstatus_mciv_30to34_unemployed,Employment,Labor Force Status,PCT035036
+289,Male 35 to 44 Civilian,lfstatus_mciv_35to44,Employment,Labor Force Status,PCT035041
+290,Male 35 to 44 Civilian Employed,lfstatus_mciv_35to44_employed,Employment,Labor Force Status,PCT035042
+291,Male 35 to 44 Civilian Unemployed,lfstatus_mciv_35to44_unemployed,Employment,Labor Force Status,PCT035043
+292,Male 45 to 54 Civilian,lfstatus_mciv_45to54,Employment,Labor Force Status,PCT035048
+293,Male 45 to 54 Civilian Employed,lfstatus_mciv_45to54_employed,Employment,Labor Force Status,PCT035049
+294,Male 45 to 54 Civilian Unemployed,lfstatus_mciv_45to54_unemployed,Employment,Labor Force Status,PCT035050
+295,Male 55 to 59 Civilian,lfstatus_mciv_55to59,Employment,Labor Force Status,PCT035055
+296,Male 55 to 59 Civilian Employed,lfstatus_mciv_55to59_employed,Employment,Labor Force Status,PCT035056
+297,Male 55 to 59 Civilian Unemployed,lfstatus_mciv_55to59_unemployed,Employment,Labor Force Status,PCT035057
+298,Male 60 and 61 Civilian,lfstatus_mciv_60to61,Employment,Labor Force Status,PCT035062
+299,Male 60 and 61 Civilian Employed,lfstatus_mciv_60to61_employed,Employment,Labor Force Status,PCT035063
+300,Male 60 and 61 Civilian Unemployed,lfstatus_mciv_60to61_unemployed,Employment,Labor Force Status,PCT035064
+301,Male 62 to 64 Civilian,lfstatus_mciv_62to64,Employment,Labor Force Status,PCT035069
+302,Male 62 to 64 Civilian Employed,lfstatus_mciv_62to64_employed,Employment,Labor Force Status,PCT035070
+303,Male 62 to 64 Civilian Unemployed,lfstatus_mciv_62to64_unemployed,Employment,Labor Force Status,PCT035071
+304,Male 65 to 69 Civilian,lfstatus_mciv_65to69,Employment,Labor Force Status,PCT035076
+305,Male 65 to 69 Civilian Employed,lfstatus_mciv_65to69_employed,Employment,Labor Force Status,PCT035077
+306,Male 65 to 69 Civilian Unemployed,lfstatus_mciv_65to69_unemployed,Employment,Labor Force Status,PCT035078
+307,Male 70 to 74 Civilian,lfstatus_mciv_70to74,Employment,Labor Force Status,PCT035083
+308,Male 70 to 74 Civilian Employed,lfstatus_mciv_70to74_employed,Employment,Labor Force Status,PCT035084
+309,Male 70 to 74 Civilian Unemployed,lfstatus_mciv_70to74_unemployed,Employment,Labor Force Status,PCT035085
+310,Male 75+ Civilian,lfstatus_mciv_75+,Employment,Labor Force Status,PCT035090
+311,Male 75+ Civilian Employed,lfstatus_mciv_75+_employed,Employment,Labor Force Status,PCT035091
+312,Male 75+ Civilian Unemployed,lfstatus_mciv_75+_unemployed,Employment,Labor Force Status,PCT035092
+313,Female 16 to 19 Civilian,lfstatus_fciv_16to19,Employment,Labor Force Status,PCT035098
+314,Female 16 to 19 Civilian Employed,lfstatus_fciv_16to19_employed,Employment,Labor Force Status,PCT035099
+315,Female 16 to 19 Civilian Unemployed,lfstatus_fciv_16to19_unemployed,Employment,Labor Force Status,PCT035100
+316,Female 20 and 21 Civilian,lfstatus_fciv_20to21,Employment,Labor Force Status,PCT035105
+317,Female 20 and 21 Civilian Employed,lfstatus_fciv_20to21_employed,Employment,Labor Force Status,PCT035106
+318,Female 20 and 21 Civilian Unemployed,lfstatus_fciv_20to21_unemployed,Employment,Labor Force Status,PCT035107
+319,Female 22 to 24 Civilian,lfstatus_fciv_22to24,Employment,Labor Force Status,PCT035112
+320,Female 22 to 24 Civilian Employed,lfstatus_fciv_22to24_employed,Employment,Labor Force Status,PCT035113
+321,Female 22 to 24 Civilian Unemployed,lfstatus_fciv_22to24_unemployed,Employment,Labor Force Status,PCT035114
+322,Female 25 to 29 Civilian,lfstatus_fciv_25to29,Employment,Labor Force Status,PCT035119
+323,Female 25 to 29 Civilian Employed,lfstatus_fciv_25to29_employed,Employment,Labor Force Status,PCT035120
+324,Female 25 to 29 Civilian Unemployed,lfstatus_fciv_25to29_unemployed,Employment,Labor Force Status,PCT035121
+325,Female 30 to 34 Civilian,lfstatus_fciv_30to34,Employment,Labor Force Status,PCT035126
+326,Female 30 to 34 Civilian Employed,lfstatus_fciv_30to34_employed,Employment,Labor Force Status,PCT035127
+327,Female 30 to 34 Civilian Unemployed,lfstatus_fciv_30to34_unemployed,Employment,Labor Force Status,PCT035128
+328,Female 35 to 44 Civilian,lfstatus_fciv_35to44,Employment,Labor Force Status,PCT035133
+329,Female 35 to 44 Civilian Employed,lfstatus_fciv_35to44_employed,Employment,Labor Force Status,PCT035134
+330,Female 35 to 44 Civilian Unemployed,lfstatus_fciv_35to44_unemployed,Employment,Labor Force Status,PCT035135
+331,Female 45 to 54 Civilian,lfstatus_fciv_45to54,Employment,Labor Force Status,PCT035140
+332,Female 45 to 54 Civilian Employed,lfstatus_fciv_45to54_employed,Employment,Labor Force Status,PCT035141
+333,Female 45 to 54 Civilian Unemployed,lfstatus_fciv_45to54_unemployed,Employment,Labor Force Status,PCT035142
+334,Female 55 to 59 Civilian,lfstatus_fciv_55to59,Employment,Labor Force Status,PCT035147
+335,Female 55 to 59 Civilian Employed,lfstatus_fciv_55to59_employed,Employment,Labor Force Status,PCT035148
+336,Female 55 to 59 Civilian Unemployed,lfstatus_fciv_55to59_unemployed,Employment,Labor Force Status,PCT035149
+337,Female 60 and 61 Civilian,lfstatus_fciv_60to61,Employment,Labor Force Status,PCT035154
+338,Female 60 and 61 Civilian Employed,lfstatus_fciv_60to61_employed,Employment,Labor Force Status,PCT035155
+339,Female 60 and 61 Civilian Unemployed,lfstatus_fciv_60to61_unemployed,Employment,Labor Force Status,PCT035156
+340,Female 62 to 64 Civilian,lfstatus_fciv_62to64,Employment,Labor Force Status,PCT035161
+341,Female 62 to 64 Civilian Employed,lfstatus_fciv_62to64_employed,Employment,Labor Force Status,PCT035162
+342,Female 62 to 64 Civilian Unemployed,lfstatus_fciv_62to64_unemployed,Employment,Labor Force Status,PCT035163
+343,Female 65 to 69 Civilian,lfstatus_fciv_65to69,Employment,Labor Force Status,PCT035168
+344,Female 65 to 69 Civilian Employed,lfstatus_fciv_65to69_employed,Employment,Labor Force Status,PCT035169
+345,Female 65 to 69 Civilian Unemployed,lfstatus_fciv_65to69_unemployed,Employment,Labor Force Status,PCT035170
+346,Female 70 to 74 Civilian,lfstatus_fciv_70to74,Employment,Labor Force Status,PCT035175
+347,Female 70 to 74 Civilian Employed,lfstatus_fciv_70to74_employed,Employment,Labor Force Status,PCT035176
+348,Female 70 to 74 Civilian Unemployed,lfstatus_fciv_70to74_unemployed,Employment,Labor Force Status,PCT035177
+349,Female 75+ Civilian,lfstatus_fciv_75+,Employment,Labor Force Status,PCT035182
+350,Female 75+ Civilian Employed,lfstatus_fciv_75+_employed,Employment,Labor Force Status,PCT035183
+351,Female 75+ Civilian Unemployed,lfstatus_fciv_75+_unemployed,Employment,Labor Force Status,PCT035184
+352,Per Capita Personal Income in the Past 12 Months in Most Recent Year Dollars,percapita_income,Employment,Income,P082001
+353,Industry Employment Sex by Industry Civilian Population Total Series,industry_sexbyindustrycivilianpop_total_series,Employment,Industry Employment,P049001
+354,Industry Employment Total Male,industry_sexbyindustrycivilianpop_totalmale,Employment,Industry Employment,P049002
+355,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining",industry_m_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,P049003
+356,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_m_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,P049004
+357,"Industry Employment Male Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_m_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,P049005
+358,Industry Employment Male Construction,industry_m_construction,Employment,Industry Employment,P049006
+359,Industry Employment Male Manufacturing,industry_m_manufacturing,Employment,Industry Employment,P049007
+360,Industry Employment Male Wholesale Trade,industry_m_wholesaletrade,Employment,Industry Employment,P049008
+361,Industry Employment Male Retail Trade,industry_m_retailtrade,Employment,Industry Employment,P049009
+362,"Industry Employment Male Transportation, Warehousing, and Utilities",industry_m_transportation_warehousing_utilities,Employment,Industry Employment,P049010
+363,"Industry Employment Male Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_m_transut_transportation_warehousing,Employment,Industry Employment,P049011
+364,"Industry Employment Male Transportation, Warehousing, and Utilities: Utilities",industry_m_transut_utilities,Employment,Industry Employment,P049012
+365,Industry Employment Male Information,industry_m_information,Employment,Industry Employment,P049013
+366,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing",industry_m_finance_insurance_realestate_rental,Employment,Industry Employment,P049014
+367,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_m_finrent_finance_insurance,Employment,Industry Employment,P049015
+368,"Industry Employment Male Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_m_finrent_realestate_rental,Employment,Industry Employment,P049016
+369,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management",industry_m_professional_scientific_managementadmin_waste,Employment,Industry Employment,P049017
+370,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_m_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,P049018
+371,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_m_profwaste_managementcompaniesenterprises,Employment,Industry Employment,P049019
+372,"Industry Employment Male Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_m_adminandsupportandwaste,Employment,Industry Employment,P049020
+373,"Industry Employment Male Educational, Healthcare, and Social Assistance",industry_m_educational_healthcare_socialassistance,Employment,Industry Employment,P049021
+374,"Industry Employment Male Educational, Healthcare, and Social Assistance: Educational",industry_m_edsocial_educational,Employment,Industry Employment,P049022
+375,"Industry Employment Male Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_m_edsocial_healthcare_socialassistance,Employment,Industry Employment,P049023
+376,"Industry Employment Male Entertainment and Recreation, Accommodation and Food",industry_m_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,P049024
+377,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_m_artsaccom_arts_entertainmentrec,Employment,Industry Employment,P049025
+378,"Industry Employment Male Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_m_artsaccom_accommodation_food,Employment,Industry Employment,P049026
+379,Industry Employment Male Other Services Not Public Administration,industry_m_otherservices_notpublicadmin,Employment,Industry Employment,P049027
+380,Industry Employment Male Public Administration,industry_m_publicadmin,Employment,Industry Employment,P049028
+381,Industry Employment Total Female,industry_sexbyindustrycivilianpop_totalfemale,Employment,Industry Employment,P049029
+382,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining",industry_f_agriculture_forestry_fishing_hunting_mining,Employment,Industry Employment,P049030
+383,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Agriculture, Forestry, Fishing and Hunting",industry_f_agmining_agriculture_forestry_fishing_hunting,Employment,Industry Employment,P049031
+384,"Industry Employment Female Agriculture, Forestry, Fishing and Hunting, Mining: Mining, Quarrying, Gas and Oil Extraction",industry_f_agmining_mining_quarrying_oilandgas,Employment,Industry Employment,P049032
+385,Industry Employment Female Construction,industry_f_construction,Employment,Industry Employment,P049033
+386,Industry Employment Female Manufacturing,industry_f_manufacturing,Employment,Industry Employment,P049034
+387,Industry Employment Female Wholesale Trade,industry_f_wholesaletrade,Employment,Industry Employment,P049035
+388,Industry Employment Female Retail Trade,industry_f_retailtrade,Employment,Industry Employment,P049036
+389,"Industry Employment Female Transportation, Warehousing, and Utilities",industry_f_transportation_warehousing_utilities,Employment,Industry Employment,P049037
+390,"Industry Employment Female Transportation, Warehousing, and Utilities: Transportation and Warehousing",industry_f_transut_transportation_warehousing,Employment,Industry Employment,P049038
+391,"Industry Employment Female Transportation, Warehousing, and Utilities: Utilities",industry_f_transut_utilities,Employment,Industry Employment,P049039
+392,Industry Employment Female Information,industry_f_information,Employment,Industry Employment,P049040
+393,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing",industry_f_finance_insurance_realestate_rental,Employment,Industry Employment,P049041
+394,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Finance and Insurance",industry_f_finrent_finance_insurance,Employment,Industry Employment,P049042
+395,"Industry Employment Female Finance, Insurance, Real Estate, Rental and Leasing: Real Estate, Rental and Leasing",industry_f_finrent_realestate_rental,Employment,Industry Employment,P049043
+396,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management",industry_f_professional_scientific_managementadmin_waste,Employment,Industry Employment,P049044
+397,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Professional, Scientific, and Technical Services",industry_f_profwaste_professional_scientific_technicalservices,Employment,Industry Employment,P049045
+398,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Management of Companies and Enterprises",industry_f_profwaste_managementcompaniesenterprises,Employment,Industry Employment,P049046
+399,"Industry Employment Female Professional, Scientific, Management, Administrative, Waste Management: Administrative Support and Waste Management",industry_f_adminandsupportandwaste,Employment,Industry Employment,P049047
+400,"Industry Employment Female Educational, Healthcare, and Social Assistance",industry_f_educational_healthcare_socialassistance,Employment,Industry Employment,P049048
+401,"Industry Employment Female Educational, Healthcare, and Social Assistance: Educational",industry_f_edsocial_educational,Employment,Industry Employment,P049049
+402,"Industry Employment Female Educational, Healthcare, and Social Assistance: Healthcare and Social Assistance",industry_f_edsocial_healthcare_socialassistance,Employment,Industry Employment,P049050
+403,"Industry Employment Female Entertainment and Recreation, Accommodation and Food",industry_f_arts_entertainmentrec_accommodation_food,Employment,Industry Employment,P049051
+404,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Entertainment and Recreation",industry_f_artsaccom_arts_entertainmentrec,Employment,Industry Employment,P049052
+405,"Industry Employment Female Entertainment and Recreation, Accommodation and Food: Accommodation and Food",industry_f_artsaccom_accommodation_food,Employment,Industry Employment,P049053
+406,Industry Employment Female Other Services Not Public Administration,industry_f_otherservices_notpublicadmin,Employment,Industry Employment,P049054
+407,Industry Employment Female Public Administration,industry_f_publicadmin,Employment,Industry Employment,P049055
+408,Occupational Employment by Sex Total Series,occupation_sexbyoccupationcivilianpop_total_series,Employment,Occupational Employment,P050001
+409,Occupational Employment Total Male,occupation_sexbyoccupationcivilianpop_totalmale,Employment,Occupational Employment,P050002
+410,"Occupational Employment Male Management, Professional, and Related: Management Occupations Except Farmers and Farm Managers",occupation_m_management,Employment,Occupational Employment,P050005
+411,"Occupational Employment Male Management, Professional, and Related: Farmers and Farm Managers",occupation_m_farmersandfarmmanagers,Employment,Occupational Employment,P050006
+412,"Occupational Employment Male Management, Professional, and Related: Business and Financial Operations Occupations",occupation_m_businessandfinancial,Employment,Occupational Employment,P050007
+413,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_m_computerandmathematical,Employment,Occupational Employment,P050011
+414,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_m_architectureandengineering,Employment,Occupational Employment,P050012
+415,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_m_lifephysicalsocialscience,Employment,Occupational Employment,P050015
+416,"Occupational Employment Male Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_m_communityandsocialservices,Employment,Occupational Employment,P050016
+417,"Occupational Employment Male Management, Professional, and Related: Legal Occupations",occupation_m_legal,Employment,Occupational Employment,P050027
+418,"Occupational Employment Male Management, Professional, and Related: Education, Training, and Library Occupations",occupation_m_educationtrainingandlibrary,Employment,Occupational Employment,P050018
+419,"Occupational Employment Male Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_m_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,P050019
+420,"Occupational Employment Male Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_m_healthcarepractitionersandtechnical,Employment,Occupational Employment,P050020
+421,Occupational Employment Male Service Occupations: Healthcare Support Occupations,occupation_m_healthcaresupport,Employment,Occupational Employment,P050024
+422,Occupational Employment Male Service Occupations: Protective Service Occupations,occupation_m_protectiveservice,Employment,Occupational Employment,P050025
+423,Occupational Employment Male Service Occupations: Food Preparations and Serving Related Occupations,occupation_m_foodprepandserving,Employment,Occupational Employment,P050028
+424,Occupational Employment Male Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_m_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,P050029
+425,Occupational Employment Male Service Occupations: Personal Care and Service Occupations,occupation_m_personalcareandservice,Employment,Occupational Employment,P050030
+426,Occupational Employment Male Sales and Office Occupations: Sales and Related Occupations,occupation_m_salesandrelated,Employment,Occupational Employment,P050032
+427,Occupational Employment Male Sales and Office Occupations: Office and Administrative Support Occupations,occupation_m_officeandadmin,Employment,Occupational Employment,P050033
+428,"Occupational Employment Male Farming, Fishing, and Forestry Occupations",occupation_m_farmingfishingandforestry,Employment,Occupational Employment,P050034
+429,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_m_constructionandextraction,Employment,Occupational Employment,P050036
+430,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_m_installationmaintenanceandrepair,Employment,Occupational Employment,P050040
+431,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_m_production,Employment,Occupational Employment,P050042
+432,"Occupational Employment Male Construction, Extraction, and Maintenance Occupations: Transportation and Material Moving Occupations",occupation_m_transportationandmaterialmoving,Employment,Occupational Employment,P050043
+433,Occupational Employment Total Female,occupation_sexbyoccupationcivilianpop_totalfemale,Employment,Occupational Employment,P050049
+434,"Occupational Employment Female Management, Professional, and Related: Management Occupations Except Farmers and Farm Managers",occupation_f_management,Employment,Occupational Employment,P050052
+435,"Occupational Employment Female Management, Professional, and Related: Farmers and Farm Managers",occupation_f_farmersandfarmmanagers,Employment,Occupational Employment,P050053
+436,"Occupational Employment Female Management, Professional, and Related: Business and Financial Operations Occupations",occupation_f_businessandfinancial,Employment,Occupational Employment,P050054
+437,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Computer and Mathematical Occupations",occupation_f_computerandmathematical,Employment,Occupational Employment,P050058
+438,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Architecture and Engineering Occupations",occupation_f_architectureandengineering,Employment,Occupational Employment,P050059
+439,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Life, Physical, and Social Science Occupations",occupation_f_lifephysicalsocialscience,Employment,Occupational Employment,P050062
+440,"Occupational Employment Female Management, Professional, and Related: Professional and Related Occupations: Community and Social Services Occupations",occupation_f_communityandsocialservices,Employment,Occupational Employment,P050063
+441,"Occupational Employment Female Management, Professional, and Related: Legal Occupations",occupation_f_legal,Employment,Occupational Employment,P050064
+442,"Occupational Employment Female Management, Professional, and Related: Education, Training, and Library Occupations",occupation_f_educationtrainingandlibrary,Employment,Occupational Employment,P050065
+443,"Occupational Employment Female Management, Professional, and Related: Arts, Design, Entertainment, Sports, and Media Occupations",occupation_f_artsdesignentertainmentsportsandmedia,Employment,Occupational Employment,P050066
+444,"Occupational Employment Female Management, Professional, and Related: Healthcare Practitioners and Technical Occupations",occupation_f_healthcarepractitionersandtechnical,Employment,Occupational Employment,P050067
+445,Occupational Employment Female Service Occupations: Healthcare Support Occupations,occupation_f_healthcaresupport,Employment,Occupational Employment,P050071
+446,Occupational Employment Female Service Occupations: Protective Service Occupations,occupation_f_protectiveservice,Employment,Occupational Employment,P050072
+447,Occupational Employment Female Service Occupations: Food Preparations and Serving Related Occupations,occupation_f_foodprepandserving,Employment,Occupational Employment,P050075
+448,Occupational Employment Female Service Occupations: Building and Grounds Cleaning and Maintenance Occupations,occupation_f_buildingandgroundscleaningandmaintenance,Employment,Occupational Employment,P050076
+449,Occupational Employment Female Service Occupations: Personal Care and Service Occupations,occupation_f_personalcareandservice,Employment,Occupational Employment,P050077
+450,Occupational Employment Female Sales and Office Occupations: Sales and Related Occupations,occupation_f_salesandrelated,Employment,Occupational Employment,P050079
+451,Occupational Employment Female Sales and Office Occupations: Office and Administrative Support Occupations,occupation_f_officeandadmin,Employment,Occupational Employment,P050080
+452,"Occupational Employment Female Farming, Fishing, and Forestry Occupations",occupation_f_farmingfishingandforestry,Employment,Occupational Employment,P050081
+453,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Construction and Extraction Occupations",occupation_f_constructionandextraction,Employment,Occupational Employment,P050083
+454,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Installation, Maintenance, and Repair Occupations",occupation_f_installationmaintenanceandrepair,Employment,Occupational Employment,P050087
+455,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Production Occupations",occupation_f_production,Employment,Occupational Employment,P050089
+456,"Occupational Employment Female Construction, Extraction, and Maintenance Occupations: Transportation and Material Moving Occupations",occupation_f_transportationandmaterialmoving,Employment,Occupational Employment,P050090
+457,Veteran: Total Veteran,veteran_total_series,Population,Veteran Status,P039001
+458,Veteran:Total Male,veteran_total_m,Population,Veteran Status,P039002
+459,Veteran: Male 18 to 64,veteran_m18to64,Population,Veteran Status,P039003
+460,Veteran: Male 18 to 64 In Armed Forces,veteran_m18to64_armedforces,Population,Veteran Status,P039004
+461,Veteran: Male 18 to 64 Civilian,veteran_m18to64_civilian,Population,Veteran Status,P039005
+462,Veteran: Male 18 to 64 Civilian Veteran,veteran_m18to64_civilian_veteran,Population,Veteran Status,P039006
+463,Veteran: Male 18 to 64 Civilian Nonveteran,veteran_m18to64_civilian_nonveteran,Population,Veteran Status,P039007
+464,Veteran: Male 65 and Older,veteran_m65andolder,Population,Veteran Status,P039008
+465,Veteran: Male 65 and Older In Armed Forces,veteran_m65andolder_armedforces,Population,Veteran Status,P039009
+466,Veteran: Male 65 and Older Civilian,veteran_m65andolder_civilian,Population,Veteran Status,P039010
+467,Veteran: Male 65 and Older Civilian Veteran,veteran_m65andolder_civilian_veteran,Population,Veteran Status,P039011
+468,Veteran: Male 65 and Older Civilian Nonveteran,veteran_m65andolder_civilian_nonveteran,Population,Veteran Status,P039012
+469,Veteran:Total Female,veteran_total_f,Population,Veteran Status,P039013
+470,Veteran: Female 18 to 64,veteran_f18to64,Population,Veteran Status,P039014
+471,Veteran: Female 18 to 64 In Armed Forces,veteran_f18to64_armedforces,Population,Veteran Status,P039015
+472,Veteran: Female 18 to 64 Civilian,veteran_f18to64_civilian,Population,Veteran Status,P039016
+473,Veteran: Female 18 to 64 Civilian Veteran,veteran_f18to64_civilian_veteran,Population,Veteran Status,P039017
+474,Veteran: Female 18 to 64 Civilian Nonveteran,veteran_f18to64_civilian_nonveteran,Population,Veteran Status,P039018
+475,Veteran: Female 65 and Older,veteran_f65andolder,Population,Veteran Status,P039019
+476,Veteran: Female 65 and Older In Armed Forces,veteran_f65andolder_armedforces,Population,Veteran Status,P039020
+477,Veteran: Female 65 and Older Civilian,veteran_f65andolder_civilian,Population,Veteran Status,P039021
+478,Veteran: Female 65 and Older Civilian Veteran,veteran_f65andolder_civilian_veteran,Population,Veteran Status,P039022
+479,Veteran: Female 65 and Older Civilian Nonveteran,veteran_f65andolder_civilian_nonveteran,Population,Veteran Status,P039023
+480,Language Spoken at Home by Ability to Speak English for the Population 5+,language_languagebyabilitytospeakenglish_total5+_series,Population,Language,P019001
+481,Language Spoken at Home by Ability to Speak English Total 5 to 17,language_total_5to17,Population,Language,P019002
+482,Language Spoken at Home Speaks Only English 5 to 17,language_speakonlyenglish_5to17,Population,Language,P019003
+483,Language Spoken at Home Speaks Spanish 5 to 17,language_speakspanish_5to17,Population,Language,P019004
+484,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 5 to 17",language_speakspanish_speakenglishverywell_5to17,Population,Language,P019005
+485,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 5 to 17",language_speakspanish_speakenglishwell_5to17,Population,Language,P019006
+486,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 5 to 17",language_speakspanish_speakenglishnotwell_5to17,Population,Language,P019007
+487,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 5 to 17",language_speakspanish_speakenglishnotatall_5to17,Population,Language,P019008
+488,Language Spoken at Home Speaks Other Indo-European Language 5 to 17,language_speakotherindoeuro_5to17,Population,Language,P019009
+489,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 5 to 17",language_speakotherindoeuro_speakenglishverywell_5to17,Population,Language,P019010
+490,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 5 to 17",language_speakotherindoeuro_speakenglishwell_5to17,Population,Language,P019011
+491,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 5 to 17",language_speakotherindoeuro_speakenglishnotwell_5to17,Population,Language,P019012
+492,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 5 to 17",language_speakotherindoeuro_speakenglishnotatall_5to17,Population,Language,P019013
+493,Language Spoken at Home Speaks Asian or Pacific Island 5 to 17,language_speakasianpacificisland_5to17,Population,Language,P019014
+494,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 5 to 17",language_speakasianpacificisland_speakenglishverywell_5to17,Population,Language,P019015
+495,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 5 to 17",language_speakasianpacificisland_speakenglishwell_5to17,Population,Language,P019016
+496,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 5 to 17",language_speakasianpacificisland_speakenglishnotwell_5to17,Population,Language,P019017
+497,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 5 to 17",language_speakasianpacificisland_speakenglishnotatall_5to17,Population,Language,P019018
+498,Language Spoken at Home Speaks Other Language 5 to 17,language_speakother_5to17,Population,Language,P019019
+499,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 5 to 17",language_speakother_speakenglishverywell_5to17,Population,Language,P019020
+500,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 5 to 17",language_speakother_speakenglishwell_5to17,Population,Language,P019021
+501,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 5 to 17",language_speakother_speakenglishnotwell_5to17,Population,Language,P019022
+502,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 5 to 17",language_speakother_speakenglishnotatall_5to17,Population,Language,P019023
+503,Language Spoken at Home by Ability to Speak English Total 18 to 64,language_total_18to64,Population,Language,P019024
+504,Language Spoken at Home Speaks Only English 18 to 64,language_speakonlyenglish_18to64,Population,Language,P019025
+505,Language Spoken at Home Speaks Spanish 18 to 64,language_speakspanish_18to64,Population,Language,P019026
+506,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 18 to 64",language_speakspanish_speakenglishverywell_18to64,Population,Language,P019027
+507,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 18 to 64",language_speakspanish_speakenglishwell_18to64,Population,Language,P019028
+508,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 18 to 64",language_speakspanish_speakenglishnotwell_18to64,Population,Language,P019029
+509,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 18 to 64",language_speakspanish_speakenglishnotatall_18to64,Population,Language,P019030
+510,Language Spoken at Home Speaks Other Indo-European Language 18 to 64,language_speakotherindoeuro_18to64,Population,Language,P019031
+511,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 18 to 64",language_speakotherindoeuro_speakenglishverywell_18to64,Population,Language,P019032
+512,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 18 to 64",language_speakotherindoeuro_speakenglishwell_18to64,Population,Language,P019033
+513,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 18 to 64",language_speakotherindoeuro_speakenglishnotwell_18to64,Population,Language,P019034
+514,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 18 to 64",language_speakotherindoeuro_speakenglishnotatall_18to64,Population,Language,P019035
+515,Language Spoken at Home Speaks Asian or Pacific Island 18 to 64,language_speakasianpacificisland_18to64,Population,Language,P019036
+516,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 18 to 64",language_speakasianpacificisland_speakenglishverywell_18to64,Population,Language,P019037
+517,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 18 to 64",language_speakasianpacificisland_speakenglishwell_18to64,Population,Language,P019038
+518,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 18 to 64",language_speakasianpacificisland_speakenglishnotwell_18to64,Population,Language,P019039
+519,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 18 to 64",language_speakasianpacificisland_speakenglishnotatall_18to64,Population,Language,P019040
+520,Language Spoken at Home Speaks Other Language 18 to 64,language_speakother_18to64,Population,Language,P019041
+521,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 18 to 64",language_speakother_speakenglishverywell_18to64,Population,Language,P019042
+522,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 18 to 64",language_speakother_speakenglishwell_18to64,Population,Language,P019043
+523,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 18 to 64",language_speakother_speakenglishnotwell_18to64,Population,Language,P019044
+524,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 18 to 64",language_speakother_speakenglishnotatall_18to64,Population,Language,P019045
+525,Language Spoken at Home by Ability to Speak English Total 65+,language_total_65+,Population,Language,P019046
+526,Language Spoken at Home Speaks Only English 65+,language_speakonlyenglish_65+,Population,Language,P019047
+527,Language Spoken at Home Speaks Spanish 65+,language_speakspanish_65+,Population,Language,P019048
+528,"Language Spoken at Home Speaks Spanish: Speaks English ""Very Well"" 65+",language_speakspanish_speakenglishverywell_65+,Population,Language,P019049
+529,"Language Spoken at Home Speaks Spanish: Speaks English ""Well"" 65+",language_speakspanish_speakenglishwell_65+,Population,Language,P019050
+530,"Language Spoken at Home Speaks Spanish: Speaks English ""Not Well"" 65+",language_speakspanish_speakenglishnotwell_65+,Population,Language,P019051
+531,"Language Spoken at Home Speaks Spanish: Speaks English ""Not at All"" 65+",language_speakspanish_speakenglishnotatall_65+,Population,Language,P019052
+532,Language Spoken at Home Speaks Other Indo-European Language 65+,language_speakotherindoeuro_65+,Population,Language,P019053
+533,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Very Well"" 65+",language_speakotherindoeuro_speakenglishverywell_65+,Population,Language,P019054
+534,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Well"" 65+",language_speakotherindoeuro_speakenglishwell_65+,Population,Language,P019055
+535,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not Well"" 65+",language_speakotherindoeuro_speakenglishnotwell_65+,Population,Language,P019056
+536,"Language Spoken at Home Speaks Other Indo-European Language: Speaks English ""Not at All"" 65+",language_speakotherindoeuro_speakenglishnotatall_65+,Population,Language,P019057
+537,Language Spoken at Home Speaks Asian or Pacific Island 65+,language_speakasianpacificisland_65+,Population,Language,P019058
+538,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Very Well"" 65+",language_speakasianpacificisland_speakenglishverywell_65+,Population,Language,P019059
+539,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Well"" 65+",language_speakasianpacificisland_speakenglishwell_65+,Population,Language,P019060
+540,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not Well"" 65+",language_speakasianpacificisland_speakenglishnotwell_65+,Population,Language,P019061
+541,"Language Spoken at Home Speaks Asian or Pacific Island: Speaks English ""Not at All"" 65+",language_speakasianpacificisland_speakenglishnotatall_65+,Population,Language,P019062
+542,Language Spoken at Home Speaks Other Language 65+,language_speakother_65+,Population,Language,P019063
+543,"Language Spoken at Home Speaks Other Language: Speaks English ""Very Well"" 65+",language_speakother_speakenglishverywell_65+,Population,Language,P019064
+544,"Language Spoken at Home Speaks Other Language: Speaks English ""Well"" 65+",language_speakother_speakenglishwell_65+,Population,Language,P019065
+545,"Language Spoken at Home Speaks Other Language: Speaks English ""Not Well"" 65+",language_speakother_speakenglishnotwell_65+,Population,Language,P019066
+546,"Language Spoken at Home Speaks Other Language: Speaks English ""Not at All"" 65+",language_speakother_speakenglishnotatall_65+,Population,Language,P019067
+547,Disability: Total Disabilities Tallied for the Civilian Noninstitutionalized Population 5 Years and Over with Disabilities,disability_totaldisabilities,Population,Disability,P041001
+548,Household Income Total Series,hhincome_total_series,Households,Household Income,P052001
+549,"Household Income Less than $10,000",hhincome_lessthan10000,Households,Household Income,P052002
+550,"Household Income 10,000 to 14,999",hhincome_10to14999,Households,Household Income,P052003
+551,"Household Income 15,000 to 19,999",hhincome_15to19999,Households,Household Income,P052004
+552,"Household Income 20,000 to 24,999",hhincome_20to24999,Households,Household Income,P052005
+553,"Household Income 25,000 to 29,999",hhincome_25to29999,Households,Household Income,P052006
+554,"Household Income 30,000 to 34,999",hhincome_30to34999,Households,Household Income,P052007
+555,"Household Income 35,000 to 39,999",hhincome_35to39999,Households,Household Income,P052008
+556,"Household Income 40,000 to 44,999",hhincome_40to44999,Households,Household Income,P052009
+557,"Household Income 45,000 to 49,999",hhincome_45to49999,Households,Household Income,P052010
+558,"Household Income 50,000 to 59,999",hhincome_50to59999,Households,Household Income,P052011
+559,"Household Income 60,000 to 74,999",hhincome_60to74999,Households,Household Income,P052012
+560,"Household Income 75,000 to 99,999",hhincome_75to99999,Households,Household Income,P052013
+561,"Household Income 100,000 to 124,999",hhincome_100to124999,Households,Household Income,P052014
+562,"Household Income 125,000 to 149,999",hhincome125to149999,Households,Household Income,P052015
+563,"Household Income 150,000 to 199,999",hhincome150to199999,Households,Household Income,P052016
+564,"Household Income 200,000 or More",hhincome200ormore,Households,Household Income,P052017
+565,Total Geographic Mobility in the Past 5 Years Series,geo_movedbetween1995and2000_total_series,Geographic Mobility,Moved,P024001
+566,Geographic Mobility in the Past 5 Years Didn't Move,geo_1995to2000_didntmove,Geographic Mobility,Moved,P024002
+567,Geographic Mobility in the Past 5 Years Moved,geo_1995to2000_moved,Geographic Mobility,Moved,P024003
+568,Geographic Mobility in the Past 5 Years Moved from Same County,geo_1995to2000_movedsamecounty,Geographic Mobility,Moved,P024005
+569,Geographic Mobility in the Past 5 Years Moved from Different County Same State,geo_1995to2000_moveddifferentcountysamestate,Geographic Mobility,Moved,P024007
+570,Geographic Mobility in the Past 5 Years Moved from Different State,geo_1995to2000_moveddifferentstate,Geographic Mobility,Moved,P024008
+571,Geographic Mobility in the Past 5 Years Moved from Abroad,geo_1995to2000_movedfromabroad,Geographic Mobility,Moved,P024018
+572,Foreign Born: Foreign Born Citizenship Status Total Series,fb_foreignborn_citizenship_total_series,Population,Foreign Born Population,P021013
+573,"Foreign Born: Foreign Born, Naturalized Citizen",fb_foreignborn_naturalizeduscitizen,Population,Foreign Born Population,P021014
+574,"Foreign Born: Foreign Born, Not a Citizen",fb_foreignborn_notauscitizen,Population,Foreign Born Population,P021015
