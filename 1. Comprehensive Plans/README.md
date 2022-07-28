@@ -63,35 +63,56 @@ From the *2010 Decennial SF1*
 + H4: Tenure **Note some change in variables between 2000 and 2010**  
 + P18: Household Type **Note some change in variables between 2000 and 2010**  
 
-From the *2010 American Community Survey 5-Year Estimates*
+From the *2006 - 2010 American Community Survey 5-Year Estimates*
 **
-+
-
-From the *American Community Survey 5-Year Estimates*  
-+ B01001_001E Series: Age by Sex  
-+ B01001A - I Series: Race and Ethnicity  
++ Variable B01001_001E: Total population  
 + Variable B25010_001E: Average Household Size  
-+ B27001 Series: Healthcare Coverage by Age and Sex  
-+ B27002 Series: Private Healthcare Coverage by Age and Sex  
-+ B27003 Series: Public Healthcare Coverage by Age and Sex  
-+ Variable B25001_001E: Total Housing Units  
-+ B25002 Series: Occupancy  
-+ B25003 Series: Tenure  
++ B17001 Series: Poverty Status in the Past 12 Months by Sex by Age  
 + B25024 Series: Units in Structure  
-+ B11001 Series: Household Type  
-+ Variable B19013_001E: Median Household Income  
-+ B25091 Series: Cost Burden by Tenure  
-+ B25097 Series: Home Value  
++ B11001 Series: Household Type (Including Living Alone)
++ Variable B19013_001E: Median Household Income in the Past 12 Months (in 2010 Inflation-Adjusted Dollars)  
++ B19001 Series: Household Income in the Past 12 Months (in 2010 Inflation-Adjusted Dollars)  
++ B25091 Series: Mortgage Status by Selected Monthly Owner Costs as a Percentage of Household Income in the Past 12 Months  
++ B25070 Series: Gross Rent as a Percentage of Household Income in the Past 12 Months  
++ B08006 Series: Sex of Workers by Means of Transportation to Work  
++ B05006 Series: Place of Birth for the Foreign-Born Population in the United States  
++ B08128 Series: Means of Transportation to Work by Class of Worker  
++ B23001 Series: Sex by Age by Employment Status for the Population 16 Years and Over  
++ Variable B19301_001E: Per Capita Income in the Past 12 Months (in 2010 Inflation-Adjusted Dollars)  
++ B07001 Series: Geographical Mobility in the Past Year by Age for Current Residence in the United States  
++ B25044 Series: Tenure by Vehicles Available  
++ C24030 Series: Sex by Industry for the Civilian Employed Population 16 and Over  
++ C24010 Series: Sex by Occupation for the Civilian Employed Population 16 and Over  
++ B16004 Series: Age by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over  
++ B21001 Series: Sex by Age by Veteran Status for the Civilian Population 18 Years and Over  
++ C08134 Series: Means of Transportation to Work by Travel Time to Work  
++ B08511 Series: Means of Transportation to Work by Citizenship Status for Workplace Geography  
++ B15002 Series: Sex by Educational Attainment for the Population 25 Years and Over  
+
+From the *2020 Decennial P.L. Redistricting Estimates*  
++ Series P1: Race
++ Series P2: Ethnicity  
++ Series H1: Occupancy Status  
+
+From the *2016 - 2020 American Community Survey 5-Year Estimates*  
+This data pull includes all of the series and variables from the 2006 - 2010 ACS 5 Year Estimate. If the table changed between estimates, the new series is included below, as well as new data:    
++ B01001_001E Series: Sex by Age
++ B01001Series: Sex by Age by Race and Ethnicity
++ B27001 Series: Health Insurance Coverage Status by Sex by Age  
++ B27002 Series: Private Healthcare Coverage by Sex by Age  
++ Variable B25001_001E: Housing Units    
++ B25003 Series: Tenure
++ B25097_001E Series: Mortgage Status by Median Value (Dollars)  
++ Variable B25064_001E: Median Gross Rent (Dollars)  
 + B25034 Series: Year Structure Built  
-+ B08006 Series: Commute Mode  
-+ B08014 Series: Vehicles  
-+ B05006 Series: Place or Origin for Foreign-Born Population  
-+ B16007 Series: Language Spoken at Home by Age Population 5+  
-+ B15003 Series: Educational Attainment  
-+ B08128 Series: Class of Worker  
-+ B23001 Series: Labor Force Status for the Civilian Population by Sex  
-+ Variable B19301_001E: Per Capita Personal Income in the Past 12 Months  
-+ B07001 Series: Geographic Mobility in the Past Year by Age  
-+ B25044 Series: Vehicles by Tenure  
-+ C24030 Series: Industry Employment  
-+ C24010 Series: Occupational Employment  
++ B15003 Series: Educational Attainment for the Population 25 Years and Over  
++ B08128 Series: Means of Transportation to Work by Class of Worker  
++ B18101 Series: Sex by Age by Disability Status  
++ B18102 Series: Sex by Age by Hearing Difficulty  
++ B18103 Series: Sex by Age by Vision Difficulty  
++ B18104 Series: Sex by Age by Cognitive Difficulty  
++ B18105 Series: Sex by Age by Ambulatory Difficulty  
++ B18106 Series: Sex by Age by Self-Care Difficulty  
++ C18108 Series: Age by Number of Disabilities    
++ B18107 Series: Sex by Age by Independent Living Difficulty  
++ B08134 Series: Means of Transportation to Work by Travel Time to Work
