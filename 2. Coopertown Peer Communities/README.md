@@ -105,9 +105,9 @@ These also have some variation in long term growth. With an opportunity for furt
 
 Find screenshots of these Folium maps below. Then, find links where you are able to interact with the maps here:
 
-+ <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.org/github/Greater-Nashville-Regional-Council/Regional-Planning/blob/main/Coopertown%20Peer%20Communities/notebooks/5.%20Mapping%20All%20Places%2C%20Points.ipynb">All Places, Points</a>.
-+ <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.org/github/Greater-Nashville-Regional-Council/Regional-Planning/blob/main/Coopertown%20Peer%20Communities/notebooks/5.%20Mapping%20All%20Places.ipynb">All Places, Polygons</a>.  
-+ <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.org/github/Greater-Nashville-Regional-Council/Regional-Planning/blob/main/Coopertown%20Peer%20Communities/notebooks/6.%20Mapping%20Tennessee%20Places.ipynb" target = "blank">All Tennessee Places</a>.
++ <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.org/github/Greater-Nashville-Regional-Council/Regional-Planning/blob/main/2.%20Coopertown%20Peer%20Communities/notebooks/5.%20Mapping%20All%20Places%2C%20Points.ipynb">All Places, Points</a>.
++ <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.org/github/Greater-Nashville-Regional-Council/Regional-Planning/blob/main/2.%20Coopertown%20Peer%20Communities/notebooks/5.%20Mapping%20All%20Places.ipynb">All Places, Polygons</a>.  
++ <a target="_blank" rel="noopener noreferrer" href="https://nbviewer.org/github/Greater-Nashville-Regional-Council/Regional-Planning/blob/main/2.%20Coopertown%20Peer%20Communities/notebooks/6.%20Mapping%20Tennessee%20Places.ipynb" target = "blank">All Tennessee Places</a>.
 
 First, beginning with the places in all of the US that were left over after parameters were enforced, the clusters emerging from the K-Means algorithm in the Southeast US are below. Given the large scale it's difficult to see the colors when examining the entire map.
 
