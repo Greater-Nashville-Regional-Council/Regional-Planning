@@ -23,4 +23,4 @@ This Open Street Maps data is incomplete, but useful for getting an idea of the 
 
 The clear hotspot for dropoffs is located around the Vanderbilt/Midtown hospital area, but beyond that without the establishment people are being dropped off at the analysis is relatively inconclusive.  
 
-However, looking at the interactive map is interesting and kind of informative, here is a jupyternb version to interact with: <a href = "https://nbviewer.org/github/Greater-Nashville-Regional-Council/Regional-Planning/blob/main/Coordinated%20Human%20Services%20Open%20Street%20Maps%20Analysis/notebooks/Access%20Rides%20Dropoffs%20Map.ipynb">Here</a>
+However, looking at the interactive map is interesting and kind of informative, here is a jupyternb version to interact with: <a href = "https://nbviewer.org/github/Greater-Nashville-Regional-Council/Regional-Planning/blob/main/Coordinated%20Human%20Services%20Open%20Street%20Maps%20Analysis/notebooks/Access%20Rides%20Map.ipynb">Here</a>
